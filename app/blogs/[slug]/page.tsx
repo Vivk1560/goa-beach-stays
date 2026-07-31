@@ -132,7 +132,7 @@ export default async function BlogDetailPage({ params }: BlogPageProps) {
           </Link>
 
           <div className="relative mt-6 aspect-[16/9] overflow-hidden rounded-2xl">
-            <Image src={post.coverImage} alt={post.title} fill priority className="object-cover" />
+            <Image src={post.coverImage} alt={post.title} fill priority sizes="(max-width: 768px) 100vw, 768px" className="object-cover" />
           </div>
 
           <div className="mt-6 flex items-center gap-4 text-sm text-muted-foreground">
@@ -163,7 +163,6 @@ export default async function BlogDetailPage({ params }: BlogPageProps) {
 
           <div className="mt-2">{bodyBlocks.map((block, i) => renderBlock(block, i))}</div>
 
-          {/* Related stays from this article */}
           {relatedStays.length > 0 && (
             <section aria-labelledby="related-stays-heading" className="mt-14">
               <h2 id="related-stays-heading" className="font-heading text-2xl font-semibold text-foreground">
