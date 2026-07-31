@@ -1,0 +1,146 @@
+import type { Stay } from "@/types/stay"
+import type { BlogPost } from "@/types/blog"
+import { siteConfig } from "./site-config"
+import { avgRating } from "./stays"
+
+const BASE = siteConfig.domain
+
+export function organizationSchema() {
+  return {
+    "@context": "https://schema.org",
+    "@type": "TravelAgency",
+    name: siteConfig.name,
+    description: siteConfig.description,
+    url: BASE,
+    logo: `${BASE}/images/logo/logo-main.png`,
+    image: `${BASE}/images/homepage/hero.png`,
+    telephone: siteConfig.contact.callNumber,
+    email: siteConfig.contact.email,
+    areaServed: { "@type": "State", name: "Goa, India" },
+    sameAs: [siteConfig.social.instagram, siteConfig.social.facebook],
+  }
+}
+
+export function websiteSchema() {
+  return {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: siteConfig.name,
+    url: BASE,
+    potentialAction: {
+      "@type": "SearchAction",
+      target: `${BASE}/all-stays?q={search_term_string}`,
+      "query-input": "required name=search_term_string",
+    },
+  }
+}
+
+export function breadcrumbSchema(items: { name: string; url: string }[]) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: items.map((item, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      name: item.name,
+      item: `${BASE}${item.url}`,
+    })),
+  }
+}
+
+/**
+ * VacationRental JSON-LD per SRS A1.
+ * Fixed: previously emitted "@type": "LodgingBusiness" (a deviation flagged
+ * in the status tracker). Corrected to "VacationRental" as the spec requires,
+ * since Google's review/aggregateRating rich-result eligibility for rentals
+ * is keyed off this exact type.
+ */
+export function vacationRentalSchema(stay: Stay) {
+  const rating = avgRating(stay.reviews)
+  return {
+    "@context": "https://schema.org",
+    "@type": "VacationRental",
+    name: stay.name,
+    description: stay.description.long,
+    url: `${BASE}/stays/${stay.slug}`,
+    telephone: siteConfig.contact.callNumber,
+    image: [stay.images.cover, ...stay.images.gallery.slice(0, 2)].map((p) => `${BASE}${p}`),
+    priceRange: `₹${stay.pricing.displayPrice} – per night`,
+    checkinTime: "12:00",
+    checkoutTime: "11:00",
+    numberOfRooms: stay.rooms,
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: stay.location.address,
+      addressLocality: stay.location.area,
+      addressRegion: "Goa",
+      postalCode: stay.location.postalCode,
+      addressCountry: "IN",
+    },
+    geo: {
+      "@type": "GeoCoordinates",
+      latitude: stay.location.coordinates.lat,
+      longitude: stay.location.coordinates.lng,
+    },
+    amenityFeature: stay.amenities.map((a) => ({
+      "@type": "LocationFeatureSpecification",
+      name: a,
+      value: true,
+    })),
+    offers: {
+      "@type": "Offer",
+      price: stay.pricing.displayPrice,
+      priceCurrency: stay.pricing.currency,
+      availability: "https://schema.org/InStock",
+    },
+    ...(stay.reviews.length
+      ? {
+          aggregateRating: {
+            "@type": "AggregateRating",
+            ratingValue: rating,
+            reviewCount: stay.reviews.length,
+            bestRating: "5",
+            worstRating: "1",
+          },
+          review: stay.reviews.map((r) => ({
+            "@type": "Review",
+            author: { "@type": "Person", name: r.name },
+            datePublished: r.date,
+            reviewRating: { "@type": "Rating", ratingValue: r.rating, bestRating: "5" },
+            reviewBody: r.review,
+          })),
+        }
+      : {}),
+  }
+}
+
+export function faqSchema(faqs: { question: string; answer: string }[]) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqs.map((f) => ({
+      "@type": "Question",
+      name: f.question,
+      acceptedAnswer: { "@type": "Answer", text: f.answer },
+    })),
+  }
+}
+
+export function articleSchema(post: BlogPost) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    headline: post.title,
+    description: post.excerpt,
+    image: `${BASE}${post.coverImage}`,
+    datePublished: post.publishDate,
+    dateModified: post.publishDate,
+    author: { "@type": "Organization", name: siteConfig.name },
+    publisher: {
+      "@type": "Organization",
+      name: siteConfig.name,
+      logo: { "@type": "ImageObject", url: `${BASE}/images/logo/logo-main.png` },
+    },
+    mainEntityOfPage: `${BASE}/blogs/${post.slug}`,
+  }
+}

@@ -1,0 +1,113 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+@import 'shadcn/tailwind.css';
+
+/*
+  Goa Beach Stays — "Tropical Heritage" design system
+  Primary  : Deep Forest Green  #1B4332
+  Accent   : Warm Terracotta    #D4904A
+  Warm tint: Cream              #FDE8D8
+  Headings : Playfair Display | Body: Inter | Accent: Cormorant Garamond italic
+*/
+
+@theme inline {
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-heading: var(--font-playfair), Georgia, serif;
+  --font-serif: var(--font-cormorant), Georgia, serif;
+  --font-mono: ui-monospace, monospace;
+
+  /* Brand tokens */
+  --color-brand-green: var(--brand-green);
+  --color-brand-green-soft: var(--brand-green-soft);
+  --color-terracotta: var(--terracotta);
+  --color-terracotta-dark: var(--terracotta-dark);
+  --color-warm-tint: var(--warm-tint);
+  --color-green-light: var(--green-light);
+
+  /* shadcn semantic token bindings */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+:root {
+  color-scheme: light;
+  --radius: 0.625rem;
+
+  /* Raw brand palette */
+  --brand-green: #1b4332;
+  --brand-green-soft: #2d6a4f;
+  --terracotta: #d4904a;
+  --terracotta-dark: #b97636;
+  --warm-tint: #fde8d8;
+  --green-light: #d1fae5;
+
+  /* Semantic tokens */
+  --background: #fffdf9;
+  --foreground: #1a1a1a;
+  --card: #ffffff;
+  --card-foreground: #1a1a1a;
+  --popover: #ffffff;
+  --popover-foreground: #1a1a1a;
+  --primary: #1b4332;
+  --primary-foreground: #ffffff;
+  --secondary: #fde8d8;
+  --secondary-foreground: #1b4332;
+  --muted: #f4f1ec;
+  --muted-foreground: #6b7280;
+  --accent: #d4904a;
+  --accent-foreground: #ffffff;
+  --destructive: oklch(0.577 0.245 27.325);
+  --border: #e7e1d8;
+  --input: #e7e1d8;
+  --ring: #d4904a;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-family: var(--font-sans);
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-heading);
+  }
+}
+
+/* Utility: hide scrollbar for horizontal scroll rows */
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
