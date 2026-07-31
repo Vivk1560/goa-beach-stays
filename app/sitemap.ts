@@ -1,3 +1,4 @@
+// app/sitemap.ts
 import type { MetadataRoute } from "next"
 import { siteConfig } from "@/lib/site-config"
 import { getAllStays } from "@/lib/stays"
@@ -18,6 +19,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE}/guest-experiences`, changeFrequency: "weekly", priority: 0.5 },
     { url: `${BASE}/about-us`, changeFrequency: "monthly", priority: 0.6 },
     { url: `${BASE}/contact-us`, changeFrequency: "monthly", priority: 0.6 },
+    // /privacy-policy and /terms-of-service are intentionally excluded here —
+    // they're Disallow'd in public/robots.txt and shouldn't be indexed.
   ]
 
   const stayRoutes: MetadataRoute.Sitemap = getAllStays().map((stay) => ({
@@ -40,5 +43,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }))
 
-  return [...staticRoutes, ...stayRoutes, ...blogRoutes, ...semanticRoutes]
+  const allRoutes = [...staticRoutes, ...stayRoutes, ...blogRoutes, ...semanticRoutes]
+
+  // Defensive de-dup: if any future data entry ever produces a URL that
+  // collides with another (e.g. a semantic-page slug matching a stay or
+  // blog slug), keep only the first occurrence so the sitemap never
+  // emits the same URL twice.
+  const seen = new Set<string>()
+  return allRoutes.filter((route) => {
+    if (seen.has(route.url)) return false
+    seen.add(route.url)
+    return true
+  })
 }
