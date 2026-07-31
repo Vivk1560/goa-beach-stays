@@ -33,21 +33,14 @@ export default function GuestExperiencesPage() {
         </p>
       </header>
 
-      {/* Moments strip */}
       <div className="mt-8 grid grid-cols-2 gap-3 sm:grid-cols-4">
         {moments.map((stay) => (
           <div key={stay.slug} className="relative aspect-square overflow-hidden rounded-xl">
-            <Image
-              src={stay.images.cover}
-              alt={`Guests at ${stay.name}`}
-              fill
-              className="object-cover transition-transform duration-300 hover:scale-105"
-            />
+            <Image src={stay.images.cover} alt={`Guests at ${stay.name}`} fill sizes="(max-width: 640px) 50vw, 25vw" className="object-cover transition-transform duration-300 hover:scale-105" />
           </div>
         ))}
       </div>
 
-      {/* Verified reviews */}
       {verifiedReviews.length > 0 && (
         <div className="mt-12 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {verifiedReviews.map((review) => (
@@ -56,7 +49,6 @@ export default function GuestExperiencesPage() {
         </div>
       )}
 
-      {/* Share your experience CTA */}
       <section className="mt-14 rounded-2xl bg-primary px-6 py-10 text-center">
         <h2 className="font-heading text-2xl font-semibold text-primary-foreground md:text-3xl">
           Just checked out? Share your experience.
@@ -64,12 +56,7 @@ export default function GuestExperiencesPage() {
         <p className="mx-auto mt-2 max-w-md text-primary-foreground/80">
           Send us a photo or a few lines on WhatsApp — we'd love to feature your stay here.
         </p>
-        
-        <a  href={whatsappUrl("Hi, I stayed with Goa Beach Stays and wanted to share my experience!")}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="mt-6 inline-block rounded-full bg-accent px-8 py-3 text-sm font-semibold text-accent-foreground transition-transform hover:scale-105"
-        >
+        <a href={whatsappUrl("Hi, I stayed with Goa Beach Stays and wanted to share my experience!")} target="_blank" rel="noopener noreferrer" className="mt-6 inline-block rounded-full bg-accent px-8 py-3 text-sm font-semibold text-accent-foreground transition-transform hover:scale-105">
           Share on WhatsApp
         </a>
       </section>

@@ -10,12 +10,7 @@ export function AboutAgentSection() {
     <section className="mx-auto max-w-7xl px-4 py-16 lg:px-8">
       <div className="grid grid-cols-1 items-center gap-10 md:grid-cols-2">
         <div className="relative aspect-[4/3] overflow-hidden rounded-2xl">
-          <Image
-            src="/images/homepage/about-owner.png"
-            alt={`${siteConfig.ownerName}, founder of ${siteConfig.name}`}
-            fill
-            className="object-cover"
-          />
+          <Image src="/images/homepage/about-owner.png" alt={`${siteConfig.ownerName}, founder of ${siteConfig.name}`} fill sizes="(max-width: 768px) 100vw, 50vw" className="object-cover" />
         </div>
         <div>
           <p className="font-serif text-lg italic text-accent">Your Goa Travel & Stay Expert</p>
@@ -33,19 +28,11 @@ export function AboutAgentSection() {
             actually fits — not just whatever has availability.
           </p>
           <div className="mt-8 flex flex-wrap items-center gap-4">
-            <a
-              href={enquiryHref}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 rounded-full bg-primary px-6 py-3 text-sm font-semibold text-primary-foreground transition-transform hover:scale-105"
-            >
+            <a href={enquiryHref} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 rounded-full bg-primary px-6 py-3 text-sm font-semibold text-primary-foreground transition-transform hover:scale-105">
               <MessageCircle className="size-4" aria-hidden="true" />
               Chat With Us on WhatsApp
             </a>
-            <Link
-              href="/about-us"
-              className="inline-flex items-center gap-1 text-sm font-semibold text-accent hover:underline"
-            >
+            <Link href="/about-us" className="inline-flex items-center gap-1 text-sm font-semibold text-accent hover:underline">
               More About Us
               <ArrowRight className="size-4" aria-hidden="true" />
             </Link>
