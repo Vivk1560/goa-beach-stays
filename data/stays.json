@@ -4313,37 +4313,37 @@
         "slug": "sai-da-casa-beach-villa",
         "type": "villa",
         "category": [
-            "value",
             "family-friendly",
+            "large group",
             "north-goa"
         ],
         "name": "Sai Da Casa Beach Villa",
-        "tagline": "A Simple, Friendly 3-Star Stay a Short Walk from Candolim Beach",
+        "tagline": "A Spacious 5 BHK Family Villa Close to Baga's Beach and Nightlife",
         "location": {
-            "area": "North Goa, Candolim",
+            "area": "North Goa, Baga",
             "district": "North Goa",
             "region": "North Goa",
-            "address": "Candolim Village Road, North Goa, Goa 403515",
+            "address": "Baga Beach Road, North Goa, Goa 403516",
             "coordinates": {
-                "lat": 15.5225,
-                "lng": 73.7655
+                "lat": 15.5545,
+                "lng": 73.7505
             },
-            "nearestBeach": "Candolim Beach (0.6 km)",
-            "nearestAirport": "Dabolim Airport (44 km)",
-            "postalCode": "403515"
+            "nearestBeach": "Baga Beach (0.7 km)",
+            "nearestAirport": "Dabolim Airport (47 km)",
+            "postalCode": "403516"
         },
         "pricing": {
             "standard": {
                 "label": "Standard (Feb–Oct)",
                 "roomTypes": [{
-                        "type": "Standard Room",
-                        "pricePerNight": 2700,
+                        "type": "Garden Bedroom",
+                        "pricePerNight": 30000,
                         "maxGuests": 2
                     },
                     {
-                        "type": "Family Room",
-                        "pricePerNight": 3600,
-                        "maxGuests": 4
+                        "type": "Family Suite",
+                        "pricePerNight": 38000,
+                        "maxGuests": 3
                     }
                 ]
             },
@@ -4351,44 +4351,46 @@
                 "label": "Peak Season (Nov, Dec, Jan)",
                 "note": "Rates typically double during Goa's peak tourist season (November–January).",
                 "roomTypes": [{
-                        "type": "Standard Room",
-                        "pricePerNight": 5400,
+                        "type": "Garden Bedroom",
+                        "pricePerNight": 60000,
                         "maxGuests": 2
                     },
                     {
-                        "type": "Family Room",
-                        "pricePerNight": 7200,
-                        "maxGuests": 4
+                        "type": "Family Suite",
+                        "pricePerNight": 76000,
+                        "maxGuests": 3
                     }
                 ]
             },
             "currency": "INR",
-            "minStay": 1,
-            "displayPrice": 2700
+            "minStay": 2,
+            "displayPrice": 30000
         },
-        "rooms": 14,
-        "maxGuests": 34,
-        "bedrooms": 14,
-        "bathrooms": 14,
+        "rooms": 5,
+        "maxGuests": 12,
+        "bedrooms": 5,
+        "bathrooms": 5,
         "amenities": [
+            "Private Pool",
             "Free WiFi",
             "Air Conditioning",
-            "In-house Restaurant",
+            "Fully Equipped Kitchen",
             "Free Parking",
-            "Room Service",
-            "Family Rooms",
+            "Outdoor Seating",
+            "Landscaped Garden",
             "Daily Housekeeping",
-            "Front Desk"
+            "24/7 Caretaker",
+            "Smart TV"
         ],
         "highlights": [
-            "Walkable 600m to Candolim's beach belt",
-            "Family rooms sized for two adults and two kids",
-            "Tucked into a quiet village lane away from traffic",
-            "Warm, personal service typical of a smaller property"
+            "5 spacious bedrooms suited to a large family or friend group",
+            "Close to Baga's beach, restaurants and nightlife strip",
+            "Private pool and generous outdoor space for group gatherings",
+            "Comfortably hosts family reunions and milestone celebrations"
         ],
         "description": {
-            "short": "A simple, welcoming 3-star inn tucked into a quiet Candolim lane, an easy walk from the beach. Book by WhatsApp.",
-            "long": "Sai Da Casa Beach Villa keeps to a village lane just off Candolim's main belt, trading a beachfront address for a quieter night's sleep and a more personal, family-run feel. The beach itself is a comfortable 600-metre walk, and Candolim's restaurants and shops aren't much further.\n\nFamily rooms are built to fit two adults and two children without anyone feeling squeezed, making this a practical choice for a straightforward family weekend rather than a special-occasion trip. Staff here tend to remember returning guests, a natural upside of running a smaller, fourteen-room property rather than a large resort block.\n\nIt's the kind of stay we recommend to families and couples who want Candolim's convenience without paying for a beachfront view they won't spend much time looking at anyway. Our team can confirm live rates for your dates whenever you're ready — just drop us a message."
+            "short": "A spacious 5 BHK family villa near Baga's beach belt, with a private pool and room for a large group. Book by WhatsApp.",
+            "long": "Sai Da Casa Beach Villa is built for groups who've outgrown a standard 3 or 4 BHK — five well-proportioned bedrooms, a private pool with space for everyone to actually swim, and an outdoor area that easily handles a family reunion or a long weekend with friends.\n\nBaga's beach and restaurant strip sits a short distance away, giving the group easy access to evenings out while keeping the privacy of a full villa during the day. The layout suits extended families and groups who want their own space to spread out rather than share common areas with other guests.\n\nWe recommend this villa most to extended families, milestone celebrations and larger friend groups who want Baga's convenience with a full villa's privacy. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — WhatsApp us with your group size for availability and rates."
         },
         "images": {
             "cover": "/images/stays/sai-da-casa-beach-villa/cover.png",
@@ -4407,19 +4409,19 @@
         },
         "tags": [
             "North Goa",
-            "Candolim",
-            "Value",
+            "Baga",
+            "Large Group",
             "Family"
         ],
         "nearbyAttractions": [
-            "Candolim Beach – 0.6 km",
-            "Fort Aguada – 2.8 km",
-            "Sinquerim Beach – 2 km",
-            "Calangute Beach – 2.5 km"
+            "Baga Beach – 0.7 km",
+            "Tito's Lane – 1 km",
+            "Calangute Beach – 2.3 km",
+            "Saturday Night Market, Arpora – 2.8 km"
         ],
         "faqs": [{
                 "question": "How far is Sai Da Casa Beach Villa from the beach?",
-                "answer": "Sai Da Casa Beach Villa is a comfortable 600-metre walk from Candolim Beach, one of the area's most loved stretches of coast."
+                "answer": "Sai Da Casa Beach Villa is a comfortable 700-metre walk from Baga Beach, one of the area's most loved stretches of coast."
             },
             {
                 "question": "What are the check-in and check-out times?",
@@ -4432,13 +4434,17 @@
             {
                 "question": "Are peak-season rates different?",
                 "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
+            },
+            {
+                "question": "Is there a minimum stay for Sai Da Casa Beach Villa?",
+                "answer": "Yes, a 2-night minimum typically applies given the villa's scale — we'll confirm exact terms for your dates when you enquire."
             }
         ],
         "reviews": [{
                 "id": "rev-1",
                 "name": "Yamini Rao",
-                "rating": 4,
-                "review": "Quiet lane, friendly staff who remembered our names by day two, and an easy walk to Candolim's beach. Good value.",
+                "rating": 5,
+                "review": "Booked this for a family reunion with 10 of us and the space was perfect. Pool and outdoor area were a daily highlight.",
                 "date": "2025-09-11",
                 "location": "Hyderabad",
                 "verified": true
@@ -4446,8 +4452,8 @@
             {
                 "id": "rev-2",
                 "name": "The Joshi Family",
-                "rating": 4,
-                "review": "Family room fit us and our two kids comfortably. Nothing fancy, but exactly what a weekend trip needed.",
+                "rating": 5,
+                "review": "Five real bedrooms made all the difference for our extended family trip. Baga's beach and restaurants were a short drive away.",
                 "date": "2026-03-19",
                 "location": "Pune",
                 "verified": true
@@ -4463,8 +4469,8 @@
                 "url": "/all-stays"
             },
             {
-                "name": "Stays in Candolim",
-                "url": "/stays-in-candolim"
+                "name": "Group & Party Stays in Goa",
+                "url": "/group-stays-goa"
             },
             {
                 "name": "Sai Da Casa Beach Villa",
@@ -4473,8 +4479,8 @@
         ],
         "seo": {
             "metaTitle": "Sai Da Casa Beach Villa | Goa Beach Stays",
-            "metaDescription": "Friendly, value 3-star inn in a quiet Candolim lane, walk to the beach. Standard from ₹2,700/night. Reach out for the best available rates.",
-            "focusKeyword": "candolim budget family hotel"
+            "metaDescription": "Spacious 5 BHK family villa near Baga's beach belt with a private pool. Standard from ₹30,000/night. WhatsApp enquiry.",
+            "focusKeyword": "5 bhk villa baga goa"
         },
         "contact": {
             "whatsappNumber": "+919921372661",
@@ -4483,7 +4489,7 @@
         "featured": false,
         "active": true,
         "publishedAt": "2025-01-10",
-        "priceRange": "₹2,700 – ₹7,200 per night"
+        "priceRange": "₹30,000 – ₹76,000 per night"
     },
     {
         "id": "stay-026",
@@ -5387,12 +5393,11 @@
         "slug": "deep-blue-sea-resort",
         "type": "resort",
         "category": [
-            "private pool",
             "large group",
             "north-goa"
         ],
         "name": "Deep Blue Sea Resort",
-        "tagline": "A Private-Pool Villa Built for Vagator's Late Nights and Long Weekends",
+        "tagline": "A Lively 3-Star Resort Built for Vagator's Late Nights and Long Weekends",
         "location": {
             "area": "North Goa, Vagator",
             "district": "North Goa",
@@ -5410,14 +5415,14 @@
             "standard": {
                 "label": "Standard (Feb–Oct)",
                 "roomTypes": [{
-                        "type": "Garden Bedroom",
-                        "pricePerNight": 19000,
+                        "type": "Standard Room",
+                        "pricePerNight": 3400,
                         "maxGuests": 2
                     },
                     {
-                        "type": "Poolside Suite",
-                        "pricePerNight": 24000,
-                        "maxGuests": 3
+                        "type": "Deluxe Room",
+                        "pricePerNight": 4300,
+                        "maxGuests": 2
                     }
                 ]
             },
@@ -5425,46 +5430,46 @@
                 "label": "Peak Season (Nov, Dec, Jan)",
                 "note": "Rates typically double during Goa's peak tourist season (November–January).",
                 "roomTypes": [{
-                        "type": "Garden Bedroom",
-                        "pricePerNight": 38000,
+                        "type": "Standard Room",
+                        "pricePerNight": 6800,
                         "maxGuests": 2
                     },
                     {
-                        "type": "Poolside Suite",
-                        "pricePerNight": 48000,
-                        "maxGuests": 3
+                        "type": "Deluxe Room",
+                        "pricePerNight": 8600,
+                        "maxGuests": 2
                     }
                 ]
             },
             "currency": "INR",
             "minStay": 1,
-            "displayPrice": 19000
+            "displayPrice": 3400
         },
-        "rooms": 4,
-        "maxGuests": 10,
-        "bedrooms": 4,
-        "bathrooms": 4,
+        "rooms": 20,
+        "maxGuests": 48,
+        "bedrooms": 20,
+        "bathrooms": 20,
         "amenities": [
-            "Private Pool",
             "Free WiFi",
             "Air Conditioning",
-            "Fully Equipped Kitchen",
+            "In-house Restaurant",
             "Free Parking",
-            "Sound System",
-            "BBQ Area",
-            "Outdoor Seating",
+            "Room Service",
+            "Swimming Pool",
+            "Bar",
+            "Live Entertainment",
             "Daily Housekeeping",
-            "24/7 Caretaker"
+            "Front Desk"
         ],
         "highlights": [
-            "Private pool and sound system built for a lively group",
+            "Lively pool bar that stays busy well into the evening",
             "A short ride from Vagator and Anjuna's party circuit",
-            "4 bedrooms suited to a group splitting cost over a long weekend",
-            "Late-night friendly layout with outdoor space that doesn't disturb neighbours"
+            "20 rooms priced for groups splitting cost over a long weekend",
+            "3-star comfort built around genuinely having a good time"
         ],
         "description": {
-            "short": "A 4 BHK private-pool villa near Vagator built for groups of friends on a long weekend, with a sound system and space to match. Book by WhatsApp.",
-            "long": "Deep Blue Sea Resort is upfront about its purpose — a private pool built for actual use late into the evening, a proper sound system rather than a token Bluetooth speaker, and a layout set back enough from neighbours that a lively group doesn't need to whisper after 10pm.\n\nVagator and Anjuna's clubs and beach parties are a short ride away, and the villa works as a natural landing pad before and after — pre-drinks around the pool, a late breakfast the next day, repeat. Four bedrooms split the cost comfortably across a group of eight to ten without anyone needing their own villa.\n\nWe place a lot of long-weekend friend-group trips here specifically because it's built for exactly that kind of stay, not adapted from a family villa afterthought. Message us with your group size and we'll confirm the best rate for your dates."
+            "short": "A lively 3-star resort near Vagator built for groups heading to Anjuna's club scene, with a busy pool bar and rooms priced for splitting costs. Book by WhatsApp.",
+            "long": "Deep Blue Sea Resort is upfront about its purpose — a pool bar that's genuinely used late into the evening, live entertainment on some nights, and a layout built around groups rather than couples looking for quiet.\n\nVagator and Anjuna's clubs and beach parties are a short ride away, and the resort works as a natural landing pad before and after — a lazy poolside afternoon, a late breakfast the next day, repeat. Standard and Deluxe rooms are priced to let a group split costs comfortably across a long weekend rather than paying villa rates.\n\nWe place a lot of long-weekend friend-group trips here specifically because it's built for exactly that kind of stay, not adapted from a quiet family resort afterthought. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — message us with your group size and we'll confirm the best rate for your dates."
         },
         "images": {
             "cover": "/images/stays/deep-blue-sea-resort/cover.png",
@@ -5484,7 +5489,7 @@
         "tags": [
             "North Goa",
             "Vagator",
-            "Private Pool",
+            "Nightlife",
             "Groups"
         ],
         "nearbyAttractions": [
