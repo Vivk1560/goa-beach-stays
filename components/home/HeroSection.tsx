@@ -17,10 +17,10 @@ export function HeroSection() {
           Luxury villas, boutique resorts &amp; private cottages across Goa&apos;s finest beaches
         </p>
         <div className="mt-8 flex flex-wrap items-center justify-center gap-4">
-          <Link href="/villas" className="rounded-full bg-accent px-7 py-3 text-sm font-semibold text-accent-foreground shadow-md transition-transform hover:scale-105">
+          <Link href="/villas" className="rounded-full bg-accent px-7 py-3 text-sm font-semibold text-accent-foreground shadow-md transition-all duration-200 ease-out hover:scale-105 hover:shadow-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2 focus-visible:ring-offset-black/40">
             Explore Villas
           </Link>
-          <a href={whatsappHref} target="_blank" rel="noopener noreferrer" className="rounded-full border border-white px-7 py-3 text-sm font-semibold text-white transition-colors hover:bg-white hover:text-primary">
+          <a href={whatsappHref} target="_blank" rel="noopener noreferrer" className="rounded-full border border-white px-7 py-3 text-sm font-semibold text-white transition-colors duration-200 hover:bg-white hover:text-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2 focus-visible:ring-offset-black/40">
             WhatsApp Us
           </a>
         </div>

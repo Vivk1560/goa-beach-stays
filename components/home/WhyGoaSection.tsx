@@ -77,7 +77,7 @@ export function WhyGoaSection() {
           {FEATURES.map(({ icon: Icon, heading, description }) => (
             <div
               key={heading}
-              className="rounded-2xl border border-border bg-card p-6 shadow-sm transition-shadow hover:shadow-lg"
+              className="rounded-2xl border border-border bg-card p-6 shadow-sm transition-all duration-300 ease-out hover:-translate-y-1 hover:shadow-lg"
             >
               <span className="flex size-12 items-center justify-center rounded-full bg-primary/10 text-primary">
                 <Icon className="size-6" aria-hidden="true" />
@@ -99,13 +99,13 @@ export function WhyGoaSection() {
           <div className="mt-6 flex flex-wrap items-center justify-center gap-4">
             <Link
               href="/villas"
-              className="inline-flex items-center gap-2 rounded-full bg-primary px-7 py-3 text-sm font-semibold text-primary-foreground shadow-md transition-transform hover:scale-105"
+              className="inline-flex items-center gap-2 rounded-full bg-primary px-7 py-3 text-sm font-semibold text-primary-foreground shadow-md transition-all duration-200 ease-out hover:scale-105 hover:shadow-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
             >
               Browse Villas
             </Link>
             <Link
               href="/resorts"
-              className="inline-flex items-center gap-2 rounded-full border border-primary px-7 py-3 text-sm font-semibold text-primary transition-colors hover:bg-primary hover:text-primary-foreground"
+              className="inline-flex items-center gap-2 rounded-full border border-primary px-7 py-3 text-sm font-semibold text-primary transition-colors duration-200 hover:bg-primary hover:text-primary-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
             >
               Browse Resorts
             </Link>

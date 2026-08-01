@@ -35,13 +35,13 @@ export function Navbar() {
               return (
                 <li key={item.label} className="group relative">
                   <button
-                    className="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium transition-colors hover:bg-white/10"
+                    className="flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium transition-colors duration-200 hover:bg-white/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/70"
                     aria-haspopup="true"
                   >
                     {item.label}
-                    <ChevronDown className="size-3.5 transition-transform group-hover:rotate-180" />
+                    <ChevronDown className="size-3.5 transition-transform duration-200 ease-out group-hover:rotate-180" />
                   </button>
-                  <div className="invisible absolute left-0 top-full grid w-max min-w-[220px] gap-4 rounded-lg bg-card p-4 text-foreground opacity-0 shadow-xl transition-all group-hover:visible group-hover:opacity-100 group-focus-within:visible group-focus-within:opacity-100 sm:grid-cols-2">
+                  <div className="invisible absolute left-0 top-full grid w-max min-w-[220px] gap-4 rounded-lg bg-card p-4 text-foreground opacity-0 shadow-xl transition-all duration-200 ease-out group-hover:visible group-hover:opacity-100 group-focus-within:visible group-focus-within:opacity-100 sm:grid-cols-2">
                     {item.groups.map((group) => (
                       <div key={group.label} className="min-w-[160px]">
                         <p className="mb-2 font-heading text-xs font-semibold uppercase tracking-wide text-muted-foreground">
@@ -52,7 +52,7 @@ export function Navbar() {
                             <li key={child.href}>
                               <Link
                                 href={child.href}
-                                className="block rounded px-2 py-1 text-sm hover:bg-warm-tint hover:text-accent"
+                                className="block rounded px-2 py-1 text-sm transition-colors duration-200 hover:bg-warm-tint hover:text-accent focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
                               >
                                 {child.label}
                               </Link>
@@ -70,7 +70,7 @@ export function Navbar() {
               <li key={item.label}>
                 <Link
                   href={item.href!}
-                  className={`rounded-md px-3 py-2 text-sm font-medium transition-colors hover:bg-white/10 ${
+                  className={`rounded-md px-3 py-2 text-sm font-medium transition-colors duration-200 hover:bg-white/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/70 ${
                     isActive ? 'underline underline-offset-4' : ''
                   }`}
                 >
@@ -85,13 +85,13 @@ export function Navbar() {
           href={whatsappHref}
           target="_blank"
           rel="noopener noreferrer"
-          className="hidden shrink-0 rounded-full bg-accent px-5 py-2.5 text-sm font-semibold text-accent-foreground shadow-sm transition-transform hover:scale-105 hover:bg-terracotta-dark lg:inline-flex"
+          className="hidden shrink-0 rounded-full bg-accent px-5 py-2.5 text-sm font-semibold text-accent-foreground shadow-sm transition-all duration-200 ease-out hover:scale-105 hover:bg-terracotta-dark hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/80 lg:inline-flex"
         >
           WhatsApp Enquiry
         </a>
 
         <button
-          className="inline-flex items-center justify-center rounded-md p-2 lg:hidden"
+          className="inline-flex items-center justify-center rounded-md p-2 transition-colors duration-200 hover:bg-white/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/70 lg:hidden"
           aria-label={mobileOpen ? 'Close menu' : 'Open menu'}
           onClick={() => setMobileOpen((v) => !v)}
         >

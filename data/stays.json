@@ -1284,191 +1284,202 @@
         "priceRange": "₹20,000 – ₹50,000 per night"
     },
     {
-        "id": "stay-008",
-        "slug": "seabreeze-grand-villa-candolim",
-        "type": "villa",
-        "category": [
-            "beachfront",
-            "luxury",
-            "family-friendly",
-            "north-goa"
-        ],
-        "name": "Seabreeze Grand Villa",
-        "tagline": "A Luxurious 4 BHK Villa Just 100 Metres from Candolim Beach",
-        "location": {
-            "area": "North Goa, Candolim",
-            "district": "North Goa",
-            "region": "North Goa",
-            "address": "Candolim Beach Road, Candolim, North Goa, Goa 403515",
-            "coordinates": {
-                "lat": 15.5185,
-                "lng": 73.7639
-            },
-            "nearestBeach": "Candolim Beach (0.1 km)",
-            "nearestAirport": "Dabolim Airport (44 km)",
-            "postalCode": "403515"
+    "id": "stay-008",
+    "slug": "baia-serena-resort-calangute",
+    "type": "resort",
+    "category": [
+        "beachfront",
+        "luxury",
+        "family-friendly",
+        "north-goa"
+    ],
+    "name": "Baía Serena Resort",
+    "tagline": "A Premium Beach Resort Just 100 Metres from Calangute's Sands",
+    "location": {
+        "area": "North Goa, Calangute",
+        "district": "North Goa",
+        "region": "North Goa",
+        "address": "Calangute Beach Road, North Goa, Goa 403516",
+        "coordinates": {
+            "lat": 15.5442,
+            "lng": 73.7522
         },
-        "pricing": {
-            "standard": {
-                "label": "Standard (Feb–Oct)",
-                "roomTypes": [{
-                        "type": "Garden Bedroom",
-                        "pricePerNight": 27000,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Beach-Facing Suite",
-                        "pricePerNight": 34000,
-                        "maxGuests": 3
-                    }
-                ]
-            },
-            "season": {
-                "label": "Peak Season (Nov, Dec, Jan)",
-                "note": "Rates typically double during Goa's peak tourist season (November–January).",
-                "roomTypes": [{
-                        "type": "Garden Bedroom",
-                        "pricePerNight": 54000,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Beach-Facing Suite",
-                        "pricePerNight": 68000,
-                        "maxGuests": 3
-                    }
-                ]
-            },
-            "currency": "INR",
-            "minStay": 1,
-            "displayPrice": 27000
-        },
-        "rooms": 4,
-        "maxGuests": 10,
-        "bedrooms": 4,
-        "bathrooms": 4,
-        "amenities": [
-            "Private Pool",
-            "Free WiFi",
-            "Air Conditioning",
-            "Fully Equipped Kitchen",
-            "Free Parking",
-            "BBQ Area",
-            "Outdoor Seating",
-            "Daily Housekeeping",
-            "24/7 Caretaker",
-            "Smart TV"
-        ],
-        "highlights": [
-            "Just 100 metres from Candolim's beach access",
-            "Luxurious 4 BHK layout suited to families and groups",
-            "Private pool and outdoor entertaining space",
-            "Close to Candolim's restaurant and shack scene"
-        ],
-        "description": {
-            "short": "A luxurious 4 BHK villa only 100 metres from Candolim beach, with a private pool and space for families. Book by WhatsApp.",
-            "long": "Few villas in Candolim can genuinely claim 100 metres to the sand, and Seabreeze Grand Villa is one of them — close enough that a morning swim doesn't require any planning, and close enough that Candolim's shacks and restaurants are an easy stroll for dinner.\n\nThe four-bedroom layout gives families and groups real breathing room, with a private pool and outdoor entertaining area handling the daytime while the beach handles the rest. Finishes throughout lean towards the premium end — this is a villa built to be lived in comfortably by a full family for a week, not just photographed for a weekend.\n\nIt's the villa we recommend most often for families wanting genuine beach proximity without compromising on space or comfort. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — WhatsApp us for availability and the best rate."
-        },
-        "images": {
-            "cover": "/images/stays/seabreeze-grand-villa-candolim/cover.png",
-            "gallery": [
-                "/images/stays/seabreeze-grand-villa-candolim/cover.png",
-                "/images/stays/seabreeze-grand-villa-candolim/gallery-1.png",
-                "/images/stays/seabreeze-grand-villa-candolim/gallery-2.png",
-                "/images/stays/seabreeze-grand-villa-candolim/gallery-3.png",
-                "/images/stays/seabreeze-grand-villa-candolim/gallery-4.png",
-                "/images/stays/seabreeze-grand-villa-candolim/gallery-5.png",
-                "/images/stays/seabreeze-grand-villa-candolim/gallery-6.png",
-                "/images/stays/seabreeze-grand-villa-candolim/gallery-7.png",
-                "/images/stays/seabreeze-grand-villa-candolim/gallery-8.png",
-                "/images/stays/seabreeze-grand-villa-candolim/gallery-9.png",
-                "/images/stays/seabreeze-grand-villa-candolim/gallery-10.png",
-                "/images/stays/seabreeze-grand-villa-candolim/gallery-11.png",
-                "/images/stays/seabreeze-grand-villa-candolim/gallery-12.png",
-                "/images/stays/seabreeze-grand-villa-candolim/gallery-13.png"
-            ],
-            "video": ""
-        },
-        "tags": [
-            "Beachfront",
-            "Luxury",
-            "North Goa",
-            "Candolim",
-            "Family"
-        ],
-        "nearbyAttractions": [
-            "Candolim Beach – 0.1 km",
-            "Fort Aguada – 3 km",
-            "Sinquerim Beach – 2 km",
-            "Calangute Beach – 2.5 km"
-        ],
-        "faqs": [{
-                "question": "How far is Seabreeze Grand Villa from the beach?",
-                "answer": "Seabreeze Grand Villa is located a short distance from Candolim Beach, one of the area's most loved stretches of coast."
-            },
-            {
-                "question": "What are the check-in and check-out times?",
-                "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
-            },
-            {
-                "question": "How do I book Seabreeze Grand Villa?",
-                "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
-            },
-            {
-                "question": "Are peak-season rates different?",
-                "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
-            }
-        ],
-        "reviews": [{
-                "id": "rev-1",
-                "name": "The Malhotra Family",
-                "rating": 5,
-                "review": "Genuinely 100 metres to the beach, not a marketing exaggeration. Villa itself was spacious and beautifully finished throughout.",
-                "date": "2026-03-21",
-                "location": "Delhi",
-                "verified": true
-            },
-            {
-                "id": "rev-2",
-                "name": "Preeti Shah",
-                "rating": 5,
-                "review": "Perfect for our family of eight. Kids were in and out of the pool and the beach all day, and the kitchen made mealtimes easy.",
-                "date": "2025-12-08",
-                "location": "Mumbai",
-                "verified": true
-            }
-        ],
-        "vacationRentalSchema": true,
-        "breadcrumbs": [{
-                "name": "Home",
-                "url": "/"
-            },
-            {
-                "name": "All Stays",
-                "url": "/all-stays"
-            },
-            {
-                "name": "Beachfront Villas in Goa",
-                "url": "/beachfront-villas-goa"
-            },
-            {
-                "name": "Seabreeze Grand Villa",
-                "url": "/stays/seabreeze-grand-villa-candolim"
-            }
-        ],
-        "seo": {
-            "metaTitle": "Seabreeze Grand Villa Candolim | Goa Beach Stays",
-            "metaDescription": "Luxurious 4 BHK villa 100m from Candolim beach with a private pool. Standard from ₹27,000/night. WhatsApp enquiry.",
-            "focusKeyword": "luxury beachfront villa candolim"
-        },
-        "contact": {
-            "whatsappNumber": "+919921372661",
-            "callNumber": "+918080557611"
-        },
-        "featured": true,
-        "active": true,
-        "publishedAt": "2025-01-10",
-        "priceRange": "₹27,000 – ₹68,000 per night"
+        "nearestBeach": "Calangute Beach (0.1 km)",
+        "nearestAirport": "Dabolim Airport (45 km)",
+        "postalCode": "403516"
     },
+    "pricing": {
+        "standard": {
+            "label": "Standard (Feb–Oct)",
+            "roomTypes": [
+                {
+                    "type": "Deluxe Room",
+                    "pricePerNight": 5000,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Premium Sea View Room",
+                    "pricePerNight": 6800,
+                    "maxGuests": 3
+                }
+            ]
+        },
+        "season": {
+            "label": "Peak Season (Nov, Dec, Jan)",
+            "note": "Rates typically double during Goa's peak tourist season (November–January).",
+            "roomTypes": [
+                {
+                    "type": "Deluxe Room",
+                    "pricePerNight": 10000,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Premium Sea View Room",
+                    "pricePerNight": 13600,
+                    "maxGuests": 3
+                }
+            ]
+        },
+        "currency": "INR",
+        "minStay": 1,
+        "displayPrice": 5000
+    },
+    "rooms": 26,
+    "maxGuests": 60,
+    "bedrooms": 26,
+    "bathrooms": 26,
+    "amenities": [
+        "Infinity Pool",
+        "Beach Access",
+        "Free WiFi",
+        "Air Conditioning",
+        "Multi-Cuisine Restaurant",
+        "Poolside Cafe",
+        "Elevator",
+        "Spa",
+        "Free Parking",
+        "Room Service",
+        "Daily Housekeeping",
+        "Front Desk"
+    ],
+    "highlights": [
+        "Just 100 metres from Calangute's beach access",
+        "Infinity pool with a poolside cafe for all-day use",
+        "Family Rooms alongside Premium Sea View Rooms for mixed group sizes",
+        "Close to Calangute's restaurant, market, and shack scene"
+    ],
+    "description": {
+        "short": "A premium beach resort only 100 metres from Calangute Beach, with an infinity pool and rooms for families and couples. Book by WhatsApp.",
+        "long": "Few resorts in Calangute can genuinely claim 100 metres to the sand, and Baía Serena Resort is one of them — close enough that a morning swim doesn't require any planning, and close enough that Calangute's shacks, market, and restaurants are an easy stroll for dinner.\n\nThe resort's Premium Sea View Rooms make the most of that proximity, while the infinity pool and poolside cafe give guests a reason to stay on property between beach visits. Family Rooms handle larger groups comfortably, with a spa and multi-cuisine restaurant rounding out a proper resort stay rather than a bare-bones one.\n\nIt's the resort we recommend most often for families and couples wanting genuine beach proximity without compromising on service. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — WhatsApp us for availability and the best rate."
+    },
+    "images": {
+        "cover": "/images/stays/seabreeze-grand-villa-candolim/cover.png",
+        "gallery": [
+            "/images/stays/seabreeze-grand-villa-candolim/cover.png",
+            "/images/stays/seabreeze-grand-villa-candolim/gallery-1.png",
+            "/images/stays/seabreeze-grand-villa-candolim/gallery-2.png",
+            "/images/stays/seabreeze-grand-villa-candolim/gallery-3.png",
+            "/images/stays/seabreeze-grand-villa-candolim/gallery-4.png",
+            "/images/stays/seabreeze-grand-villa-candolim/gallery-5.png",
+            "/images/stays/seabreeze-grand-villa-candolim/gallery-6.png",
+            "/images/stays/seabreeze-grand-villa-candolim/gallery-7.png",
+            "/images/stays/seabreeze-grand-villa-candolim/gallery-8.png",
+            "/images/stays/seabreeze-grand-villa-candolim/gallery-9.png",
+            "/images/stays/seabreeze-grand-villa-candolim/gallery-10.png",
+            "/images/stays/seabreeze-grand-villa-candolim/gallery-11.png",
+            "/images/stays/seabreeze-grand-villa-candolim/gallery-12.png",
+            "/images/stays/seabreeze-grand-villa-candolim/gallery-13.png"
+        ],
+        "video": ""
+    },
+    "tags": [
+        "Beachfront",
+        "Luxury",
+        "North Goa",
+        "Calangute",
+        "Family"
+    ],
+    "nearbyAttractions": [
+        "Calangute Beach – 0.1 km",
+        "Calangute Market – 1 km",
+        "Baga Beach – 2.3 km",
+        "Candolim Beach – 2.6 km"
+    ],
+    "faqs": [
+        {
+            "question": "How far is Baía Serena Resort from the beach?",
+            "answer": "Baía Serena Resort is located a short distance from Calangute Beach, one of the area's most loved stretches of coast."
+        },
+        {
+            "question": "What are the check-in and check-out times?",
+            "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
+        },
+        {
+            "question": "How do I book Baía Serena Resort?",
+            "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
+        },
+        {
+            "question": "Are peak-season rates different?",
+            "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
+        },
+        {
+            "question": "Does the resort have family-friendly rooms?",
+            "answer": "Yes, Family Rooms are available alongside Deluxe and Premium Sea View categories — let us know your group size when you enquire."
+        }
+    ],
+    "reviews": [
+        {
+            "id": "rev-1",
+            "name": "The Malhotra Family",
+            "rating": 5,
+            "review": "Genuinely 100 metres to the beach, not a marketing exaggeration. The infinity pool and spa made it feel like a proper resort holiday.",
+            "date": "2026-03-21",
+            "location": "Delhi",
+            "verified": true
+        },
+        {
+            "id": "rev-2",
+            "name": "Preeti Shah",
+            "rating": 5,
+            "review": "Perfect for our family of eight across two rooms. Kids were in and out of the pool and the beach all day, and the restaurant made mealtimes easy.",
+            "date": "2025-12-08",
+            "location": "Mumbai",
+            "verified": true
+        }
+    ],
+    "vacationRentalSchema": true,
+    "breadcrumbs": [
+        {
+            "name": "Home",
+            "url": "/"
+        },
+        {
+            "name": "All Stays",
+            "url": "/all-stays"
+        },
+        {
+            "name": "Luxury Resorts in Goa",
+            "url": "/luxury-resorts-goa"
+        },
+        {
+            "name": "Baía Serena Resort",
+            "url": "/stays/baia-serena-resort-calangute"
+        }
+    ],
+    "seo": {
+        "metaTitle": "Baía Serena Resort Calangute | Goa Beach Stays",
+        "metaDescription": "Premium beach resort 100m from Calangute Beach with an infinity pool and family rooms. Standard from ₹5,000/night. WhatsApp enquiry.",
+        "focusKeyword": "premium beach resort calangute"
+    },
+    "contact": {
+        "whatsappNumber": "+919921372661",
+        "callNumber": "+918080557611"
+    },
+    "featured": true,
+    "active": true,
+    "publishedAt": "2025-01-10",
+    "priceRange": "₹5,000 – ₹13,600 per night"
+},
     {
         "id": "stay-009",
         "slug": "cascata-arpora-resort",
@@ -2339,186 +2350,191 @@
         "priceRange": "₹2,900 – ₹7,600 per night"
     },
     {
-        "id": "stay-014",
-        "slug": "hotel-de-mandren-candolim",
-        "type": "resort",
-        "category": [
-            "luxury",
-            "north-goa"
-        ],
-        "name": "Hotel De Mandren",
-        "tagline": "A New 4-Star Property in Candolim with an Infinity Pool Over the Sea",
-        "location": {
-            "area": "North Goa, Candolim",
-            "district": "North Goa",
-            "region": "North Goa",
-            "address": "Candolim Beach Belt, North Goa, Goa 403515",
-            "coordinates": {
-                "lat": 15.517,
-                "lng": 73.762
-            },
-            "nearestBeach": "Candolim Beach (0.4 km)",
-            "nearestAirport": "Dabolim Airport (44 km)",
-            "postalCode": "403515"
+    "id": "stay-014",
+    "slug": "alto-mar-resort-calangute",
+    "type": "resort",
+    "category": [
+        "luxury",
+        "north-goa"
+    ],
+    "name": "Alto Mar Resort",
+    "tagline": "A New 4-Star Resort in Calangute with an Infinity Pool Over the Sea",
+    "location": {
+        "area": "North Goa, Calangute",
+        "district": "North Goa",
+        "region": "North Goa",
+        "address": "Calangute Beach Road, North Goa, Goa 403516",
+        "coordinates": {
+            "lat": 15.5448,
+            "lng": 73.7518
         },
-        "pricing": {
-            "standard": {
-                "label": "Standard (Feb–Oct)",
-                "roomTypes": [{
-                        "type": "Deluxe Room",
-                        "pricePerNight": 5200,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Infinity View Room",
-                        "pricePerNight": 7200,
-                        "maxGuests": 2
-                    }
-                ]
-            },
-            "season": {
-                "label": "Peak Season (Nov, Dec, Jan)",
-                "note": "Rates typically double during Goa's peak tourist season (November–January).",
-                "roomTypes": [{
-                        "type": "Deluxe Room",
-                        "pricePerNight": 10400,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Infinity View Room",
-                        "pricePerNight": 14400,
-                        "maxGuests": 2
-                    }
-                ]
-            },
-            "currency": "INR",
-            "minStay": 1,
-            "displayPrice": 5200
-        },
-        "rooms": 22,
-        "maxGuests": 52,
-        "bedrooms": 22,
-        "bathrooms": 22,
-        "amenities": [
-            "Swimming Pool",
-            "Free WiFi",
-            "Air Conditioning",
-            "In-house Restaurant",
-            "Elevator",
-            "Free Parking",
-            "Room Service",
-            "Daily Housekeeping",
-            "Front Desk"
-        ],
-        "highlights": [
-            "New-build property with a genuine sea-facing infinity pool",
-            "Lift access — a rare, welcome feature in this part of Candolim",
-            "Polished, contemporary rooms with premium finishes",
-            "Close to Candolim's better restaurants and beach access"
-        ],
-        "description": {
-            "short": "A newly built 4-star property in Candolim with a sea-view infinity pool and lift access. Book by WhatsApp.",
-            "long": "Hotel De Mandren is one of the newest properties on this list, and it shows — crisp, contemporary interiors, a lift (still unusual for multi-storey stays in this part of Candolim), and an infinity pool that appears to spill straight into the Arabian Sea beyond it.\n\nRooms in the Infinity View category make the most of the location, with private balconies looking out over the pool and the sea beyond. The rest of Candolim's beach belt — restaurants, shacks, Fort Aguada — is a short walk or ride away, but there's a strong case for simply staying poolside and watching the sunset from here.\n\nIt suits couples and travellers who want a fresher, more polished alternative to Candolim's older resort stock. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — WhatsApp us for current rates and room availability."
-        },
-        "images": {
-            "cover": "/images/stays/hotel-de-mandren-candolim/cover.png",
-            "gallery": [
-                "/images/stays/hotel-de-mandren-candolim/cover.png",
-                "/images/stays/hotel-de-mandren-candolim/gallery-1.png",
-                "/images/stays/hotel-de-mandren-candolim/gallery-2.png",
-                "/images/stays/hotel-de-mandren-candolim/gallery-3.png",
-                "/images/stays/hotel-de-mandren-candolim/gallery-4.png",
-                "/images/stays/hotel-de-mandren-candolim/gallery-5.png",
-                "/images/stays/hotel-de-mandren-candolim/gallery-6.png",
-                "/images/stays/hotel-de-mandren-candolim/gallery-7.png",
-                "/images/stays/hotel-de-mandren-candolim/gallery-8.png"
-            ],
-            "video": ""
-        },
-        "tags": [
-            "North Goa",
-            "Candolim",
-            "Infinity Pool",
-            "New Build"
-        ],
-        "nearbyAttractions": [
-            "Candolim Beach – 0.4 km",
-            "Fort Aguada – 3 km",
-            "Sinquerim Beach – 2 km",
-            "Calangute Beach – 2.8 km"
-        ],
-        "faqs": [{
-                "question": "How far is Hotel De Mandren from the beach?",
-                "answer": "Hotel De Mandren is located a short distance from Candolim Beach, one of the area's most loved stretches of coast."
-            },
-            {
-                "question": "What are the check-in and check-out times?",
-                "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
-            },
-            {
-                "question": "How do I book Hotel De Mandren?",
-                "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
-            },
-            {
-                "question": "Are peak-season rates different?",
-                "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
-            },
-            {
-                "question": "Does the property have a lift?",
-                "answer": "Yes, Hotel De Mandren has a lift, which is a helpful and relatively uncommon feature for a property of this style in Candolim."
-            }
-        ],
-        "reviews": [{
-                "id": "rev-1",
-                "name": "Ritika Sharma",
-                "rating": 5,
-                "review": "The infinity pool view at sunset was the best part of our whole Goa trip. Everything felt brand new and well thought out.",
-                "date": "2026-03-02",
-                "location": "Delhi",
-                "verified": true
-            },
-            {
-                "id": "rev-2",
-                "name": "Vishal Mehta",
-                "rating": 5,
-                "review": "Loved having a lift for once. Rooms were spotless and the infinity pool room was worth the upgrade.",
-                "date": "2025-12-14",
-                "location": "Ahmedabad",
-                "verified": true
-            }
-        ],
-        "vacationRentalSchema": true,
-        "breadcrumbs": [{
-                "name": "Home",
-                "url": "/"
-            },
-            {
-                "name": "All Stays",
-                "url": "/all-stays"
-            },
-            {
-                "name": "Luxury Resorts in Goa",
-                "url": "/luxury-resorts-goa"
-            },
-            {
-                "name": "Hotel De Mandren",
-                "url": "/stays/hotel-de-mandren-candolim"
-            }
-        ],
-        "seo": {
-            "metaTitle": "Hotel De Mandren Candolim | Goa Beach Stays",
-            "metaDescription": "New 4-star Candolim property with a sea-view infinity pool. Standard from ₹5,200/night. WhatsApp enquiry.",
-            "focusKeyword": "candolim infinity pool resort"
-        },
-        "contact": {
-            "whatsappNumber": "+919921372661",
-            "callNumber": "+918080557611"
-        },
-        "featured": true,
-        "active": true,
-        "publishedAt": "2025-01-10",
-        "priceRange": "₹5,200 – ₹14,400 per night"
+        "nearestBeach": "Calangute Beach (0.3 km)",
+        "nearestAirport": "Dabolim Airport (42 km)",
+        "postalCode": "403516"
     },
+    "pricing": {
+        "standard": {
+            "label": "Standard (Feb–Oct)",
+            "roomTypes": [
+                {
+                    "type": "Deluxe Room",
+                    "pricePerNight": 5800,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Infinity View Room",
+                    "pricePerNight": 8000,
+                    "maxGuests": 2
+                }
+            ]
+        },
+        "season": {
+            "label": "Peak Season (Nov, Dec, Jan)",
+            "note": "Rates typically double during Goa's peak tourist season (November–January).",
+            "roomTypes": [
+                {
+                    "type": "Deluxe Room",
+                    "pricePerNight": 11600,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Infinity View Room",
+                    "pricePerNight": 16000,
+                    "maxGuests": 2
+                }
+            ]
+        },
+        "currency": "INR",
+        "minStay": 1,
+        "displayPrice": 5800
+    },
+    "rooms": 22,
+    "maxGuests": 52,
+    "bedrooms": 22,
+    "bathrooms": 22,
+    "amenities": [
+        "Swimming Pool",
+        "Free WiFi",
+        "Air Conditioning",
+        "In-house Restaurant",
+        "Elevator",
+        "Free Parking",
+        "Room Service",
+        "Daily Housekeeping",
+        "Front Desk"
+    ],
+    "highlights": [
+        "New-build property with a genuine sea-facing infinity pool",
+        "Lift access — a rare, welcome feature in this part of Calangute",
+        "Polished, contemporary rooms with premium finishes",
+        "Close to Calangute's beach belt, restaurants, and Baga's nightlife"
+    ],
+    "description": {
+        "short": "A newly built 4-star resort in Calangute with a sea-view infinity pool and lift access. Book by WhatsApp.",
+        "long": "Alto Mar Resort is one of the newest properties on this list, and it shows — crisp, contemporary interiors, a lift (still unusual for multi-storey stays in this part of Calangute), and an infinity pool that appears to spill straight into the Arabian Sea beyond it.\n\nRooms in the Infinity View category make the most of the location, with private balconies looking out over the pool and the sea beyond. The rest of Calangute's beach belt — restaurants, shacks, and the short ride up to Baga — is easily reached, but there's a strong case for simply staying poolside and watching the sunset from here.\n\nIt suits couples and travellers who want a fresher, more polished alternative to Calangute's older resort stock. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — WhatsApp us for current rates and room availability."
+    },
+    "images": {
+        "cover": "/images/stays/hotel-de-mandren-candolim/cover.png",
+        "gallery": [
+            "/images/stays/hotel-de-mandren-candolim/cover.png",
+            "/images/stays/hotel-de-mandren-candolim/gallery-1.png",
+            "/images/stays/hotel-de-mandren-candolim/gallery-2.png",
+            "/images/stays/hotel-de-mandren-candolim/gallery-3.png",
+            "/images/stays/hotel-de-mandren-candolim/gallery-4.png",
+            "/images/stays/hotel-de-mandren-candolim/gallery-5.png",
+            "/images/stays/hotel-de-mandren-candolim/gallery-6.png",
+            "/images/stays/hotel-de-mandren-candolim/gallery-7.png",
+            "/images/stays/hotel-de-mandren-candolim/gallery-8.png"
+        ],
+        "video": ""
+    },
+    "tags": [
+        "North Goa",
+        "Calangute",
+        "Infinity Pool",
+        "New Build"
+    ],
+    "nearbyAttractions": [
+        "Calangute Beach – 0.3 km",
+        "Baga Beach – 2.2 km",
+        "Fort Aguada – 5 km",
+        "Candolim Beach – 3 km"
+    ],
+    "faqs": [
+        {
+            "question": "How far is Alto Mar Resort from the beach?",
+            "answer": "Alto Mar Resort is located a short distance from Calangute Beach, one of North Goa's most popular stretches of coast."
+        },
+        {
+            "question": "What are the check-in and check-out times?",
+            "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
+        },
+        {
+            "question": "How do I book Alto Mar Resort?",
+            "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
+        },
+        {
+            "question": "Are peak-season rates different?",
+            "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
+        },
+        {
+            "question": "Does the property have a lift?",
+            "answer": "Yes, Alto Mar Resort has a lift, which is a helpful and relatively uncommon feature for a property of this style in Calangute."
+        }
+    ],
+    "reviews": [
+        {
+            "id": "rev-1",
+            "name": "Ritika Sharma",
+            "rating": 5,
+            "review": "The infinity pool view at sunset was the best part of our whole Goa trip. Everything felt brand new and well thought out.",
+            "date": "2026-03-02",
+            "location": "Delhi",
+            "verified": true
+        },
+        {
+            "id": "rev-2",
+            "name": "Vishal Mehta",
+            "rating": 5,
+            "review": "Loved having a lift for once. Rooms were spotless and the infinity pool room was worth the upgrade.",
+            "date": "2025-12-14",
+            "location": "Ahmedabad",
+            "verified": true
+        }
+    ],
+    "vacationRentalSchema": true,
+    "breadcrumbs": [
+        {
+            "name": "Home",
+            "url": "/"
+        },
+        {
+            "name": "All Stays",
+            "url": "/all-stays"
+        },
+        {
+            "name": "Luxury Resorts in Goa",
+            "url": "/luxury-resorts-goa"
+        },
+        {
+            "name": "Alto Mar Resort",
+            "url": "/stays/alto-mar-resort-calangute"
+        }
+    ],
+    "seo": {
+        "metaTitle": "Alto Mar Resort Calangute | Goa Beach Stays",
+        "metaDescription": "New 4-star Calangute resort with a sea-view infinity pool. Standard from ₹5,800/night. WhatsApp enquiry.",
+        "focusKeyword": "calangute infinity pool resort"
+    },
+    "contact": {
+        "whatsappNumber": "+919921372661",
+        "callNumber": "+918080557611"
+    },
+    "featured": true,
+    "active": true,
+    "publishedAt": "2025-01-10",
+    "priceRange": "₹5,800 – ₹16,000 per night"
+},
     {
         "id": "stay-015",
         "slug": "driftwood-cottages-arambol",
@@ -2870,182 +2886,199 @@
         "priceRange": "₹2,500 – ₹6,600 per night"
     },
     {
-        "id": "stay-017",
-        "slug": "shoreline-edge-resort-calangute",
-        "type": "resort",
-        "category": [
-            "beachfront",
-            "north-goa"
-        ],
-        "name": "Shoreline Edge Resort",
-        "tagline": "Standing Right at the Water's Edge on Calangute Beach",
-        "location": {
-            "area": "North Goa, Calangute",
-            "district": "North Goa",
-            "region": "North Goa",
-            "address": "Calangute Beachfront, North Goa, Goa 403516",
-            "coordinates": {
-                "lat": 15.5455,
-                "lng": 73.7515
-            },
-            "nearestBeach": "Calangute Beach (0.05 km)",
-            "nearestAirport": "Dabolim Airport (45 km)",
-            "postalCode": "403516"
+    "id": "stay-017",
+    "slug": "quinta-verde-villa-calangute",
+    "type": "villa",
+    "category": [
+        "large group",
+        "luxury",
+        "north-goa"
+    ],
+    "name": "Quinta Verde Villa",
+    "tagline": "A Secluded 6-Bedroom Estate Amid Calangute's Palm Groves",
+    "location": {
+        "area": "North Goa, Calangute",
+        "district": "North Goa",
+        "region": "North Goa",
+        "address": "Calangute Interior Belt, North Goa, Goa 403516",
+        "coordinates": {
+            "lat": 15.5395,
+            "lng": 73.7655
         },
-        "pricing": {
-            "standard": {
-                "label": "Standard (Feb–Oct)",
-                "roomTypes": [{
-                        "type": "Deluxe Room",
-                        "pricePerNight": 4600,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Beachfront Room",
-                        "pricePerNight": 6200,
-                        "maxGuests": 2
-                    }
-                ]
-            },
-            "season": {
-                "label": "Peak Season (Nov, Dec, Jan)",
-                "note": "Rates typically double during Goa's peak tourist season (November–January).",
-                "roomTypes": [{
-                        "type": "Deluxe Room",
-                        "pricePerNight": 9200,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Beachfront Room",
-                        "pricePerNight": 12400,
-                        "maxGuests": 2
-                    }
-                ]
-            },
-            "currency": "INR",
-            "minStay": 1,
-            "displayPrice": 4600
-        },
-        "rooms": 20,
-        "maxGuests": 48,
-        "bedrooms": 20,
-        "bathrooms": 20,
-        "amenities": [
-            "Beach Access",
-            "Free WiFi",
-            "Air Conditioning",
-            "In-house Restaurant",
-            "Free Parking",
-            "Room Service",
-            "Daily Housekeeping",
-            "Front Desk"
-        ],
-        "highlights": [
-            "Sits literally at Calangute's exact beachfront line",
-            "Beachfront rooms with unobstructed shoreline views",
-            "Sound of the surf audible from the property at all hours",
-            "Prime spot for sunrise walks and evening beach dinners"
-        ],
-        "description": {
-            "short": "A resort standing at the exact beachfront line of Calangute, with rooms that open straight onto shoreline views. Book by WhatsApp.",
-            "long": "Shoreline Edge Resort earns its name honestly — it sits right where Calangute's sand meets the property line, close enough that the tide is audible from the rooms after dark. Beachfront rooms make the most of this with unbroken views over the water.\n\nCalangute's shacks, water sports operators and market are all within easy walking distance, making this a strong base for guests who want to alternate between beach mornings and market evenings without much travel either way.\n\nIt's a good fit for couples and small groups chasing a genuinely beachfront stay in one of North Goa's best-known towns. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — WhatsApp us for rates and availability."
-        },
-        "images": {
-            "cover": "/images/stays/shoreline-edge-resort-calangute/cover.png",
-            "gallery": [
-                "/images/stays/shoreline-edge-resort-calangute/cover.png",
-                "/images/stays/shoreline-edge-resort-calangute/gallery-1.png",
-                "/images/stays/shoreline-edge-resort-calangute/gallery-2.png",
-                "/images/stays/shoreline-edge-resort-calangute/gallery-3.png",
-                "/images/stays/shoreline-edge-resort-calangute/gallery-4.png",
-                "/images/stays/shoreline-edge-resort-calangute/gallery-5.png",
-                "/images/stays/shoreline-edge-resort-calangute/gallery-6.png",
-                "/images/stays/shoreline-edge-resort-calangute/gallery-7.png",
-                "/images/stays/shoreline-edge-resort-calangute/gallery-8.png",
-                "/images/stays/shoreline-edge-resort-calangute/gallery-9.png",
-                "/images/stays/shoreline-edge-resort-calangute/gallery-10.png"
-            ],
-            "video": ""
-        },
-        "tags": [
-            "Beachfront",
-            "North Goa",
-            "Calangute"
-        ],
-        "nearbyAttractions": [
-            "Calangute Beach – 0.05 km",
-            "Calangute Market – 1 km",
-            "Baga Beach – 2.3 km",
-            "Candolim Beach – 2.6 km"
-        ],
-        "faqs": [{
-                "question": "How far is Shoreline Edge Resort from the beach?",
-                "answer": "Shoreline Edge Resort sits directly at Calangute Beach, one of the area's most loved stretches of coast."
-            },
-            {
-                "question": "What are the check-in and check-out times?",
-                "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
-            },
-            {
-                "question": "How do I book Shoreline Edge Resort?",
-                "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
-            },
-            {
-                "question": "Are peak-season rates different?",
-                "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
-            }
-        ],
-        "reviews": [{
-                "id": "rev-1",
-                "name": "Tanya Grover",
-                "rating": 5,
-                "review": "You genuinely step out onto the sand from this place. Beachfront room was worth every rupee for the view alone.",
-                "date": "2026-01-02",
-                "location": "Delhi",
-                "verified": true
-            },
-            {
-                "id": "rev-2",
-                "name": "Rakesh Iyer",
-                "rating": 4,
-                "review": "Could hear the waves from our room every night. Great location for exploring Calangute on foot.",
-                "date": "2025-11-24",
-                "location": "Chennai",
-                "verified": true
-            }
-        ],
-        "vacationRentalSchema": true,
-        "breadcrumbs": [{
-                "name": "Home",
-                "url": "/"
-            },
-            {
-                "name": "All Stays",
-                "url": "/all-stays"
-            },
-            {
-                "name": "Beach Resorts in Goa",
-                "url": "/goa-beach-resorts"
-            },
-            {
-                "name": "Shoreline Edge Resort",
-                "url": "/stays/shoreline-edge-resort-calangute"
-            }
-        ],
-        "seo": {
-            "metaTitle": "Shoreline Edge Resort Calangute | Goa Beach Stays",
-            "metaDescription": "Resort standing right at Calangute's beachfront line. Standard from ₹4,600/night. WhatsApp enquiry.",
-            "focusKeyword": "calangute beachfront resort"
-        },
-        "contact": {
-            "whatsappNumber": "+919921372661",
-            "callNumber": "+918080557611"
-        },
-        "featured": true,
-        "active": true,
-        "publishedAt": "2025-01-10",
-        "priceRange": "₹4,600 – ₹12,400 per night"
+        "nearestBeach": "Calangute Beach (2.2 km)",
+        "nearestAirport": "Dabolim Airport (45 km)",
+        "postalCode": "403516"
     },
+    "pricing": {
+        "standard": {
+            "label": "Standard (Feb–Oct)",
+            "roomTypes": [
+                {
+                    "type": "Garden Bedroom",
+                    "pricePerNight": 36000,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Premium Suite",
+                    "pricePerNight": 46000,
+                    "maxGuests": 3
+                }
+            ]
+        },
+        "season": {
+            "label": "Peak Season (Nov, Dec, Jan)",
+            "note": "Rates typically double during Goa's peak tourist season (November–January).",
+            "roomTypes": [
+                {
+                    "type": "Garden Bedroom",
+                    "pricePerNight": 72000,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Premium Suite",
+                    "pricePerNight": 92000,
+                    "maxGuests": 3
+                }
+            ]
+        },
+        "currency": "INR",
+        "minStay": 2,
+        "displayPrice": 36000
+    },
+    "rooms": 6,
+    "maxGuests": 15,
+    "bedrooms": 6,
+    "bathrooms": 6,
+    "amenities": [
+        "Private Pool",
+        "Free WiFi",
+        "Air Conditioning",
+        "Fully Equipped Kitchen",
+        "Private Parking",
+        "BBQ Area",
+        "Outdoor Dining",
+        "Private Garden",
+        "Lawn",
+        "Daily Housekeeping",
+        "24/7 Caretaker",
+        "Smart TV",
+        "Indoor Games",
+        "Balcony"
+    ],
+    "highlights": [
+        "6 bedrooms set within a private, palm-shaded estate near Calangute",
+        "Large private pool with a lawn built for gatherings",
+        "Peaceful, forested surroundings away from the beachfront crowds",
+        "Party-friendly grounds ideal for family reunions and celebrations"
+    ],
+    "description": {
+        "short": "A secluded 6-bedroom villa estate set among palm groves near Calangute, with a large private pool for big groups. Book by WhatsApp.",
+        "long": "Quinta Verde Villa trades beachfront proximity for privacy and greenery — six bedrooms spread across a private estate framed by mature palm groves, with a pool and lawn big enough for a milestone celebration or a full extended family stay.\n\nSet a short drive rather than a walk from Calangute's beach, it's a deliberate trade-off: more seclusion, more garden space, and a genuine sense of retreat that's hard to find on the busier beachfront strip. The grounds themselves become the centrepiece of the stay, with indoor games and outdoor dining keeping the group entertained without needing to leave the property.\n\nIt's best suited to large families and groups planning a private celebration who want their own estate rather than a shared beachfront strip. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — WhatsApp us with your group size and dates."
+    },
+    "images": {
+        "cover": "/images/stays/shoreline-edge-resort-calangute/cover.png",
+        "gallery": [
+            "/images/stays/shoreline-edge-resort-calangute/cover.png",
+            "/images/stays/shoreline-edge-resort-calangute/gallery-1.png",
+            "/images/stays/shoreline-edge-resort-calangute/gallery-2.png",
+            "/images/stays/shoreline-edge-resort-calangute/gallery-3.png",
+            "/images/stays/shoreline-edge-resort-calangute/gallery-4.png",
+            "/images/stays/shoreline-edge-resort-calangute/gallery-5.png",
+            "/images/stays/shoreline-edge-resort-calangute/gallery-6.png",
+            "/images/stays/shoreline-edge-resort-calangute/gallery-7.png",
+            "/images/stays/shoreline-edge-resort-calangute/gallery-8.png",
+            "/images/stays/shoreline-edge-resort-calangute/gallery-9.png",
+            "/images/stays/shoreline-edge-resort-calangute/gallery-10.png"
+        ],
+        "video": ""
+    },
+    "tags": [
+        "North Goa",
+        "Calangute",
+        "Large Group",
+        "Luxury"
+    ],
+    "nearbyAttractions": [
+        "Calangute Beach – 2.2 km",
+        "Calangute Market – 1.5 km",
+        "Candolim Beach – 3.5 km",
+        "Baga Beach – 4 km"
+    ],
+    "faqs": [
+        {
+            "question": "How far is Quinta Verde Villa from the beach?",
+            "answer": "Quinta Verde Villa is a short drive from Calangute Beach, set back within a quieter, greener part of the area."
+        },
+        {
+            "question": "What are the check-in and check-out times?",
+            "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
+        },
+        {
+            "question": "How do I book Quinta Verde Villa?",
+            "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
+        },
+        {
+            "question": "Are peak-season rates different?",
+            "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
+        },
+        {
+            "question": "Is Quinta Verde Villa suitable for hosting a celebration or event?",
+            "answer": "Yes, the grounds, lawn, and pool area comfortably accommodate larger gatherings — let us know your plans when you enquire so we can confirm suitability."
+        }
+    ],
+    "reviews": [
+        {
+            "id": "rev-1",
+            "name": "The Agarwal Family",
+            "rating": 5,
+            "review": "We hosted a 40th anniversary celebration here and the grounds were stunning. Six bedrooms meant every family unit had their own space.",
+            "date": "2026-02-08",
+            "location": "Lucknow",
+            "verified": true
+        },
+        {
+            "id": "rev-2",
+            "name": "Rohit Malhotra",
+            "rating": 5,
+            "review": "The greenery around the pool made it feel like a private retreat. Worth the short drive to the beach for the privacy alone.",
+            "date": "2025-11-30",
+            "location": "Delhi",
+            "verified": true
+        }
+    ],
+    "vacationRentalSchema": true,
+    "breadcrumbs": [
+        {
+            "name": "Home",
+            "url": "/"
+        },
+        {
+            "name": "All Stays",
+            "url": "/all-stays"
+        },
+        {
+            "name": "Corporate & Group Villas in Goa",
+            "url": "/corporate-villas-goa"
+        },
+        {
+            "name": "Quinta Verde Villa",
+            "url": "/stays/quinta-verde-villa-calangute"
+        }
+    ],
+    "seo": {
+        "metaTitle": "Quinta Verde Villa Calangute | Goa Beach Stays",
+        "metaDescription": "6-bedroom villa estate near Calangute set among palm groves, with a large private pool and gardens. Standard from ₹36,000/night. WhatsApp enquiry.",
+        "focusKeyword": "6 bhk luxury villa calangute goa"
+    },
+    "contact": {
+        "whatsappNumber": "+919921372661",
+        "callNumber": "+918080557611"
+    },
+    "featured": true,
+    "active": true,
+    "publishedAt": "2025-01-10",
+    "priceRange": "₹36,000 – ₹92,000 per night"
+},
     {
         "id": "stay-018",
         "slug": "the-boutique-villa-baga",
@@ -3223,376 +3256,388 @@
         "publishedAt": "2025-01-10",
         "priceRange": "₹21,000 – ₹54,000 per night"
     },
-    {
-        "id": "stay-019",
-        "slug": "five-palms-villa-candolim",
-        "type": "villa",
-        "category": [
-            "large group",
-            "luxury",
-            "north-goa"
-        ],
-        "name": "Five Palms Villa",
-        "tagline": "A Premium 5 BHK Villa on Candolim's Beach Belt",
-        "location": {
-            "area": "North Goa, Candolim",
-            "district": "North Goa",
-            "region": "North Goa",
-            "address": "Candolim Beach Road, North Goa, Goa 403515",
-            "coordinates": {
-                "lat": 15.5205,
-                "lng": 73.7625
-            },
-            "nearestBeach": "Candolim Beach (0.5 km)",
-            "nearestAirport": "Dabolim Airport (44 km)",
-            "postalCode": "403515"
+{
+    "id": "stay-019",
+    "slug": "costa-dourada-beach-resort-morjim",
+    "type": "resort",
+    "category": [
+        "beachfront",
+        "luxury",
+        "north-goa"
+    ],
+    "name": "Costa Dourada Resort",
+    "tagline": "A Beachfront Resort Facing Morjim's Open Golden Sands",
+    "location": {
+        "area": "North Goa, Morjim",
+        "district": "North Goa",
+        "region": "North Goa",
+        "address": "Morjim Beach Road, North Goa, Goa 403512",
+        "coordinates": {
+            "lat": 15.628,
+            "lng": 73.7305
         },
-        "pricing": {
-            "standard": {
-                "label": "Standard (Feb–Oct)",
-                "roomTypes": [{
-                        "type": "Garden Bedroom",
-                        "pricePerNight": 32000,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Master Suite",
-                        "pricePerNight": 40000,
-                        "maxGuests": 3
-                    }
-                ]
-            },
-            "season": {
-                "label": "Peak Season (Nov, Dec, Jan)",
-                "note": "Rates typically double during Goa's peak tourist season (November–January).",
-                "roomTypes": [{
-                        "type": "Garden Bedroom",
-                        "pricePerNight": 64000,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Master Suite",
-                        "pricePerNight": 80000,
-                        "maxGuests": 3
-                    }
-                ]
-            },
-            "currency": "INR",
-            "minStay": 2,
-            "displayPrice": 32000
-        },
-        "rooms": 5,
-        "maxGuests": 12,
-        "bedrooms": 5,
-        "bathrooms": 5,
-        "amenities": [
-            "Private Pool",
-            "Free WiFi",
-            "Air Conditioning",
-            "Fully Equipped Kitchen",
-            "Free Parking",
-            "BBQ Area",
-            "Outdoor Seating",
-            "Daily Housekeeping",
-            "24/7 Caretaker",
-            "Smart TV",
-            "Sound System"
-        ],
-        "highlights": [
-            "5 premium bedrooms suited to a large family or friend group",
-            "Close to Candolim's beach belt and restaurant scene",
-            "Private pool and expansive outdoor entertaining space",
-            "Comfortably hosts milestone celebrations and reunions"
-        ],
-        "description": {
-            "short": "A premium 5 BHK villa on Candolim's beach belt, with a private pool and space for a large group. Book by WhatsApp.",
-            "long": "Five Palms Villa is built for groups that have outgrown the standard 3 or 4 BHK — five well-proportioned bedrooms, a private pool large enough for a dozen people to actually swim in, and outdoor space that comfortably handles a family reunion or milestone birthday.\n\nCandolim's beach and restaurant belt sits just half a kilometre away, giving the group easy access to evenings out without sacrificing the privacy of a full villa during the day. Interiors lean premium throughout, from the kitchen to the outdoor entertaining deck.\n\nExtended families, milestone celebrations and larger friend groups tend to get the most out of this villa's scale. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — WhatsApp us with your group size for availability."
-        },
-        "images": {
-            "cover": "/images/stays/five-palms-villa-candolim/cover.png",
-            "gallery": [
-                "/images/stays/five-palms-villa-candolim/cover.png",
-                "/images/stays/five-palms-villa-candolim/gallery-1.png",
-                "/images/stays/five-palms-villa-candolim/gallery-2.png",
-                "/images/stays/five-palms-villa-candolim/gallery-3.png",
-                "/images/stays/five-palms-villa-candolim/gallery-4.png",
-                "/images/stays/five-palms-villa-candolim/gallery-5.png",
-                "/images/stays/five-palms-villa-candolim/gallery-6.png",
-                "/images/stays/five-palms-villa-candolim/gallery-7.png",
-                "/images/stays/five-palms-villa-candolim/gallery-8.png",
-                "/images/stays/five-palms-villa-candolim/gallery-9.png",
-                "/images/stays/five-palms-villa-candolim/gallery-10.png"
-            ],
-            "video": ""
-        },
-        "tags": [
-            "North Goa",
-            "Candolim",
-            "Large Group",
-            "Luxury"
-        ],
-        "nearbyAttractions": [
-            "Candolim Beach – 0.5 km",
-            "Fort Aguada – 3.2 km",
-            "Sinquerim Beach – 2.2 km",
-            "Calangute Beach – 3 km"
-        ],
-        "faqs": [{
-                "question": "How far is Five Palms Villa from the beach?",
-                "answer": "Five Palms Villa is located a short distance from Candolim Beach, one of the area's most loved stretches of coast."
-            },
-            {
-                "question": "What are the check-in and check-out times?",
-                "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
-            },
-            {
-                "question": "How do I book Five Palms Villa?",
-                "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
-            },
-            {
-                "question": "Are peak-season rates different?",
-                "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
-            },
-            {
-                "question": "Is there a minimum stay for Five Palms Villa?",
-                "answer": "Yes, a 2-night minimum typically applies given the villa's scale — we'll confirm exact terms for your dates when you enquire."
-            }
-        ],
-        "reviews": [{
-                "id": "rev-1",
-                "name": "The Choudhary Family",
-                "rating": 5,
-                "review": "Booked this for a 60th birthday celebration with 12 of us and it handled the group beautifully. Pool was a highlight every day.",
-                "date": "2026-01-18",
-                "location": "Jaipur",
-                "verified": true
-            },
-            {
-                "id": "rev-2",
-                "name": "Nitin Sarraf",
-                "rating": 5,
-                "review": "Premium finishes throughout, and close enough to Candolim's restaurants that we never needed a long drive.",
-                "date": "2025-10-09",
-                "location": "Surat",
-                "verified": true
-            }
-        ],
-        "vacationRentalSchema": true,
-        "breadcrumbs": [{
-                "name": "Home",
-                "url": "/"
-            },
-            {
-                "name": "All Stays",
-                "url": "/all-stays"
-            },
-            {
-                "name": "Group & Party Stays in Goa",
-                "url": "/group-stays-goa"
-            },
-            {
-                "name": "Five Palms Villa",
-                "url": "/stays/five-palms-villa-candolim"
-            }
-        ],
-        "seo": {
-            "metaTitle": "Five Palms Villa Candolim | Goa Beach Stays",
-            "metaDescription": "Premium 5 BHK villa on Candolim's beach belt with a private pool. Standard from ₹32,000/night. WhatsApp enquiry.",
-            "focusKeyword": "5 bhk villa candolim goa"
-        },
-        "contact": {
-            "whatsappNumber": "+919921372661",
-            "callNumber": "+918080557611"
-        },
-        "featured": true,
-        "active": true,
-        "publishedAt": "2025-01-10",
-        "priceRange": "₹32,000 – ₹80,000 per night"
+        "nearestBeach": "Morjim Beach (0.2 km)",
+        "nearestAirport": "Dabolim Airport (56 km)",
+        "postalCode": "403512"
     },
-    {
-        "id": "stay-020",
-        "slug": "moon-forest-villa-calangute",
-        "type": "villa",
-        "category": [
-            "large group",
-            "luxury",
-            "north-goa"
-        ],
-        "name": "Moon Forest Villa",
-        "tagline": "A Sprawling 6-Bedroom Estate Framed by Calangute's Palm Groves",
-        "location": {
-            "area": "North Goa, Calangute",
-            "district": "North Goa",
-            "region": "North Goa",
-            "address": "Calangute Interior Belt, North Goa, Goa 403516",
-            "coordinates": {
-                "lat": 15.5395,
-                "lng": 73.7645
-            },
-            "nearestBeach": "Calangute Beach (2 km)",
-            "nearestAirport": "Dabolim Airport (45 km)",
-            "postalCode": "403516"
+    "pricing": {
+        "standard": {
+            "label": "Standard (Feb–Oct)",
+            "roomTypes": [
+                {
+                    "type": "Deluxe Garden Room",
+                    "pricePerNight": 5500,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Beachfront Suite",
+                    "pricePerNight": 8200,
+                    "maxGuests": 3
+                }
+            ]
         },
-        "pricing": {
-            "standard": {
-                "label": "Standard (Feb–Oct)",
-                "roomTypes": [{
-                        "type": "Garden Bedroom",
-                        "pricePerNight": 38000,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Premium Suite",
-                        "pricePerNight": 48000,
-                        "maxGuests": 3
-                    }
-                ]
-            },
-            "season": {
-                "label": "Peak Season (Nov, Dec, Jan)",
-                "note": "Rates typically double during Goa's peak tourist season (November–January).",
-                "roomTypes": [{
-                        "type": "Garden Bedroom",
-                        "pricePerNight": 76000,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Premium Suite",
-                        "pricePerNight": 96000,
-                        "maxGuests": 3
-                    }
-                ]
-            },
-            "currency": "INR",
-            "minStay": 2,
-            "displayPrice": 38000
+        "season": {
+            "label": "Peak Season (Nov, Dec, Jan)",
+            "note": "Rates typically double during Goa's peak tourist season (November–January).",
+            "roomTypes": [
+                {
+                    "type": "Deluxe Garden Room",
+                    "pricePerNight": 11000,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Beachfront Suite",
+                    "pricePerNight": 16400,
+                    "maxGuests": 3
+                }
+            ]
         },
-        "rooms": 6,
-        "maxGuests": 15,
-        "bedrooms": 6,
-        "bathrooms": 6,
-        "amenities": [
-            "Private Pool",
-            "Free WiFi",
-            "Air Conditioning",
-            "Fully Equipped Kitchen",
-            "Free Parking",
-            "BBQ Area",
-            "Landscaped Garden",
-            "Daily Housekeeping",
-            "24/7 Caretaker",
-            "Smart TV",
-            "Sound System"
-        ],
-        "highlights": [
-            "6 bedrooms set within mature palm-grove grounds",
-            "Large private pool with generous surrounding lawn",
-            "A short drive rather than a walk to Calangute's beach",
-            "Ideal for large celebrations wanting privacy and greenery"
-        ],
-        "description": {
-            "short": "A 6-bedroom villa estate set within palm-grove grounds near Calangute, with a large private pool for big groups. Book by WhatsApp.",
-            "long": "Moon Forest Villa trades beachfront proximity for scale and greenery — six bedrooms spread across grounds framed by mature palm groves, with a private pool and lawn big enough for a wedding-adjacent celebration or a full extended family reunion.\n\nSitting a short drive rather than a walk from Calangute's beach, it's a deliberate trade-off: more privacy, more garden space, and a genuine sense of retreat that's harder to find on the busier beachfront strip. The grounds themselves become the centrepiece of the stay rather than just a stopover between beach visits.\n\nIt's best suited to large families and groups planning a milestone celebration who want their own private grounds rather than sharing a beachfront strip with other tourists. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — WhatsApp us with your group size and dates."
-        },
-        "images": {
-            "cover": "/images/stays/moon-forest-villa-calangute/cover.png",
-            "gallery": [
-                "/images/stays/moon-forest-villa-calangute/cover.png",
-                "/images/stays/moon-forest-villa-calangute/gallery-1.png",
-                "/images/stays/moon-forest-villa-calangute/gallery-2.png",
-                "/images/stays/moon-forest-villa-calangute/gallery-3.png",
-                "/images/stays/moon-forest-villa-calangute/gallery-4.png",
-                "/images/stays/moon-forest-villa-calangute/gallery-5.png",
-                "/images/stays/moon-forest-villa-calangute/gallery-6.png",
-                "/images/stays/moon-forest-villa-calangute/gallery-7.png",
-                "/images/stays/moon-forest-villa-calangute/gallery-8.png"
-            ],
-            "video": ""
-        },
-        "tags": [
-            "North Goa",
-            "Calangute",
-            "Large Group",
-            "Luxury"
-        ],
-        "nearbyAttractions": [
-            "Calangute Beach – 2 km",
-            "Calangute Market – 1.5 km",
-            "Candolim Beach – 3.5 km",
-            "Baga Beach – 4 km"
-        ],
-        "faqs": [{
-                "question": "How far is Moon Forest Villa from the beach?",
-                "answer": "Moon Forest Villa is a short drive from Calangute Beach, one of the area's most loved stretches of coast."
-            },
-            {
-                "question": "What are the check-in and check-out times?",
-                "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
-            },
-            {
-                "question": "How do I book Moon Forest Villa?",
-                "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
-            },
-            {
-                "question": "Are peak-season rates different?",
-                "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
-            },
-            {
-                "question": "Is Moon Forest Villa suitable for hosting a celebration or small event?",
-                "answer": "Yes, the grounds and pool area comfortably accommodate larger gatherings — let us know your plans when you enquire so we can confirm suitability."
-            }
-        ],
-        "reviews": [{
-                "id": "rev-1",
-                "name": "The Agarwal Family",
-                "rating": 5,
-                "review": "We hosted a 40th anniversary celebration here and the grounds were stunning. Six bedrooms meant every family unit had their own space.",
-                "date": "2026-02-08",
-                "location": "Lucknow",
-                "verified": true
-            },
-            {
-                "id": "rev-2",
-                "name": "Rohit Malhotra",
-                "rating": 5,
-                "review": "The greenery around the pool made it feel like a private resort rather than a rental. Worth the short drive to the beach.",
-                "date": "2025-11-30",
-                "location": "Delhi",
-                "verified": true
-            }
-        ],
-        "vacationRentalSchema": true,
-        "breadcrumbs": [{
-                "name": "Home",
-                "url": "/"
-            },
-            {
-                "name": "All Stays",
-                "url": "/all-stays"
-            },
-            {
-                "name": "Corporate & Group Villas in Goa",
-                "url": "/corporate-villas-goa"
-            },
-            {
-                "name": "Moon Forest Villa",
-                "url": "/stays/moon-forest-villa-calangute"
-            }
-        ],
-        "seo": {
-            "metaTitle": "Moon Forest Villa Calangute | Goa Beach Stays",
-            "metaDescription": "6-bedroom villa estate near Calangute with a large private pool and gardens. Standard from ₹38,000/night. WhatsApp enquiry.",
-            "focusKeyword": "6 bhk villa calangute goa"
-        },
-        "contact": {
-            "whatsappNumber": "+919921372661",
-            "callNumber": "+918080557611"
-        },
-        "featured": true,
-        "active": true,
-        "publishedAt": "2025-01-10",
-        "priceRange": "₹38,000 – ₹96,000 per night"
+        "currency": "INR",
+        "minStay": 1,
+        "displayPrice": 5500
     },
+    "rooms": 16,
+    "maxGuests": 40,
+    "bedrooms": 16,
+    "bathrooms": 16,
+    "amenities": [
+        "Beach Access",
+        "Swimming Pool",
+        "Free WiFi",
+        "Air Conditioning",
+        "In-house Restaurant",
+        "Room Service",
+        "Free Parking",
+        "Beachfront Sundeck",
+        "Daily Housekeeping",
+        "Front Desk",
+        "Laundry Service"
+    ],
+    "highlights": [
+        "Rooms set directly along Morjim's open, uncrowded shoreline",
+        "Beachfront swimming pool with uninterrupted sea views",
+        "In-house restaurant serving Goan and continental favourites",
+        "A calmer, more low-key alternative to North Goa's busier beach belts"
+    ],
+    "description": {
+        "short": "A beachfront resort on Morjim's open sands, with sea-facing rooms and a pool overlooking the shore. Book by WhatsApp.",
+        "long": "Costa Dourada Resort sits directly along Morjim's wide, uncrowded shoreline, where the sand stretches quieter and longer than North Goa's busier beach towns. Rooms are arranged to make the most of that setting, with the Beachfront Suite category opening straight onto sea views and the resort's pool built to catch the same outlook.\n\nMorjim's slower pace, known locally for its laid-back cafes and calmer stretch of coast, suits travellers looking for a proper beach break over a party scene. The in-house restaurant covers everything from Goan seafood to familiar continental plates, so guests rarely need to leave the property for a good meal, though Morjim's beach shacks are an easy stroll away for those who want to.\n\nIt's a strong fit for couples and families wanting a genuine beachfront stay without Baga or Calangute's crowds. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — WhatsApp us for live rates and availability."
+    },
+    "images": {
+        "cover": "/images/stays/five-palms-villa-candolim/cover.png",
+        "gallery": [
+            "/images/stays/five-palms-villa-candolim/cover.png",
+            "/images/stays/five-palms-villa-candolim/gallery-1.png",
+            "/images/stays/five-palms-villa-candolim/gallery-2.png",
+            "/images/stays/five-palms-villa-candolim/gallery-3.png",
+            "/images/stays/five-palms-villa-candolim/gallery-4.png",
+            "/images/stays/five-palms-villa-candolim/gallery-5.png",
+            "/images/stays/five-palms-villa-candolim/gallery-6.png",
+            "/images/stays/five-palms-villa-candolim/gallery-7.png",
+            "/images/stays/five-palms-villa-candolim/gallery-8.png",
+            "/images/stays/five-palms-villa-candolim/gallery-9.png",
+            "/images/stays/five-palms-villa-candolim/gallery-10.png"
+        ],
+        "video": ""
+    },
+    "tags": [
+        "Beachfront",
+        "North Goa",
+        "Morjim",
+        "Luxury"
+    ],
+    "nearbyAttractions": [
+        "Morjim Beach – 0.2 km",
+        "Ashvem Beach – 2.5 km",
+        "Chapora River – 1.5 km",
+        "Mandrem Beach – 4.8 km"
+    ],
+    "faqs": [
+        {
+            "question": "How far is Costa Dourada Resort from the beach?",
+            "answer": "Costa Dourada Resort sits directly on Morjim Beach, one of North Goa's calmest and most open stretches of coast."
+        },
+        {
+            "question": "What are the check-in and check-out times?",
+            "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
+        },
+        {
+            "question": "How do I book Costa Dourada Resort?",
+            "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
+        },
+        {
+            "question": "Are peak-season rates different?",
+            "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
+        },
+        {
+            "question": "Does the resort have rooms with a sea view?",
+            "answer": "Yes, the Beachfront Suite category faces the sea directly, while the Deluxe Garden Room overlooks the pool and garden area. Let us know your preference when you enquire."
+        }
+    ],
+    "reviews": [
+        {
+            "id": "rev-1",
+            "name": "Ritika & Arjun",
+            "rating": 5,
+            "review": "Loved waking up to the sea every morning — Morjim's beach was so much quieter than Baga where we stayed last time. The pool right by the shore was a nice bonus.",
+            "date": "2026-01-14",
+            "location": "Bangalore",
+            "verified": true
+        },
+        {
+            "id": "rev-2",
+            "name": "Kavita Iyer",
+            "rating": 4,
+            "review": "Peaceful stretch of beach and the in-house restaurant was surprisingly good. Would've liked a slightly bigger room but the sea view made up for it.",
+            "date": "2025-11-02",
+            "location": "Hyderabad",
+            "verified": true
+        }
+    ],
+    "vacationRentalSchema": true,
+    "breadcrumbs": [
+        {
+            "name": "Home",
+            "url": "/"
+        },
+        {
+            "name": "All Stays",
+            "url": "/all-stays"
+        },
+        {
+            "name": "Luxury Resorts in Goa",
+            "url": "/luxury-resorts-goa"
+        },
+        {
+            "name": "Costa Dourada Resort",
+            "url": "/stays/five-palms-villa-candolim"
+        }
+    ],
+    "seo": {
+        "metaTitle": "Costa Dourada Resort Morjim | Goa Beach Stays",
+        "metaDescription": "Beachfront resort on Morjim's open sands with sea-view rooms and a pool overlooking the shore. Standard from ₹5,500/night. WhatsApp enquiry.",
+        "focusKeyword": "beachfront resort morjim goa"
+    },
+    "contact": {
+        "whatsappNumber": "+919921372661",
+        "callNumber": "+918080557611"
+    },
+    "featured": true,
+    "active": true,
+    "publishedAt": "2025-01-10",
+    "priceRange": "₹5,500 – ₹16,400 per night"
+},
+    {
+    "id": "stay-020",
+    "slug": "farol-bay-resort-arambol",
+    "type": "resort",
+    "category": [
+        "beachfront",
+        "luxury",
+        "north-goa"
+    ],
+    "name": "Farol Bay Resort",
+    "tagline": "A Premium 4-Star Beachfront Resort on Arambol's Open Sands",
+    "location": {
+        "area": "North Goa, Arambol",
+        "district": "North Goa",
+        "region": "North Goa",
+        "address": "Arambol Beach Road, North Goa, Goa 403524",
+        "coordinates": {
+            "lat": 15.684,
+            "lng": 73.7115
+        },
+        "nearestBeach": "Arambol Beach (0.3 km)",
+        "nearestAirport": "Dabolim Airport (57 km)",
+        "postalCode": "403524"
+    },
+    "pricing": {
+        "standard": {
+            "label": "Standard (Feb–Oct)",
+            "roomTypes": [
+                {
+                    "type": "Deluxe Sea View Room",
+                    "pricePerNight": 6200,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Premium Beachfront Suite",
+                    "pricePerNight": 8600,
+                    "maxGuests": 3
+                }
+            ]
+        },
+        "season": {
+            "label": "Peak Season (Nov, Dec, Jan)",
+            "note": "Rates typically double during Goa's peak tourist season (November–January).",
+            "roomTypes": [
+                {
+                    "type": "Deluxe Sea View Room",
+                    "pricePerNight": 12400,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Premium Beachfront Suite",
+                    "pricePerNight": 17200,
+                    "maxGuests": 3
+                }
+            ]
+        },
+        "currency": "INR",
+        "minStay": 1,
+        "displayPrice": 6200
+    },
+    "rooms": 24,
+    "maxGuests": 55,
+    "bedrooms": 24,
+    "bathrooms": 24,
+    "amenities": [
+        "Infinity Pool",
+        "Beach Access",
+        "Free WiFi",
+        "Air Conditioning",
+        "Multi-Cuisine Restaurant",
+        "Rooftop Dining",
+        "Bar",
+        "Spa",
+        "Elevator",
+        "Free Parking",
+        "Room Service",
+        "Daily Housekeeping",
+        "Front Desk"
+    ],
+    "highlights": [
+        "Beach-facing infinity pool looking straight out over Arambol's open shoreline",
+        "Rooftop dining and a bar for sunset views without leaving the property",
+        "Spa and lift access — uncommon polish for a resort this close to Arambol's beach",
+        "A genuine 4-star alternative to Arambol's older guesthouse-style stays"
+    ],
+    "description": {
+        "short": "A premium 4-star beachfront resort on Arambol's open sands, with an infinity pool, spa, and rooftop dining. Book by WhatsApp.",
+        "long": "Farol Bay Resort brings a level of polish that's still rare on Arambol's laid-back stretch of coast — a beach-facing infinity pool, a proper spa, rooftop dining, and lift access across 24 rooms, most looking straight out toward the sea.\n\nArambol has long been known for its bohemian, slower pace rather than resort-style comfort, and Farol Bay sits at that intersection: full-service amenities — multi-cuisine restaurant, bar, daily housekeeping — without losing the beach's open, uncrowded character. The Premium Beachfront Suite category makes the most of the setting, with direct sea views from the room itself.\n\nIt suits couples and families wanting a genuine 4-star resort stay in one of North Goa's most scenic, least commercial beach towns. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — WhatsApp us for current rates and room availability."
+    },
+    "images": {
+        "cover": "/images/stays/moon-forest-villa-calangute/cover.png",
+        "gallery": [
+            "/images/stays/moon-forest-villa-calangute/cover.png",
+            "/images/stays/moon-forest-villa-calangute/gallery-1.png",
+            "/images/stays/moon-forest-villa-calangute/gallery-2.png",
+            "/images/stays/moon-forest-villa-calangute/gallery-3.png",
+            "/images/stays/moon-forest-villa-calangute/gallery-4.png",
+            "/images/stays/moon-forest-villa-calangute/gallery-5.png",
+            "/images/stays/moon-forest-villa-calangute/gallery-6.png",
+            "/images/stays/moon-forest-villa-calangute/gallery-7.png",
+            "/images/stays/moon-forest-villa-calangute/gallery-8.png"
+        ],
+        "video": ""
+    },
+    "tags": [
+        "North Goa",
+        "Arambol",
+        "Beachfront",
+        "Resort"
+    ],
+    "nearbyAttractions": [
+        "Arambol Beach – 0.3 km",
+        "Arambol Sweet Water Lake – 1 km",
+        "Arambol Cliff & Paragliding Point – 1.2 km",
+        "Mandrem Beach – 4 km"
+    ],
+    "faqs": [
+        {
+            "question": "How far is Farol Bay Resort from the beach?",
+            "answer": "Farol Bay Resort sits directly on Arambol Beach, one of North Goa's most scenic and laid-back stretches of coast."
+        },
+        {
+            "question": "What are the check-in and check-out times?",
+            "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
+        },
+        {
+            "question": "How do I book Farol Bay Resort?",
+            "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
+        },
+        {
+            "question": "Are peak-season rates different?",
+            "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
+        },
+        {
+            "question": "Does the resort have a spa and restaurant?",
+            "answer": "Yes, Farol Bay Resort has an in-house spa, a multi-cuisine restaurant, rooftop dining, and a bar — all on-site."
+        }
+    ],
+    "reviews": [
+        {
+            "id": "rev-1",
+            "name": "Priya & Karan",
+            "rating": 5,
+            "review": "The infinity pool facing the beach was stunning at sunset, and the rooftop dinner was a highlight. Didn't expect this level of polish in Arambol.",
+            "date": "2026-02-08",
+            "location": "Mumbai",
+            "verified": true
+        },
+        {
+            "id": "rev-2",
+            "name": "Neha Kapoor",
+            "rating": 5,
+            "review": "Loved that it had a spa and a proper restaurant while still feeling like Arambol — quiet, open beach, none of the Baga crowds.",
+            "date": "2025-11-30",
+            "location": "Pune",
+            "verified": true
+        }
+    ],
+    "vacationRentalSchema": true,
+    "breadcrumbs": [
+        {
+            "name": "Home",
+            "url": "/"
+        },
+        {
+            "name": "All Stays",
+            "url": "/all-stays"
+        },
+        {
+            "name": "Luxury Resorts in Goa",
+            "url": "/luxury-resorts-goa"
+        },
+        {
+            "name": "Farol Bay Resort",
+            "url": "/stays/farol-bay-resort-arambol"
+        }
+    ],
+    "seo": {
+        "metaTitle": "Farol Bay Resort Arambol | Goa Beach Stays",
+        "metaDescription": "Premium 4-star beachfront resort on Arambol's open sands, with infinity pool, spa, and rooftop dining. Standard from ₹6,200/night. WhatsApp enquiry.",
+        "focusKeyword": "beachfront resort arambol goa"
+    },
+    "contact": {
+        "whatsappNumber": "+919921372661",
+        "callNumber": "+918080557611"
+    },
+    "featured": true,
+    "active": true,
+    "publishedAt": "2025-01-10",
+    "priceRange": "₹6,200 – ₹17,200 per night"
+},
     {
         "id": "stay-021",
         "slug": "wooden-cove-resort-calangute",
@@ -5209,185 +5254,193 @@
         "priceRange": "₹1,900 – ₹5,200 per night"
     },
     {
-        "id": "stay-030",
-        "slug": "horizon-bluff-cottages-vagator",
-        "type": "villa",
-        "category": [
-            "couple-friendly",
-            "north-goa",
-            "sea view"
-        ],
-        "name": "Horizon Bluff Cottages",
-        "tagline": "Premium Clifftop Cottages Overlooking Vagator's Sunset Pool",
-        "location": {
-            "area": "North Goa, Vagator",
-            "district": "North Goa",
-            "region": "North Goa",
-            "address": "Vagator Cliff Road, North Goa, Goa 403509",
-            "coordinates": {
-                "lat": 15.596,
-                "lng": 73.738
-            },
-            "nearestBeach": "Vagator Beach (0.4 km)",
-            "nearestAirport": "Dabolim Airport (51 km)",
-            "postalCode": "403509"
+    "id": "stay-030",
+    "slug": "costa-vermelha-resort-vagator",
+    "type": "resort",
+    "category": [
+        "beachfront",
+        "luxury",
+        "north-goa",
+        "couple-friendly"
+    ],
+    "name": "Costa Vermelha Resort",
+    "tagline": "A Boutique Clifftop Resort Above Vagator's Red Cliffs",
+    "location": {
+        "area": "North Goa, Vagator",
+        "district": "North Goa",
+        "region": "North Goa",
+        "address": "Vagator Cliff Road, North Goa, Goa 403509",
+        "coordinates": {
+            "lat": 15.596,
+            "lng": 73.738
         },
-        "pricing": {
-            "standard": {
-                "label": "Standard (Feb–Oct)",
-                "roomTypes": [{
-                        "type": "Cliffview Cottage",
-                        "pricePerNight": 8200,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Pool-View Cottage",
-                        "pricePerNight": 10400,
-                        "maxGuests": 2
-                    }
-                ]
-            },
-            "season": {
-                "label": "Peak Season (Nov, Dec, Jan)",
-                "note": "Rates typically double during Goa's peak tourist season (November–January).",
-                "roomTypes": [{
-                        "type": "Cliffview Cottage",
-                        "pricePerNight": 16400,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Pool-View Cottage",
-                        "pricePerNight": 20800,
-                        "maxGuests": 2
-                    }
-                ]
-            },
-            "currency": "INR",
-            "minStay": 1,
-            "displayPrice": 8200
-        },
-        "rooms": 8,
-        "maxGuests": 16,
-        "bedrooms": 8,
-        "bathrooms": 8,
-        "amenities": [
-            "Swimming Pool",
-            "Free WiFi",
-            "Air Conditioning",
-            "In-house Cafe",
-            "Free Parking",
-            "Cliffside Deck",
-            "Daily Housekeeping",
-            "Front Desk"
-        ],
-        "highlights": [
-            "Individual cottages positioned for a private pool-and-sea outlook",
-            "Cliffside deck facing Vagator's celebrated sunset views",
-            "Small enough to feel personal, premium enough to feel indulgent",
-            "A short walk to Vagator's red-cliff viewpoints and Chapora Fort"
-        ],
-        "description": {
-            "short": "Premium clifftop cottages above Vagator, each positioned for a pool-and-sea view over one of Goa's best sunset spots. Book by WhatsApp.",
-            "long": "Horizon Bluff Cottages is arranged deliberately — eight individual cottages, each angled so the pool and the sea beyond sit in the same sightline from your own deck. Vagator's red cliffs are famous for their sunsets, and this property puts that view within arm's reach every evening rather than requiring a walk to a viewpoint.\n\nThe scale stays intentionally small, which keeps the pool quiet and the cafe's breakfast service unhurried. Vagator's clifftop lookouts and Chapora Fort are both a short stroll away for anyone wanting to add a sunset walk to the evening's routine.\n\nCouples marking an anniversary or simply chasing Goa's best sunset backdrop tend to linger here longer than planned. We can help you pick between the cliffview and pool-view cottages based on what matters most to you — get in touch and we'll walk you through both."
-        },
-        "images": {
-            "cover": "/images/stays/horizon-bluff-cottages-vagator/cover.png",
-            "gallery": [
-                "/images/stays/horizon-bluff-cottages-vagator/cover.png",
-                "/images/stays/horizon-bluff-cottages-vagator/gallery-1.png",
-                "/images/stays/horizon-bluff-cottages-vagator/gallery-2.png",
-                "/images/stays/horizon-bluff-cottages-vagator/gallery-3.png",
-                "/images/stays/horizon-bluff-cottages-vagator/gallery-4.png",
-                "/images/stays/horizon-bluff-cottages-vagator/gallery-5.png",
-                "/images/stays/horizon-bluff-cottages-vagator/gallery-6.png",
-                "/images/stays/horizon-bluff-cottages-vagator/gallery-7.png"
-            ],
-            "video": ""
-        },
-        "tags": [
-            "North Goa",
-            "Vagator",
-            "Sea View",
-            "Cottages"
-        ],
-        "nearbyAttractions": [
-            "Vagator Beach – 0.4 km",
-            "Chapora Fort – 1.2 km",
-            "Anjuna Beach – 3.5 km",
-            "Ozran Beach – 0.8 km"
-        ],
-        "faqs": [{
-                "question": "How far is Horizon Bluff Cottages from the beach?",
-                "answer": "Horizon Bluff Cottages sits a short walk from Vagator Beach, known for its dramatic cliffs and sunset views."
-            },
-            {
-                "question": "What are the check-in and check-out times?",
-                "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
-            },
-            {
-                "question": "How do I book Horizon Bluff Cottages?",
-                "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
-            },
-            {
-                "question": "Are peak-season rates different?",
-                "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
-            },
-            {
-                "question": "What's the difference between the cliffview and pool-view cottages?",
-                "answer": "Both look out toward the sea; the pool-view cottages are positioned to also overlook the swimming pool, while cliffview cottages face the open cliffside directly. We can help you choose based on your preference."
-            }
-        ],
-        "reviews": [{
-                "id": "rev-1",
-                "name": "Aryan & Diya",
-                "rating": 5,
-                "review": "Watched the sunset from our own deck every single evening. One of the most romantic settings we've stayed in anywhere in Goa.",
-                "date": "2026-02-19",
-                "location": "Mumbai",
-                "verified": true
-            },
-            {
-                "id": "rev-2",
-                "name": "Claire M.",
-                "rating": 5,
-                "review": "Small, quiet, and the view genuinely lived up to Vagator's reputation. Walked to Chapora Fort one evening, easily done.",
-                "date": "2025-11-04",
-                "location": "Bengaluru",
-                "verified": true
-            }
-        ],
-        "vacationRentalSchema": true,
-        "breadcrumbs": [{
-                "name": "Home",
-                "url": "/"
-            },
-            {
-                "name": "All Stays",
-                "url": "/all-stays"
-            },
-            {
-                "name": "Sea View Villas in Goa",
-                "url": "/sea-view-villas-goa"
-            },
-            {
-                "name": "Horizon Bluff Cottages",
-                "url": "/stays/horizon-bluff-cottages-vagator"
-            }
-        ],
-        "seo": {
-            "metaTitle": "Horizon Bluff Cottages Vagator | Goa Beach Stays",
-            "metaDescription": "Premium clifftop cottages in Vagator with pool and sea sunset views. Standard from ₹8,200/night. Get in touch and we'll help you choose your cottage.",
-            "focusKeyword": "vagator cliffside cottages sea view"
-        },
-        "contact": {
-            "whatsappNumber": "+919921372661",
-            "callNumber": "+918080557611"
-        },
-        "featured": true,
-        "active": true,
-        "publishedAt": "2025-01-10",
-        "priceRange": "₹8,200 – ₹20,800 per night"
+        "nearestBeach": "Vagator Beach (0.4 km)",
+        "nearestAirport": "Dabolim Airport (51 km)",
+        "postalCode": "403509"
     },
+    "pricing": {
+        "standard": {
+            "label": "Standard (Feb–Oct)",
+            "roomTypes": [
+                {
+                    "type": "Cliffview Deluxe Room",
+                    "pricePerNight": 8500,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Pool-View Premium Suite",
+                    "pricePerNight": 11500,
+                    "maxGuests": 2
+                }
+            ]
+        },
+        "season": {
+            "label": "Peak Season (Nov, Dec, Jan)",
+            "note": "Rates typically double during Goa's peak tourist season (November–January).",
+            "roomTypes": [
+                {
+                    "type": "Cliffview Deluxe Room",
+                    "pricePerNight": 17000,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Pool-View Premium Suite",
+                    "pricePerNight": 23000,
+                    "maxGuests": 2
+                }
+            ]
+        },
+        "currency": "INR",
+        "minStay": 1,
+        "displayPrice": 8500
+    },
+    "rooms": 14,
+    "maxGuests": 28,
+    "bedrooms": 14,
+    "bathrooms": 14,
+    "amenities": [
+        "Swimming Pool",
+        "Free WiFi",
+        "Air Conditioning",
+        "In-house Restaurant",
+        "Room Service",
+        "Free Parking",
+        "Cliffside Sundeck",
+        "Daily Housekeeping",
+        "Front Desk",
+        "Laundry Service"
+    ],
+    "highlights": [
+        "14 rooms set along Vagator's red cliffs, each angled toward the pool and sea",
+        "Cliffside infinity-edge pool facing Vagator's celebrated sunset views",
+        "In-house restaurant serving Goan and continental fare, with a cliffside sundeck for evening drinks",
+        "Boutique in scale but resort-level in service — a calmer alternative to Vagator's beach-shack crowds"
+    ],
+    "description": {
+        "short": "A boutique clifftop resort above Vagator's red cliffs, with rooms angled toward the pool and sea. Book by WhatsApp.",
+        "long": "Costa Vermelha Resort takes its name from the rust-red cliffs it sits on — vermelha, Portuguese for red, a nod to the very cliffline Vagator is known for. The resort's 14 rooms are arranged so the pool and the sea beyond stay in view from most decks, with the Pool-View Premium Suite category built to make the most of that outlook.\n\nVagator's clifftop lookouts and Chapora Fort are a short stroll away, and the resort's own cliffside sundeck means guests don't have to leave the property to catch the sunset the area is famous for. The in-house restaurant covers Goan seafood through to continental plates, with room service available for guests who'd rather stay in.\n\nIt's a strong fit for couples wanting a proper resort experience — pool, restaurant, daily housekeeping — without losing the intimacy of a smaller property. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — WhatsApp us for live rates and availability."
+    },
+    "images": {
+        "cover": "/images/stays/horizon-bluff-cottages-vagator/cover.png",
+        "gallery": [
+            "/images/stays/horizon-bluff-cottages-vagator/cover.png",
+            "/images/stays/horizon-bluff-cottages-vagator/gallery-1.png",
+            "/images/stays/horizon-bluff-cottages-vagator/gallery-2.png",
+            "/images/stays/horizon-bluff-cottages-vagator/gallery-3.png",
+            "/images/stays/horizon-bluff-cottages-vagator/gallery-4.png",
+            "/images/stays/horizon-bluff-cottages-vagator/gallery-5.png",
+            "/images/stays/horizon-bluff-cottages-vagator/gallery-6.png",
+            "/images/stays/horizon-bluff-cottages-vagator/gallery-7.png"
+        ],
+        "video": ""
+    },
+    "tags": [
+        "North Goa",
+        "Vagator",
+        "Beachfront",
+        "Resort"
+    ],
+    "nearbyAttractions": [
+        "Vagator Beach – 0.4 km",
+        "Chapora Fort – 1.2 km",
+        "Anjuna Beach – 3.5 km",
+        "Ozran Beach – 0.8 km"
+    ],
+    "faqs": [
+        {
+            "question": "How far is Costa Vermelha Resort from the beach?",
+            "answer": "Costa Vermelha Resort sits a short walk from Vagator Beach, on the clifftop the area is known for."
+        },
+        {
+            "question": "What are the check-in and check-out times?",
+            "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
+        },
+        {
+            "question": "How do I book Costa Vermelha Resort?",
+            "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
+        },
+        {
+            "question": "Are peak-season rates different?",
+            "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
+        },
+        {
+            "question": "Does the resort have a restaurant?",
+            "answer": "Yes, Costa Vermelha Resort has an in-house restaurant serving Goan and continental dishes, plus room service for guests who prefer to dine in."
+        }
+    ],
+    "reviews": [
+        {
+            "id": "rev-1",
+            "name": "Aryan & Diya",
+            "rating": 5,
+            "review": "Watched the sunset from our own deck every single evening. One of the most romantic settings we've stayed in anywhere in Goa.",
+            "date": "2026-02-19",
+            "location": "Mumbai",
+            "verified": true
+        },
+        {
+            "id": "rev-2",
+            "name": "Claire M.",
+            "rating": 5,
+            "review": "Small, quiet, and the view genuinely lived up to Vagator's reputation. Walked to Chapora Fort one evening, easily done.",
+            "date": "2025-11-04",
+            "location": "Bengaluru",
+            "verified": true
+        }
+    ],
+    "vacationRentalSchema": true,
+    "breadcrumbs": [
+        {
+            "name": "Home",
+            "url": "/"
+        },
+        {
+            "name": "All Stays",
+            "url": "/all-stays"
+        },
+        {
+            "name": "Luxury Resorts in Goa",
+            "url": "/luxury-resorts-goa"
+        },
+        {
+            "name": "Costa Vermelha Resort",
+            "url": "/stays/costa-vermelha-resort-vagator"
+        }
+    ],
+    "seo": {
+        "metaTitle": "Costa Vermelha Resort Vagator | Goa Beach Stays",
+        "metaDescription": "Boutique clifftop resort above Vagator's red cliffs, with pool and sea-view rooms. Standard from ₹8,500/night. WhatsApp enquiry.",
+        "focusKeyword": "boutique resort vagator cliffs"
+    },
+    "contact": {
+        "whatsappNumber": "+919921372661",
+        "callNumber": "+918080557611"
+    },
+    "featured": true,
+    "active": true,
+    "publishedAt": "2025-01-10",
+    "priceRange": "₹8,500 – ₹23,000 per night"
+},
     {
         "id": "stay-031",
         "slug": "deep-blue-sea-resort",

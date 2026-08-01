@@ -16,12 +16,16 @@ export function CollectionCards() {
       <SectionHeader title="Explore Villa Collections" />
       <div className="grid grid-cols-1 gap-6 sm:grid-cols-2">
         {COLLECTIONS.map((c) => (
-          <Link key={c.href} href={c.href} className="group relative block aspect-[16/10] overflow-hidden rounded-2xl">
-            <Image src={c.image} alt={c.label} fill sizes="(max-width: 640px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/10 to-transparent" />
+          <Link
+            key={c.href}
+            href={c.href}
+            className="group relative block aspect-[16/10] overflow-hidden rounded-2xl shadow-sm transition-all duration-300 ease-out hover:shadow-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
+          >
+            <Image src={c.image} alt={c.label} fill sizes="(max-width: 640px) 100vw, 50vw" className="object-cover transition-transform duration-500 ease-out group-hover:scale-105" />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/10 to-transparent transition-opacity duration-300 group-hover:from-black/70" />
             <div className="absolute bottom-5 left-5 flex items-center gap-2 text-white">
               <span className="font-heading text-xl font-semibold">{c.label}</span>
-              <ArrowRight className="size-5 transition-transform group-hover:translate-x-1" />
+              <ArrowRight className="size-5 transition-transform duration-200 ease-out group-hover:translate-x-1" />
             </div>
           </Link>
         ))}

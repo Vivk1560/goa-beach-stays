@@ -28,13 +28,13 @@ export function AboutAgentSection() {
             actually fits — not just whatever has availability.
           </p>
           <div className="mt-8 flex flex-wrap items-center gap-4">
-            <a href={enquiryHref} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 rounded-full bg-primary px-6 py-3 text-sm font-semibold text-primary-foreground transition-transform hover:scale-105">
+            <a href={enquiryHref} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 rounded-full bg-primary px-6 py-3 text-sm font-semibold text-primary-foreground shadow-sm transition-all duration-200 ease-out hover:scale-105 hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2">
               <MessageCircle className="size-4" aria-hidden="true" />
               Chat With Us on WhatsApp
             </a>
-            <Link href="/about-us" className="inline-flex items-center gap-1 text-sm font-semibold text-accent hover:underline">
+            <Link href="/about-us" className="group/link inline-flex items-center gap-1 text-sm font-semibold text-accent transition-colors duration-200 hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2">
               More About Us
-              <ArrowRight className="size-4" aria-hidden="true" />
+              <ArrowRight className="size-4 transition-transform duration-200 ease-out group-hover/link:translate-x-1" aria-hidden="true" />
             </Link>
           </div>
         </div>

@@ -22,9 +22,9 @@ export function BrowseByType() {
           <Link
             key={href}
             href={href}
-            className="flex min-w-[140px] flex-col items-center gap-3 rounded-xl border border-border bg-card p-5 text-center transition-colors hover:border-accent hover:bg-warm-tint"
+            className="flex min-w-[140px] flex-col items-center gap-3 rounded-xl border border-border bg-card p-5 text-center shadow-sm transition-all duration-200 ease-out hover:-translate-y-0.5 hover:border-accent hover:bg-warm-tint hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
           >
-            <span className="flex size-12 items-center justify-center rounded-full bg-primary/10 text-primary">
+            <span className="flex size-12 items-center justify-center rounded-full bg-primary/10 text-primary transition-colors duration-200">
               <Icon className="size-6" />
             </span>
             <span className="text-sm font-medium text-foreground">{label}</span>

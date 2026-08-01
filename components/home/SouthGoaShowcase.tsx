@@ -38,7 +38,7 @@ export function SouthGoaShowcase({ stays }: { stays: Stay[] }) {
         {HIGHLIGHTS.map(({ icon: Icon, label }) => (
           <span
             key={label}
-            className="inline-flex items-center gap-2 rounded-full bg-warm-tint px-4 py-2 text-sm font-medium text-foreground"
+            className="inline-flex items-center gap-2 rounded-full bg-warm-tint px-4 py-2 text-sm font-medium text-foreground transition-colors duration-200 hover:bg-accent/15"
           >
             <Icon className="size-4 text-primary" aria-hidden="true" />
             {label}
@@ -57,10 +57,10 @@ export function SouthGoaShowcase({ stays }: { stays: Stay[] }) {
       <div className="mt-10 text-center">
         <Link
           href="/south-goa-stays"
-          className="inline-flex items-center gap-2 rounded-full bg-accent px-7 py-3 text-sm font-semibold text-accent-foreground shadow-md transition-transform hover:scale-105"
+          className="group/cta inline-flex items-center gap-2 rounded-full bg-accent px-7 py-3 text-sm font-semibold text-accent-foreground shadow-md transition-all duration-200 ease-out hover:scale-105 hover:shadow-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
         >
           Explore South Goa
-          <ArrowRight className="size-4" aria-hidden="true" />
+          <ArrowRight className="size-4 transition-transform duration-200 ease-out group-hover/cta:translate-x-1" aria-hidden="true" />
         </Link>
       </div>
     </section>

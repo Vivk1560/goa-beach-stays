@@ -19,14 +19,14 @@ export function CTABanner() {
             href={enquiryHref}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 rounded-full bg-accent px-7 py-3 text-sm font-semibold text-accent-foreground shadow-md transition-transform hover:scale-105"
+            className="inline-flex items-center gap-2 rounded-full bg-accent px-7 py-3 text-sm font-semibold text-accent-foreground shadow-md transition-all duration-200 ease-out hover:scale-105 hover:shadow-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2 focus-visible:ring-offset-primary"
           >
             <MessageCircle className="size-4" aria-hidden="true" />
             WhatsApp Us
           </a>
           <a
             href={callUrl()}
-            className="inline-flex items-center gap-2 rounded-full border border-primary-foreground px-7 py-3 text-sm font-semibold transition-colors hover:bg-primary-foreground hover:text-primary"
+            className="inline-flex items-center gap-2 rounded-full border border-primary-foreground px-7 py-3 text-sm font-semibold transition-colors duration-200 hover:bg-primary-foreground hover:text-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2 focus-visible:ring-offset-primary"
           >
             <Phone className="size-4" aria-hidden="true" />
             Call Now
