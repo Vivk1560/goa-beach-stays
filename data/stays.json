@@ -4311,7 +4311,7 @@
     {
         "id": "stay-025",
         "slug": "sai-da-casa-beach-villa",
-        "type": "resort",
+        "type": "villa",
         "category": [
             "value",
             "family-friendly",
@@ -5385,7 +5385,7 @@
     {
         "id": "stay-031",
         "slug": "deep-blue-sea-resort",
-        "type": "villa",
+        "type": "resort",
         "category": [
             "private pool",
             "large group",
