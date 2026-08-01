@@ -4310,14 +4310,14 @@
     },
     {
         "id": "stay-025",
-        "slug": "anchor-oar-inn-candolim",
+        "slug": "sai-da-casa-beach-villa",
         "type": "resort",
         "category": [
             "value",
             "family-friendly",
             "north-goa"
         ],
-        "name": "Anchor & Oar Inn",
+        "name": "Sai Da Casa Beach Villa",
         "tagline": "A Simple, Friendly 3-Star Stay a Short Walk from Candolim Beach",
         "location": {
             "area": "North Goa, Candolim",
@@ -4388,20 +4388,20 @@
         ],
         "description": {
             "short": "A simple, welcoming 3-star inn tucked into a quiet Candolim lane, an easy walk from the beach. Book by WhatsApp.",
-            "long": "Anchor & Oar Inn keeps to a village lane just off Candolim's main belt, trading a beachfront address for a quieter night's sleep and a more personal, family-run feel. The beach itself is a comfortable 600-metre walk, and Candolim's restaurants and shops aren't much further.\n\nFamily rooms are built to fit two adults and two children without anyone feeling squeezed, making this a practical choice for a straightforward family weekend rather than a special-occasion trip. Staff here tend to remember returning guests, a natural upside of running a smaller, fourteen-room property rather than a large resort block.\n\nIt's the kind of stay we recommend to families and couples who want Candolim's convenience without paying for a beachfront view they won't spend much time looking at anyway. Our team can confirm live rates for your dates whenever you're ready — just drop us a message."
+            "long": "Sai Da Casa Beach Villa keeps to a village lane just off Candolim's main belt, trading a beachfront address for a quieter night's sleep and a more personal, family-run feel. The beach itself is a comfortable 600-metre walk, and Candolim's restaurants and shops aren't much further.\n\nFamily rooms are built to fit two adults and two children without anyone feeling squeezed, making this a practical choice for a straightforward family weekend rather than a special-occasion trip. Staff here tend to remember returning guests, a natural upside of running a smaller, fourteen-room property rather than a large resort block.\n\nIt's the kind of stay we recommend to families and couples who want Candolim's convenience without paying for a beachfront view they won't spend much time looking at anyway. Our team can confirm live rates for your dates whenever you're ready — just drop us a message."
         },
         "images": {
-            "cover": "/images/stays/anchor-oar-inn-candolim/cover.png",
+            "cover": "/images/stays/sai-da-casa-beach-villa/cover.png",
             "gallery": [
-                "/images/stays/anchor-oar-inn-candolim/cover.png",
-                "/images/stays/anchor-oar-inn-candolim/gallery-1.png",
-                "/images/stays/anchor-oar-inn-candolim/gallery-2.png",
-                "/images/stays/anchor-oar-inn-candolim/gallery-3.png",
-                "/images/stays/anchor-oar-inn-candolim/gallery-4.png",
-                "/images/stays/anchor-oar-inn-candolim/gallery-5.png",
-                "/images/stays/anchor-oar-inn-candolim/gallery-6.png",
-                "/images/stays/anchor-oar-inn-candolim/gallery-7.png",
-                "/images/stays/anchor-oar-inn-candolim/gallery-8.png"
+                "/images/stays/sai-da-casa-beach-villa/cover.png",
+                "/images/stays/sai-da-casa-beach-villa/gallery-1.png",
+                "/images/stays/sai-da-casa-beach-villa/gallery-2.png",
+                "/images/stays/sai-da-casa-beach-villa/gallery-3.png",
+                "/images/stays/sai-da-casa-beach-villa/gallery-4.png",
+                "/images/stays/sai-da-casa-beach-villa/gallery-5.png",
+                "/images/stays/sai-da-casa-beach-villa/gallery-6.png",
+                "/images/stays/sai-da-casa-beach-villa/gallery-7.png",
+                "/images/stays/sai-da-casa-beach-villa/gallery-8.png"
             ],
             "video": ""
         },
@@ -4418,15 +4418,15 @@
             "Calangute Beach – 2.5 km"
         ],
         "faqs": [{
-                "question": "How far is Anchor & Oar Inn from the beach?",
-                "answer": "Anchor & Oar Inn is a comfortable 600-metre walk from Candolim Beach, one of the area's most loved stretches of coast."
+                "question": "How far is Sai Da Casa Beach Villa from the beach?",
+                "answer": "Sai Da Casa Beach Villa is a comfortable 600-metre walk from Candolim Beach, one of the area's most loved stretches of coast."
             },
             {
                 "question": "What are the check-in and check-out times?",
                 "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
             },
             {
-                "question": "How do I book Anchor & Oar Inn?",
+                "question": "How do I book Sai Da Casa Beach Villa?",
                 "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
             },
             {
@@ -4467,12 +4467,12 @@
                 "url": "/stays-in-candolim"
             },
             {
-                "name": "Anchor & Oar Inn",
-                "url": "/stays/anchor-oar-inn-candolim"
+                "name": "Sai Da Casa Beach Villa",
+                "url": "/stays/sai-da-casa-beach-villa"
             }
         ],
         "seo": {
-            "metaTitle": "Anchor & Oar Inn Candolim | Goa Beach Stays",
+            "metaTitle": "Sai Da Casa Beach Villa | Goa Beach Stays",
             "metaDescription": "Friendly, value 3-star inn in a quiet Candolim lane, walk to the beach. Standard from ₹2,700/night. Reach out for the best available rates.",
             "focusKeyword": "candolim budget family hotel"
         },
@@ -5384,14 +5384,14 @@
     },
     {
         "id": "stay-031",
-        "slug": "amberlight-villa-vagator",
+        "slug": "deep-blue-sea-resort",
         "type": "villa",
         "category": [
             "private pool",
             "large group",
             "north-goa"
         ],
-        "name": "Amberlight Villa",
+        "name": "Deep Blue Sea Resort",
         "tagline": "A Private-Pool Villa Built for Vagator's Late Nights and Long Weekends",
         "location": {
             "area": "North Goa, Vagator",
@@ -5464,20 +5464,20 @@
         ],
         "description": {
             "short": "A 4 BHK private-pool villa near Vagator built for groups of friends on a long weekend, with a sound system and space to match. Book by WhatsApp.",
-            "long": "Amberlight Villa is upfront about its purpose — a private pool built for actual use late into the evening, a proper sound system rather than a token Bluetooth speaker, and a layout set back enough from neighbours that a lively group doesn't need to whisper after 10pm.\n\nVagator and Anjuna's clubs and beach parties are a short ride away, and the villa works as a natural landing pad before and after — pre-drinks around the pool, a late breakfast the next day, repeat. Four bedrooms split the cost comfortably across a group of eight to ten without anyone needing their own villa.\n\nWe place a lot of long-weekend friend-group trips here specifically because it's built for exactly that kind of stay, not adapted from a family villa afterthought. Message us with your group size and we'll confirm the best rate for your dates."
+            "long": "Deep Blue Sea Resort is upfront about its purpose — a private pool built for actual use late into the evening, a proper sound system rather than a token Bluetooth speaker, and a layout set back enough from neighbours that a lively group doesn't need to whisper after 10pm.\n\nVagator and Anjuna's clubs and beach parties are a short ride away, and the villa works as a natural landing pad before and after — pre-drinks around the pool, a late breakfast the next day, repeat. Four bedrooms split the cost comfortably across a group of eight to ten without anyone needing their own villa.\n\nWe place a lot of long-weekend friend-group trips here specifically because it's built for exactly that kind of stay, not adapted from a family villa afterthought. Message us with your group size and we'll confirm the best rate for your dates."
         },
         "images": {
-            "cover": "/images/stays/amberlight-villa-vagator/cover.png",
+            "cover": "/images/stays/deep-blue-sea-resort/cover.png",
             "gallery": [
-                "/images/stays/amberlight-villa-vagator/cover.png",
-                "/images/stays/amberlight-villa-vagator/gallery-1.png",
-                "/images/stays/amberlight-villa-vagator/gallery-2.png",
-                "/images/stays/amberlight-villa-vagator/gallery-3.png",
-                "/images/stays/amberlight-villa-vagator/gallery-4.png",
-                "/images/stays/amberlight-villa-vagator/gallery-5.png",
-                "/images/stays/amberlight-villa-vagator/gallery-6.png",
-                "/images/stays/amberlight-villa-vagator/gallery-7.png",
-                "/images/stays/amberlight-villa-vagator/gallery-8.png"
+                "/images/stays/deep-blue-sea-resort/cover.png",
+                "/images/stays/deep-blue-sea-resort/gallery-1.png",
+                "/images/stays/deep-blue-sea-resort/gallery-2.png",
+                "/images/stays/deep-blue-sea-resort/gallery-3.png",
+                "/images/stays/deep-blue-sea-resort/gallery-4.png",
+                "/images/stays/deep-blue-sea-resort/gallery-5.png",
+                "/images/stays/deep-blue-sea-resort/gallery-6.png",
+                "/images/stays/deep-blue-sea-resort/gallery-7.png",
+                "/images/stays/deep-blue-sea-resort/gallery-8.png"
             ],
             "video": ""
         },
@@ -5494,15 +5494,15 @@
             "Anjuna Flea Market – 3 km"
         ],
         "faqs": [{
-                "question": "How far is Amberlight Villa from the beach?",
-                "answer": "Amberlight Villa is a short ride from Vagator Beach, one of North Goa's most popular nightlife-adjacent stretches of coast."
+                "question": "How far is Deep Blue Sea Resort from the beach?",
+                "answer": "Deep Blue Sea Resort is a short ride from Vagator Beach, one of North Goa's most popular nightlife-adjacent stretches of coast."
             },
             {
                 "question": "What are the check-in and check-out times?",
                 "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
             },
             {
-                "question": "How do I book Amberlight Villa?",
+                "question": "How do I book Deep Blue Sea Resort?",
                 "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
             },
             {
@@ -5547,12 +5547,12 @@
                 "url": "/group-stays-goa"
             },
             {
-                "name": "Amberlight Villa",
-                "url": "/stays/amberlight-villa-vagator"
+                "name": "Deep Blue Sea Resort",
+                "url": "/stays/deep-blue-sea-resort"
             }
         ],
         "seo": {
-            "metaTitle": "Amberlight Villa Vagator | Goa Beach Stays",
+            "metaTitle": "Deep Blue Sea Resort Vagator | Goa Beach Stays",
             "metaDescription": "Private-pool villa near Vagator built for friend groups and long weekends. Standard from ₹19,000/night. Message us with your group size for the best rate.",
             "focusKeyword": "private pool villa vagator groups"
         },
