@@ -557,373 +557,379 @@
         "priceRange": "₹3,000 – ₹7,800 per night"
     },
     {
-        "id": "stay-004",
-        "slug": "cassia-beach-resort-calangute",
-        "type": "resort",
-        "category": [
-            "beachfront",
-            "value",
-            "north-goa"
-        ],
-        "name": "Cassia Beach Resort",
-        "tagline": "An Honest 3-Star Stay Facing Calangute's Sand",
-        "location": {
-            "area": "North Goa, Calangute",
-            "district": "North Goa",
-            "region": "North Goa",
-            "address": "Near Baga Road, Calangute, North Goa, Goa 403516",
-            "coordinates": {
-                "lat": 15.549,
-                "lng": 73.7545
-            },
-            "nearestBeach": "Calangute Beach (0.3 km)",
-            "nearestAirport": "Dabolim Airport (45 km)",
-            "postalCode": "403516"
+    "id": "stay-004",
+    "slug": "cassia-beach-resort-baga",
+    "type": "resort",
+    "category": [
+        "beachfront",
+        "value",
+        "north-goa"
+    ],
+    "name": "Cassia Beach Resort",
+    "tagline": "A 4-Star Resort Walking Distance from Baga Beach",
+    "location": {
+        "area": "North Goa, Baga",
+        "district": "North Goa",
+        "region": "North Goa",
+        "address": "Baga Beach Road, North Goa, Goa 403516",
+        "coordinates": {
+            "lat": 15.5568,
+            "lng": 73.7519
         },
-        "pricing": {
-            "standard": {
-                "label": "Standard (Feb–Oct)",
-                "roomTypes": [{
-                        "type": "Standard Room",
-                        "pricePerNight": 2800,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Beach-Facing Room",
-                        "pricePerNight": 3900,
-                        "maxGuests": 2
-                    }
-                ]
-            },
-            "season": {
-                "label": "Peak Season (Nov, Dec, Jan)",
-                "note": "Rates typically double during Goa's peak tourist season (November–January).",
-                "roomTypes": [{
-                        "type": "Standard Room",
-                        "pricePerNight": 5600,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Beach-Facing Room",
-                        "pricePerNight": 7800,
-                        "maxGuests": 2
-                    }
-                ]
-            },
-            "currency": "INR",
-            "minStay": 1,
-            "displayPrice": 2800
-        },
-        "rooms": 14,
-        "maxGuests": 35,
-        "bedrooms": 14,
-        "bathrooms": 14,
-        "amenities": [
-            "Beach Access",
-            "Free WiFi",
-            "Air Conditioning",
-            "In-house Restaurant",
-            "Free Parking",
-            "Room Service",
-            "Daily Housekeeping",
-            "Front Desk"
-        ],
-        "highlights": [
-            "Beach-facing rooms at a genuinely fair price",
-            "Just off Baga Road, close to both Calangute and Baga",
-            "No-frills comfort without hidden costs",
-            "Straightforward booking, no online payment gateway needed"
-        ],
-        "description": {
-            "short": "A fairly priced 3-star resort facing Calangute beach, just off Baga Road. Book by WhatsApp.",
-            "long": "Cassia Beach Resort doesn't try to be more than it is — a straightforward, well-kept 3-star resort with rooms facing Calangute's sand, priced honestly rather than padded for the beachfront label. It's the property we point value-conscious travellers to when they still want to wake up looking at the sea.\n\nSitting just off Baga Road, it's an easy walk to Calangute's main stretch and not much further to Baga's livelier scene, giving guests a choice of evenings without paying premium rates for either location. Rooms are simple and clean rather than styled for photos, which is exactly the trade a lot of travellers are happy to make.\n\nAs an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — no online payment gateway, just a WhatsApp message to confirm your dates and lock in the rate."
-        },
-        "images": {
-            "cover": "/images/stays/cassia-beach-resort-calangute/cover.png",
-            "gallery": [
-                "/images/stays/cassia-beach-resort-calangute/cover.png",
-                "/images/stays/cassia-beach-resort-calangute/gallery-1.png",
-                "/images/stays/cassia-beach-resort-calangute/gallery-2.png",
-                "/images/stays/cassia-beach-resort-calangute/gallery-3.png",
-                "/images/stays/cassia-beach-resort-calangute/gallery-4.png",
-                "/images/stays/cassia-beach-resort-calangute/gallery-5.png",
-                "/images/stays/cassia-beach-resort-calangute/gallery-6.png",
-                "/images/stays/cassia-beach-resort-calangute/gallery-7.png",
-                "/images/stays/cassia-beach-resort-calangute/gallery-8.png",
-                "/images/stays/cassia-beach-resort-calangute/gallery-9.png",
-                "/images/stays/cassia-beach-resort-calangute/gallery-10.png"
-            ],
-            "video": ""
-        },
-        "tags": [
-            "Beachfront",
-            "Value",
-            "North Goa",
-            "Calangute"
-        ],
-        "nearbyAttractions": [
-            "Calangute Beach – 0.3 km",
-            "Baga Beach – 1.8 km",
-            "Calangute Market – 0.8 km",
-            "Fort Aguada – 8 km"
-        ],
-        "faqs": [{
-                "question": "How far is Cassia Beach Resort from the beach?",
-                "answer": "Cassia Beach Resort is located a short distance from Calangute Beach, one of the area's most loved stretches of coast."
-            },
-            {
-                "question": "What are the check-in and check-out times?",
-                "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
-            },
-            {
-                "question": "How do I book Cassia Beach Resort?",
-                "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
-            },
-            {
-                "question": "Are peak-season rates different?",
-                "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
-            }
-        ],
-        "reviews": [{
-                "id": "rev-1",
-                "name": "Manoj Pillai",
-                "rating": 4,
-                "review": "Exactly what we needed — clean room facing the beach without paying luxury prices. No complaints.",
-                "date": "2025-08-19",
-                "location": "Bengaluru",
-                "verified": true
-            },
-            {
-                "id": "rev-2",
-                "name": "Ritu & Sameer",
-                "rating": 5,
-                "review": "Best value we found in Calangute this trip. Staff were friendly and the location saved us on cabs every day.",
-                "date": "2026-04-02",
-                "location": "Nagpur",
-                "verified": true
-            }
-        ],
-        "vacationRentalSchema": true,
-        "breadcrumbs": [{
-                "name": "Home",
-                "url": "/"
-            },
-            {
-                "name": "All Stays",
-                "url": "/all-stays"
-            },
-            {
-                "name": "Budget-Friendly Stays in Goa",
-                "url": "/budget-stays-goa"
-            },
-            {
-                "name": "Cassia Beach Resort",
-                "url": "/stays/cassia-beach-resort-calangute"
-            }
-        ],
-        "seo": {
-            "metaTitle": "Cassia Beach Resort Calangute | Goa Beach Stays",
-            "metaDescription": "Value beachfront resort near Calangute beach and Baga Road. Standard from ₹2,800/night. WhatsApp enquiry.",
-            "focusKeyword": "budget beachfront resort calangute"
-        },
-        "contact": {
-            "whatsappNumber": "+919921372661",
-            "callNumber": "+918080557611"
-        },
-        "featured": false,
-        "active": true,
-        "publishedAt": "2025-01-10",
-        "priceRange": "₹2,800 – ₹7,800 per night"
+        "nearestBeach": "Baga Beach (0.3 km)",
+        "nearestAirport": "Dabolim Airport (43 km)",
+        "postalCode": "403516"
     },
+    "pricing": {
+        "standard": {
+            "label": "Standard (Feb–Oct)",
+            "roomTypes": [{
+                    "type": "Standard Room",
+                    "pricePerNight": 4600,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Beach-Facing Room",
+                    "pricePerNight": 6100,
+                    "maxGuests": 2
+                }
+            ]
+        },
+        "season": {
+            "label": "Peak Season (Nov, Dec, Jan)",
+            "note": "Rates typically double during Goa's peak tourist season (November–January).",
+            "roomTypes": [{
+                    "type": "Standard Room",
+                    "pricePerNight": 9200,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Beach-Facing Room",
+                    "pricePerNight": 12200,
+                    "maxGuests": 2
+                }
+            ]
+        },
+        "currency": "INR",
+        "minStay": 1,
+        "displayPrice": 4600
+    },
+    "rooms": 14,
+    "maxGuests": 35,
+    "bedrooms": 14,
+    "bathrooms": 14,
+    "amenities": [
+        "Beach Access",
+        "Free WiFi",
+        "Air Conditioning",
+        "In-house Restaurant",
+        "Free Parking",
+        "Room Service",
+        "Daily Housekeeping",
+        "Front Desk"
+    ],
+    "highlights": [
+        "Beach-facing rooms at a genuinely fair price for a 4-star property",
+        "Walking distance from Baga Beach and around 500 metres from Baga Market",
+        "Premium comfort without the inflated rates of the main strip",
+        "Straightforward booking, no online payment gateway needed"
+    ],
+    "description": {
+        "short": "A fairly priced 4-star resort walking distance from Baga Beach, around 500 metres from Baga Market. Book by WhatsApp.",
+        "long": "Cassia Beach Resort doesn't try to be more than it is — a straightforward, well-kept 4-star resort within walking distance of Baga's sand, priced honestly rather than padded for the beachfront label. It's the property we point value-conscious travellers to when they still want a premium stay close to the water.\n\nSitting just around 500 metres from Baga Market, it's an easy walk to the beach, shacks and the area's evening buzz, without paying the premium some beachfront-branded stays charge. Rooms are comfortable and well-kept rather than styled purely for photos, which is exactly the trade a lot of travellers are happy to make.\n\nAs an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — no online payment gateway, just a WhatsApp message to confirm your dates and lock in the rate."
+    },
+    "images": {
+        "cover": "/images/stays/cassia-beach-resort-calangute/cover.png",
+        "gallery": [
+            "/images/stays/cassia-beach-resort-calangute/cover.png",
+            "/images/stays/cassia-beach-resort-calangute/gallery-1.png",
+            "/images/stays/cassia-beach-resort-calangute/gallery-2.png",
+            "/images/stays/cassia-beach-resort-calangute/gallery-3.png",
+            "/images/stays/cassia-beach-resort-calangute/gallery-4.png",
+            "/images/stays/cassia-beach-resort-calangute/gallery-5.png",
+            "/images/stays/cassia-beach-resort-calangute/gallery-6.png",
+            "/images/stays/cassia-beach-resort-calangute/gallery-7.png",
+            "/images/stays/cassia-beach-resort-calangute/gallery-8.png",
+            "/images/stays/cassia-beach-resort-calangute/gallery-9.png",
+            "/images/stays/cassia-beach-resort-calangute/gallery-10.png"
+        ],
+        "video": ""
+    },
+    "tags": [
+        "Beachfront",
+        "Value",
+        "North Goa",
+        "Baga"
+    ],
+    "nearbyAttractions": [
+        "Baga Beach – 0.3 km",
+        "Baga Market – 0.5 km",
+        "Calangute Beach – 1.8 km",
+        "Tito's Lane – 1 km"
+    ],
+    "faqs": [{
+            "question": "How far is Cassia Beach Resort from the beach?",
+            "answer": "Cassia Beach Resort is within walking distance of Baga Beach, one of North Goa's most popular stretches of coast."
+        },
+        {
+            "question": "What are the check-in and check-out times?",
+            "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
+        },
+        {
+            "question": "How do I book Cassia Beach Resort?",
+            "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
+        },
+        {
+            "question": "Are peak-season rates different?",
+            "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
+        },
+        {
+            "question": "How far is Cassia Beach Resort from Baga Market?",
+            "answer": "Baga Market is approximately 500 metres away, making it an easy walk from the resort."
+        }
+    ],
+    "reviews": [{
+            "id": "rev-1",
+            "name": "Manoj Pillai",
+            "rating": 4,
+            "review": "Exactly what we needed — clean room a short walk from Baga Beach without paying luxury prices. No complaints.",
+            "date": "2025-08-19",
+            "location": "Bengaluru",
+            "verified": true
+        },
+        {
+            "id": "rev-2",
+            "name": "Ritu & Sameer",
+            "rating": 5,
+            "review": "Best value we found in Baga this trip. Staff were friendly and being close to the market and beach saved us on cabs every day.",
+            "date": "2026-04-02",
+            "location": "Nagpur",
+            "verified": true
+        }
+    ],
+    "vacationRentalSchema": true,
+    "breadcrumbs": [{
+            "name": "Home",
+            "url": "/"
+        },
+        {
+            "name": "All Stays",
+            "url": "/all-stays"
+        },
+        {
+            "name": "Budget-Friendly Stays in Goa",
+            "url": "/budget-stays-goa"
+        },
+        {
+            "name": "Cassia Beach Resort",
+            "url": "/stays/cassia-beach-resort-baga"
+        }
+    ],
+    "seo": {
+        "metaTitle": "Cassia Beach Resort Baga | Goa Beach Stays",
+        "metaDescription": "Value 4-star resort walking distance from Baga Beach, near Baga Market. Standard from ₹4,600/night. WhatsApp enquiry.",
+        "focusKeyword": "budget resort baga beach goa"
+    },
+    "contact": {
+        "whatsappNumber": "+919921372661",
+        "callNumber": "+918080557611"
+    },
+    "featured": false,
+    "active": true,
+    "publishedAt": "2025-01-10",
+    "priceRange": "₹4,600 – ₹12,200 per night"
+},
     {
-        "id": "stay-005",
-        "slug": "citrine-grove-resort-arpora-baga",
-        "type": "resort",
-        "category": [
-            "family-friendly",
-            "north-goa"
-        ],
-        "name": "Citrine Grove Resort",
-        "tagline": "56 Rooms & Villas Close to Baga's Best-Known Attractions",
-        "location": {
-            "area": "North Goa, Arpora-Baga",
-            "district": "North Goa",
-            "region": "North Goa",
-            "address": "Arpora-Baga Belt, North Goa, Goa 403518",
-            "coordinates": {
-                "lat": 15.567,
-                "lng": 73.76
-            },
-            "nearestBeach": "Baga Beach (2 km)",
-            "nearestAirport": "Manohar International Airport, Mopa (28 km)",
-            "postalCode": "403518"
+    "id": "stay-005",
+    "slug": "citrine-grove-villa-arpora-baga",
+    "type": "villa",
+    "category": [
+        "private pool",
+        "family-friendly",
+        "north-goa",
+        "river view"
+    ],
+    "name": "Citrine Grove Villa",
+    "tagline": "A Premium 4 BHK River View Villa in Arpora-Baga",
+    "location": {
+        "area": "North Goa, Arpora-Baga",
+        "district": "North Goa",
+        "region": "North Goa",
+        "address": "Arpora-Baga Belt, North Goa, Goa 403518",
+        "coordinates": {
+            "lat": 15.567,
+            "lng": 73.76
         },
-        "pricing": {
-            "standard": {
-                "label": "Standard (Feb–Oct)",
-                "roomTypes": [{
-                        "type": "Deluxe Room",
-                        "pricePerNight": 4500,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Premium Villa Suite",
-                        "pricePerNight": 6500,
-                        "maxGuests": 4
-                    }
-                ]
-            },
-            "season": {
-                "label": "Peak Season (Nov, Dec, Jan)",
-                "note": "Rates typically double during Goa's peak tourist season (November–January).",
-                "roomTypes": [{
-                        "type": "Deluxe Room",
-                        "pricePerNight": 9000,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Premium Villa Suite",
-                        "pricePerNight": 13000,
-                        "maxGuests": 4
-                    }
-                ]
-            },
-            "currency": "INR",
-            "minStay": 1,
-            "displayPrice": 4500
-        },
-        "rooms": 56,
-        "maxGuests": 140,
-        "bedrooms": 56,
-        "bathrooms": 56,
-        "amenities": [
-            "Swimming Pool",
-            "Free WiFi",
-            "Air Conditioning",
-            "In-house Restaurant",
-            "Free Parking",
-            "Room Service",
-            "Adventure Desk",
-            "Daily Housekeeping",
-            "Front Desk",
-            "Laundry Service"
-        ],
-        "highlights": [
-            "56 rooms and villas across a spacious, well-maintained property",
-            "Close to jet skiing, parasailing, scuba diving and kayaking operators",
-            "Near historic forts, centuries-old churches and bustling markets",
-            "Roughly 28 km from Manohar International Airport (Mopa)"
-        ],
-        "description": {
-            "short": "A 56-room resort near Arpora-Baga with easy access to water sports, forts, churches and markets. Book by WhatsApp.",
-            "long": "With 56 rooms and villas spread across the property, Citrine Grove Resort has the scale to handle everything from a solo traveller's quiet weekend to a large extended family spread across several rooms — each space designed for a relaxing stay with a genuine sense of Goan charm running through the interiors.\n\nThe location near Arpora and Baga puts adventure squarely on the agenda if you want it: jet skiing, parasailing, scuba diving, kayaking and trekking operators are all a short ride away, alongside historic forts, centuries-old churches and Goa's bustling local markets for a change of pace from the beach. Manohar International Airport (Mopa) is roughly 28 km away, about 50 minutes by road, while Thivim Railway Station sits around 18 km out.\n\nWhether the trip is built around relaxation, adventure or a bit of both, the resort gives families and groups the flexibility to do it all from one base. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — WhatsApp us for current rates."
-        },
-        "images": {
-            "cover": "/images/stays/citrine-grove-resort-arpora-baga/cover.png",
-            "gallery": [
-                "/images/stays/citrine-grove-resort-arpora-baga/cover.png",
-                "/images/stays/citrine-grove-resort-arpora-baga/gallery-1.png",
-                "/images/stays/citrine-grove-resort-arpora-baga/gallery-2.png",
-                "/images/stays/citrine-grove-resort-arpora-baga/gallery-3.png",
-                "/images/stays/citrine-grove-resort-arpora-baga/gallery-4.png",
-                "/images/stays/citrine-grove-resort-arpora-baga/gallery-5.png",
-                "/images/stays/citrine-grove-resort-arpora-baga/gallery-6.png",
-                "/images/stays/citrine-grove-resort-arpora-baga/gallery-7.png",
-                "/images/stays/citrine-grove-resort-arpora-baga/gallery-8.png",
-                "/images/stays/citrine-grove-resort-arpora-baga/gallery-9.png",
-                "/images/stays/citrine-grove-resort-arpora-baga/gallery-10.png",
-                "/images/stays/citrine-grove-resort-arpora-baga/gallery-11.png",
-                "/images/stays/citrine-grove-resort-arpora-baga/gallery-12.png",
-                "/images/stays/citrine-grove-resort-arpora-baga/gallery-13.png",
-                "/images/stays/citrine-grove-resort-arpora-baga/gallery-14.png"
-            ],
-            "video": ""
-        },
-        "tags": [
-            "North Goa",
-            "Arpora",
-            "Baga",
-            "Adventure",
-            "Family"
-        ],
-        "nearbyAttractions": [
-            "Baga Beach – 2 km",
-            "Saturday Night Market, Arpora – 1.5 km",
-            "Fort Aguada – 6 km",
-            "Chapora Fort – 7 km"
-        ],
-        "faqs": [{
-                "question": "How far is Citrine Grove Resort from the beach?",
-                "answer": "Citrine Grove Resort is located a short distance from Baga Beach, one of the area's most loved stretches of coast."
-            },
-            {
-                "question": "What are the check-in and check-out times?",
-                "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
-            },
-            {
-                "question": "How do I book Citrine Grove Resort?",
-                "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
-            },
-            {
-                "question": "Are peak-season rates different?",
-                "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
-            },
-            {
-                "question": "Can the resort help arrange water sports or adventure activities?",
-                "answer": "Yes, the property has an adventure desk that can help arrange jet skiing, parasailing, scuba diving and other activities nearby."
-            }
-        ],
-        "reviews": [{
-                "id": "rev-1",
-                "name": "The Kulkarni Family",
-                "rating": 5,
-                "review": "Big property with plenty of room categories, and the adventure desk sorted parasailing for us within a day. Great all-rounder for a family trip.",
-                "date": "2025-12-19",
-                "location": "Pune",
-                "verified": true
-            },
-            {
-                "id": "rev-2",
-                "name": "Sanjay Rathi",
-                "rating": 4,
-                "review": "Convenient distance from Mopa airport and close enough to Baga and Arpora market for evenings out. Good value for the space.",
-                "date": "2026-04-06",
-                "location": "Ahmedabad",
-                "verified": true
-            }
-        ],
-        "vacationRentalSchema": true,
-        "breadcrumbs": [{
-                "name": "Home",
-                "url": "/"
-            },
-            {
-                "name": "All Stays",
-                "url": "/all-stays"
-            },
-            {
-                "name": "Family Vacation Stays in Goa",
-                "url": "/goa-family-vacation-packages"
-            },
-            {
-                "name": "Citrine Grove Resort",
-                "url": "/stays/citrine-grove-resort-arpora-baga"
-            }
-        ],
-        "seo": {
-            "metaTitle": "Citrine Grove Resort Arpora-Baga | Goa Beach Stays",
-            "metaDescription": "56-room resort near Arpora-Baga with easy access to water sports, forts and markets. Standard from ₹4,500/night. WhatsApp enquiry.",
-            "focusKeyword": "arpora baga family resort goa"
-        },
-        "contact": {
-            "whatsappNumber": "+919921372661",
-            "callNumber": "+918080557611"
-        },
-        "featured": false,
-        "active": true,
-        "publishedAt": "2025-01-10",
-        "priceRange": "₹4,500 – ₹13,000 per night"
+        "nearestBeach": "Baga Beach (2 km)",
+        "nearestAirport": "Manohar International Airport, Mopa (28 km)",
+        "postalCode": "403518"
     },
+    "pricing": {
+        "standard": {
+            "label": "Standard (Feb–Oct)",
+            "roomTypes": [{
+                    "type": "Garden Bedroom",
+                    "pricePerNight": 24000,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "River-View Suite",
+                    "pricePerNight": 30500,
+                    "maxGuests": 3
+                }
+            ]
+        },
+        "season": {
+            "label": "Peak Season (Nov, Dec, Jan)",
+            "note": "Rates typically double during Goa's peak tourist season (November–January).",
+            "roomTypes": [{
+                    "type": "Garden Bedroom",
+                    "pricePerNight": 48000,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "River-View Suite",
+                    "pricePerNight": 61000,
+                    "maxGuests": 3
+                }
+            ]
+        },
+        "currency": "INR",
+        "minStay": 1,
+        "displayPrice": 24000
+    },
+    "rooms": 4,
+    "maxGuests": 9,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "amenities": [
+        "Private Pool",
+        "Free WiFi",
+        "Air Conditioning",
+        "Fully Equipped Kitchen",
+        "Free Parking",
+        "River-View Balconies",
+        "Outdoor Seating",
+        "Daily Housekeeping",
+        "24/7 Caretaker",
+        "Smart TV"
+    ],
+    "highlights": [
+        "Premium 4 BHK layout with a private, river-facing pool",
+        "River-view balconies attached to every bedroom",
+        "Close to jet skiing, parasailing, scuba diving and kayaking operators",
+        "Roughly 28 km from Manohar International Airport (Mopa)"
+    ],
+    "description": {
+        "short": "A premium 4 BHK river view villa in Arpora-Baga with a private pool and upscale interiors. Book by WhatsApp.",
+        "long": "Citrine Grove Villa picks up a view most villas in the Arpora-Baga belt don't bother with — a slow river winding past, visible from private balconies attached to each of the four bedrooms rather than just a garden wall or neighbouring rooftops.\n\nThe location near Arpora and Baga puts adventure squarely on the agenda if you want it: jet skiing, parasailing, scuba diving, kayaking and trekking operators are all a short ride away, alongside historic forts, centuries-old churches and Goa's bustling local markets for a change of pace from the pool deck. Manohar International Airport (Mopa) is roughly 28 km away, about 50 minutes by road, while Thivim Railway Station sits around 18 km out.\n\nWhether the trip is built around relaxation, adventure or a bit of both, the villa gives families and groups a private, upscale base with river views to come home to. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — WhatsApp us for current rates."
+    },
+    "images": {
+        "cover": "/images/stays/citrine-grove-resort-arpora-baga/cover.png",
+        "gallery": [
+            "/images/stays/citrine-grove-resort-arpora-baga/cover.png",
+            "/images/stays/citrine-grove-resort-arpora-baga/gallery-1.png",
+            "/images/stays/citrine-grove-resort-arpora-baga/gallery-2.png",
+            "/images/stays/citrine-grove-resort-arpora-baga/gallery-3.png",
+            "/images/stays/citrine-grove-resort-arpora-baga/gallery-4.png",
+            "/images/stays/citrine-grove-resort-arpora-baga/gallery-5.png",
+            "/images/stays/citrine-grove-resort-arpora-baga/gallery-6.png",
+            "/images/stays/citrine-grove-resort-arpora-baga/gallery-7.png",
+            "/images/stays/citrine-grove-resort-arpora-baga/gallery-8.png",
+            "/images/stays/citrine-grove-resort-arpora-baga/gallery-9.png",
+            "/images/stays/citrine-grove-resort-arpora-baga/gallery-10.png",
+            "/images/stays/citrine-grove-resort-arpora-baga/gallery-11.png",
+            "/images/stays/citrine-grove-resort-arpora-baga/gallery-12.png",
+            "/images/stays/citrine-grove-resort-arpora-baga/gallery-13.png",
+            "/images/stays/citrine-grove-resort-arpora-baga/gallery-14.png"
+        ],
+        "video": ""
+    },
+    "tags": [
+        "North Goa",
+        "Arpora",
+        "Baga",
+        "River View",
+        "Private Pool"
+    ],
+    "nearbyAttractions": [
+        "Baga Beach – 2 km",
+        "Saturday Night Market, Arpora – 1.5 km",
+        "Fort Aguada – 6 km",
+        "Chapora Fort – 7 km"
+    ],
+    "faqs": [{
+            "question": "How far is Citrine Grove Villa from the beach?",
+            "answer": "Citrine Grove Villa is located a short distance from Baga Beach, one of the area's most loved stretches of coast."
+        },
+        {
+            "question": "What are the check-in and check-out times?",
+            "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
+        },
+        {
+            "question": "How do I book Citrine Grove Villa?",
+            "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
+        },
+        {
+            "question": "Are peak-season rates different?",
+            "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
+        },
+        {
+            "question": "Is the pool at Citrine Grove Villa private?",
+            "answer": "Yes, the pool is reserved exclusively for your booking and looks out over the river."
+        }
+    ],
+    "reviews": [{
+            "id": "rev-1",
+            "name": "The Kulkarni Family",
+            "rating": 5,
+            "review": "Beautiful private villa with a genuinely lovely river view from the balconies. Booking the whole place for our family made the trip feel special.",
+            "date": "2025-12-19",
+            "location": "Pune",
+            "verified": true
+        },
+        {
+            "id": "rev-2",
+            "name": "Sanjay Rathi",
+            "rating": 4,
+            "review": "Convenient distance from Mopa airport and close enough to Baga and Arpora market for evenings out. Loved having the pool to ourselves.",
+            "date": "2026-04-06",
+            "location": "Ahmedabad",
+            "verified": true
+        }
+    ],
+    "vacationRentalSchema": true,
+    "breadcrumbs": [{
+            "name": "Home",
+            "url": "/"
+        },
+        {
+            "name": "All Stays",
+            "url": "/all-stays"
+        },
+        {
+            "name": "Villas for Families in Goa",
+            "url": "/goa-family-vacation-packages"
+        },
+        {
+            "name": "Citrine Grove Villa",
+            "url": "/stays/citrine-grove-villa-arpora-baga"
+        }
+    ],
+    "seo": {
+        "metaTitle": "Citrine Grove Villa Arpora-Baga | Goa Beach Stays",
+        "metaDescription": "Premium 4 BHK river view villa in Arpora-Baga with a private pool and upscale interiors. Standard from ₹24,000/night. WhatsApp enquiry.",
+        "focusKeyword": "river view villa arpora baga goa"
+    },
+    "contact": {
+        "whatsappNumber": "+919921372661",
+        "callNumber": "+918080557611"
+    },
+    "featured": false,
+    "active": true,
+    "publishedAt": "2025-01-10",
+    "priceRange": "₹24,000 – ₹61,000 per night"
+},
     {
         "id": "stay-006",
         "slug": "ochre-house-boutique-resort-anjuna",
@@ -1481,179 +1487,179 @@
     "priceRange": "₹5,000 – ₹13,600 per night"
 },
     {
-        "id": "stay-009",
-        "slug": "cascata-arpora-resort",
-        "type": "resort",
-        "category": [
-            "couple-friendly",
-            "north-goa"
-        ],
-        "name": "Cascata Arpora Resort",
-        "tagline": "A 4-Star Riverview Resort in the Heart of Arpora-Baga",
-        "location": {
-            "area": "North Goa, Arpora-Baga",
-            "district": "North Goa",
-            "region": "North Goa",
-            "address": "Arpora-Baga Belt, North Goa, Goa 403518",
-            "coordinates": {
-                "lat": 15.566,
-                "lng": 73.757
-            },
-            "nearestBeach": "Baga Beach (2.3 km)",
-            "nearestAirport": "Dabolim Airport (48 km)",
-            "postalCode": "403518"
+    "id": "stay-009",
+    "slug": "de-falcon-candolim-resort",
+    "type": "resort",
+    "category": [
+        "couple-friendly",
+        "north-goa"
+    ],
+    "name": "De Falcon Candolim",
+    "tagline": "A 4-Star Resort in the Heart of Candolim",
+    "location": {
+        "area": "North Goa, Candolim",
+        "district": "North Goa",
+        "region": "North Goa",
+        "address": "Candolim Beach Road, North Goa, Goa 403515",
+        "coordinates": {
+            "lat": 15.5183,
+            "lng": 73.7629
         },
-        "pricing": {
-            "standard": {
-                "label": "Standard (Feb–Oct)",
-                "roomTypes": [{
-                        "type": "Deluxe Room",
-                        "pricePerNight": 4300,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "River-View Room",
-                        "pricePerNight": 5600,
-                        "maxGuests": 2
-                    }
-                ]
-            },
-            "season": {
-                "label": "Peak Season (Nov, Dec, Jan)",
-                "note": "Rates typically double during Goa's peak tourist season (November–January).",
-                "roomTypes": [{
-                        "type": "Deluxe Room",
-                        "pricePerNight": 8600,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "River-View Room",
-                        "pricePerNight": 11200,
-                        "maxGuests": 2
-                    }
-                ]
-            },
-            "currency": "INR",
-            "minStay": 1,
-            "displayPrice": 4300
-        },
-        "rooms": 16,
-        "maxGuests": 38,
-        "bedrooms": 16,
-        "bathrooms": 16,
-        "amenities": [
-            "Swimming Pool",
-            "Free WiFi",
-            "Air Conditioning",
-            "In-house Restaurant",
-            "Free Parking",
-            "Room Service",
-            "River-View Balconies",
-            "Daily Housekeeping",
-            "Front Desk"
-        ],
-        "highlights": [
-            "River-view rooms with private balconies",
-            "Central Arpora-Baga location for easy exploring",
-            "4-star comfort with a genuine sense of calm",
-            "Close to the Saturday Night Market's evening buzz"
-        ],
-        "description": {
-            "short": "A 4-star resort in Arpora-Baga with river-view rooms and easy access to the area's markets and beaches. Book by WhatsApp.",
-            "long": "Cascata Arpora Resort picks up a view most Baga-area properties don't bother with — a slow river winding past, visible from private balconies rather than just a car park or neighbouring rooftops.\n\nSitting centrally in the Arpora-Baga belt, it's an easy base for exploring the Saturday Night Market's stalls and live music, wandering into Baga for the beach and shacks, or simply enjoying a quieter evening on the balcony with the river below. Rooms hold to a comfortable 4-star standard, with the river-view category being worth the modest upgrade for anyone who'll spend evenings in.\n\nIt suits couples and small groups who want Arpora-Baga's convenience with a calmer edge than the main strip offers. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — WhatsApp us for current rates."
-        },
-        "images": {
-            "cover": "/images/stays/cascata-arpora-resort/cover.png",
-            "gallery": [
-                "/images/stays/cascata-arpora-resort/cover.png",
-                "/images/stays/cascata-arpora-resort/gallery-1.png",
-                "/images/stays/cascata-arpora-resort/gallery-2.png",
-                "/images/stays/cascata-arpora-resort/gallery-3.png",
-                "/images/stays/cascata-arpora-resort/gallery-4.png",
-                "/images/stays/cascata-arpora-resort/gallery-5.png"
-            ],
-            "video": ""
-        },
-        "tags": [
-            "North Goa",
-            "Arpora",
-            "River View",
-            "4-Star"
-        ],
-        "nearbyAttractions": [
-            "Baga Beach – 2.3 km",
-            "Saturday Night Market, Arpora – 0.8 km",
-            "Anjuna Beach – 4 km",
-            "Calangute Beach – 4 km"
-        ],
-        "faqs": [{
-                "question": "How far is Cascata Arpora Resort from the beach?",
-                "answer": "Cascata Arpora Resort is located a short distance from Baga Beach, one of the area's most loved stretches of coast."
-            },
-            {
-                "question": "What are the check-in and check-out times?",
-                "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
-            },
-            {
-                "question": "How do I book Cascata Arpora Resort?",
-                "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
-            },
-            {
-                "question": "Are peak-season rates different?",
-                "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
-            }
-        ],
-        "reviews": [{
-                "id": "rev-1",
-                "name": "Reema Kapoor",
-                "rating": 4,
-                "review": "River-view balcony was a genuinely nice touch, made the evenings feel calmer than a typical Baga stay.",
-                "date": "2025-11-11",
-                "location": "Chandigarh",
-                "verified": true
-            },
-            {
-                "id": "rev-2",
-                "name": "Ajay & Simran",
-                "rating": 5,
-                "review": "Walked to the Saturday Night Market from the resort, easy and central without being loud. Would stay again.",
-                "date": "2026-02-16",
-                "location": "Delhi",
-                "verified": true
-            }
-        ],
-        "vacationRentalSchema": true,
-        "breadcrumbs": [{
-                "name": "Home",
-                "url": "/"
-            },
-            {
-                "name": "All Stays",
-                "url": "/all-stays"
-            },
-            {
-                "name": "North Goa Resorts",
-                "url": "/north-goa-resorts"
-            },
-            {
-                "name": "Cascata Arpora Resort",
-                "url": "/stays/cascata-arpora-resort"
-            }
-        ],
-        "seo": {
-            "metaTitle": "Cascata Arpora Resort | Goa Beach Stays",
-            "metaDescription": "4-star riverview resort in Arpora-Baga, near the Saturday Night Market. Standard from ₹4,300/night. WhatsApp enquiry.",
-            "focusKeyword": "arpora baga riverview resort"
-        },
-        "contact": {
-            "whatsappNumber": "+919921372661",
-            "callNumber": "+918080557611"
-        },
-        "featured": false,
-        "active": true,
-        "publishedAt": "2025-01-10",
-        "priceRange": "₹4,300 – ₹11,200 per night"
+        "nearestBeach": "Candolim Beach (0.7 km)",
+        "nearestAirport": "Dabolim Airport (37 km)",
+        "postalCode": "403515"
     },
+    "pricing": {
+        "standard": {
+            "label": "Standard (Feb–Oct)",
+            "roomTypes": [{
+                    "type": "Deluxe Room",
+                    "pricePerNight": 6200,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Pool-View Room",
+                    "pricePerNight": 7900,
+                    "maxGuests": 2
+                }
+            ]
+        },
+        "season": {
+            "label": "Peak Season (Nov, Dec, Jan)",
+            "note": "Rates typically double during Goa's peak tourist season (November–January).",
+            "roomTypes": [{
+                    "type": "Deluxe Room",
+                    "pricePerNight": 12400,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Pool-View Room",
+                    "pricePerNight": 15800,
+                    "maxGuests": 2
+                }
+            ]
+        },
+        "currency": "INR",
+        "minStay": 1,
+        "displayPrice": 6200
+    },
+    "rooms": 16,
+    "maxGuests": 38,
+    "bedrooms": 16,
+    "bathrooms": 16,
+    "amenities": [
+        "Swimming Pool",
+        "Free WiFi",
+        "Air Conditioning",
+        "In-house Restaurant",
+        "Free Parking",
+        "Room Service",
+        "Pool-View Balconies",
+        "Daily Housekeeping",
+        "Front Desk"
+    ],
+    "highlights": [
+        "Pool-view rooms with private balconies",
+        "Central Candolim location for easy exploring",
+        "4-star comfort with a genuine sense of calm",
+        "Close to Candolim's restaurants and beach strip"
+    ],
+    "description": {
+        "short": "A 4-star resort in Candolim with pool-view rooms and easy access to the area's restaurants and beach. Book by WhatsApp.",
+        "long": "De Falcon Candolim sits centrally in one of North Goa's more relaxed beach belts, with pool-view rooms opening onto private balconies rather than just a car park or neighbouring rooftops.\n\nCandolim's mix of beachfront shacks, upscale restaurants and quieter sands makes it an easy base for a slower-paced Goa trip, with Calangute and Baga both a short ride away for anyone wanting more buzz. Rooms hold to a comfortable 4-star standard, with the pool-view category being worth the modest upgrade for anyone who'll spend evenings in.\n\nIt suits couples and small groups who want Candolim's convenience with a calmer edge than the busier strips nearby. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — WhatsApp us for current rates."
+    },
+    "images": {
+        "cover": "/images/stays/cascata-arpora-resort/cover.png",
+        "gallery": [
+            "/images/stays/cascata-arpora-resort/cover.png",
+            "/images/stays/cascata-arpora-resort/gallery-1.png",
+            "/images/stays/cascata-arpora-resort/gallery-2.png",
+            "/images/stays/cascata-arpora-resort/gallery-3.png",
+            "/images/stays/cascata-arpora-resort/gallery-4.png",
+            "/images/stays/cascata-arpora-resort/gallery-5.png"
+        ],
+        "video": ""
+    },
+    "tags": [
+        "North Goa",
+        "Candolim",
+        "4-Star",
+        "Pool View"
+    ],
+    "nearbyAttractions": [
+        "Candolim Beach – 0.7 km",
+        "Aguada Fort – 3 km",
+        "Calangute Beach – 3.5 km",
+        "Sinquerim Beach – 2 km"
+    ],
+    "faqs": [{
+            "question": "How far is De Falcon Candolim from the beach?",
+            "answer": "De Falcon Candolim is located a short distance from Candolim Beach, one of North Goa's more relaxed stretches of coast."
+        },
+        {
+            "question": "What are the check-in and check-out times?",
+            "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
+        },
+        {
+            "question": "How do I book De Falcon Candolim?",
+            "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
+        },
+        {
+            "question": "Are peak-season rates different?",
+            "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
+        }
+    ],
+    "reviews": [{
+            "id": "rev-1",
+            "name": "Reema Kapoor",
+            "rating": 4,
+            "review": "Pool-view balcony was a genuinely nice touch, made the evenings feel calmer than a typical Calangute stay. De Falcon Candolim delivered on comfort.",
+            "date": "2025-11-11",
+            "location": "Chandigarh",
+            "verified": true
+        },
+        {
+            "id": "rev-2",
+            "name": "Ajay & Simran",
+            "rating": 5,
+            "review": "Easy walk to Candolim's restaurants and beach, central without being loud. Would stay at De Falcon Candolim again.",
+            "date": "2026-02-16",
+            "location": "Delhi",
+            "verified": true
+        }
+    ],
+    "vacationRentalSchema": true,
+    "breadcrumbs": [{
+            "name": "Home",
+            "url": "/"
+        },
+        {
+            "name": "All Stays",
+            "url": "/all-stays"
+        },
+        {
+            "name": "North Goa Resorts",
+            "url": "/north-goa-resorts"
+        },
+        {
+            "name": "De Falcon Candolim",
+            "url": "/stays/de-falcon-candolim-resort"
+        }
+    ],
+    "seo": {
+        "metaTitle": "De Falcon Candolim | Goa Beach Stays",
+        "metaDescription": "4-star resort in Candolim, near the beach and Aguada Fort. Standard from ₹6,200/night. WhatsApp enquiry.",
+        "focusKeyword": "de falcon candolim resort goa"
+    },
+    "contact": {
+        "whatsappNumber": "+919921372661",
+        "callNumber": "+918080557611"
+    },
+    "featured": false,
+    "active": true,
+    "publishedAt": "2025-01-10",
+    "priceRange": "₹6,200 – ₹15,800 per night"
+},
     {
         "id": "stay-010",
         "slug": "havelock-calangute-hotel",
@@ -2536,181 +2542,192 @@
     "priceRange": "₹5,800 – ₹16,000 per night"
 },
     {
-        "id": "stay-015",
-        "slug": "driftwood-cottages-arambol",
-        "type": "villa",
-        "category": [
-            "couple-friendly",
-            "north-goa"
-        ],
-        "name": "Driftwood Beach Cottages",
-        "tagline": "Simple Beach-Facing Cottages Near Arambol's Free-Spirited Shore",
-        "location": {
-            "area": "North Goa, Arambol",
-            "district": "North Goa",
-            "region": "North Goa",
-            "address": "Arambol-Morjim Coastal Road, North Goa, Goa 403524",
-            "coordinates": {
-                "lat": 15.686,
-                "lng": 73.706
-            },
-            "nearestBeach": "Arambol Beach (0.3 km)",
-            "nearestAirport": "Dabolim Airport (58 km)",
-            "postalCode": "403524"
+    "id": "stay-015",
+    "slug": "azure-palm-luxury-villa-anjuna-vagator",
+    "type": "villa",
+    "category": [
+        "private pool",
+        "luxury",
+        "couple-friendly",
+        "family-friendly",
+        "north-goa"
+    ],
+    "name": "Azure Palm Luxury Villa",
+    "tagline": "A Premium 5 BHK Private Pool Villa Between Anjuna and Vagator",
+    "location": {
+        "area": "North Goa, Anjuna-Vagator",
+        "district": "North Goa",
+        "region": "North Goa",
+        "address": "Anjuna-Vagator Belt, North Goa, Goa 403509",
+        "coordinates": {
+            "lat": 15.5935,
+            "lng": 73.7375
         },
-        "pricing": {
-            "standard": {
-                "label": "Standard (Feb–Oct)",
-                "roomTypes": [{
-                        "type": "Beach Cottage",
-                        "pricePerNight": 3200,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Sea-View Cottage",
-                        "pricePerNight": 4100,
-                        "maxGuests": 2
-                    }
-                ]
-            },
-            "season": {
-                "label": "Peak Season (Nov, Dec, Jan)",
-                "note": "Rates typically double during Goa's peak tourist season (November–January).",
-                "roomTypes": [{
-                        "type": "Beach Cottage",
-                        "pricePerNight": 6400,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Sea-View Cottage",
-                        "pricePerNight": 8200,
-                        "maxGuests": 2
-                    }
-                ]
-            },
-            "currency": "INR",
-            "minStay": 1,
-            "displayPrice": 3200
-        },
-        "rooms": 8,
-        "maxGuests": 16,
-        "bedrooms": 8,
-        "bathrooms": 8,
-        "amenities": [
-            "Beach Access",
-            "Free WiFi",
-            "Fan & AC Options",
-            "In-house Cafe",
-            "Free Parking",
-            "Hammock Area",
-            "Daily Housekeeping",
-            "Front Desk"
-        ],
-        "highlights": [
-            "Simple wooden cottages steps from Arambol's sand",
-            "Laid-back, unpretentious atmosphere with hammocks and a beach cafe",
-            "Close to Arambol's drum circles and sweet-water lagoon",
-            "A genuine slice of old-Goa beach-shack character"
-        ],
-        "description": {
-            "short": "Simple, beach-facing cottages near Arambol, close to the sweet-water lagoon and evening drum circles. Book by WhatsApp.",
-            "long": "Driftwood Beach Cottages doesn't try to be more than what it is — a handful of simple, comfortable wooden cottages a few steps from Arambol's sand, with hammocks strung outside and a small cafe handling breakfast and sunset drinks. It's Goa's older, less commercial character, still intact.\n\nArambol's famous sweet-water lagoon and its evening drum circles are both a short walk away, and the beach itself is one of North Goa's most free-spirited — live-music cafes, henna stalls and a slower pace than the Baga-Calangute strip further south.\n\nIt suits couples, solo travellers and small groups who came to Goa for its bohemian side rather than resort polish. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — WhatsApp us for availability."
-        },
-        "images": {
-            "cover": "/images/stays/driftwood-cottages-arambol/cover.png",
-            "gallery": [
-                "/images/stays/driftwood-cottages-arambol/cover.png",
-                "/images/stays/driftwood-cottages-arambol/gallery-1.png",
-                "/images/stays/driftwood-cottages-arambol/gallery-2.png",
-                "/images/stays/driftwood-cottages-arambol/gallery-3.png",
-                "/images/stays/driftwood-cottages-arambol/gallery-4.png",
-                "/images/stays/driftwood-cottages-arambol/gallery-5.png",
-                "/images/stays/driftwood-cottages-arambol/gallery-6.png",
-                "/images/stays/driftwood-cottages-arambol/gallery-7.png",
-                "/images/stays/driftwood-cottages-arambol/gallery-8.png"
-            ],
-            "video": ""
-        },
-        "tags": [
-            "North Goa",
-            "Arambol",
-            "Cottages",
-            "Beachfront"
-        ],
-        "nearbyAttractions": [
-            "Arambol Beach – 0.3 km",
-            "Arambol Sweet Water Lake – 0.8 km",
-            "Mandrem Beach – 4 km",
-            "Morjim Beach – 6 km"
-        ],
-        "faqs": [{
-                "question": "How far is Driftwood Beach Cottages from the beach?",
-                "answer": "Driftwood Beach Cottages is located a short distance from Arambol Beach, one of the area's most loved stretches of coast."
-            },
-            {
-                "question": "What are the check-in and check-out times?",
-                "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
-            },
-            {
-                "question": "How do I book Driftwood Beach Cottages?",
-                "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
-            },
-            {
-                "question": "Are peak-season rates different?",
-                "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
-            }
-        ],
-        "reviews": [{
-                "id": "rev-1",
-                "name": "Leo & Priya",
-                "rating": 5,
-                "review": "Exactly the old-Goa beach-shack vibe we wanted. Fell asleep to the waves every night, hammock included.",
-                "date": "2025-09-14",
-                "location": "Bengaluru",
-                "verified": true
-            },
-            {
-                "id": "rev-2",
-                "name": "Aakash Bhatt",
-                "rating": 4,
-                "review": "Simple but everything worked, and the location by the lagoon and drum circles made the evenings.",
-                "date": "2026-01-29",
-                "location": "Delhi",
-                "verified": true
-            }
-        ],
-        "vacationRentalSchema": true,
-        "breadcrumbs": [{
-                "name": "Home",
-                "url": "/"
-            },
-            {
-                "name": "All Stays",
-                "url": "/all-stays"
-            },
-            {
-                "name": "Stays in Arambol",
-                "url": "/stays-in-arambol"
-            },
-            {
-                "name": "Driftwood Beach Cottages",
-                "url": "/stays/driftwood-cottages-arambol"
-            }
-        ],
-        "seo": {
-            "metaTitle": "Driftwood Beach Cottages Arambol | Goa Beach Stays",
-            "metaDescription": "Simple beach-facing cottages near Arambol's lagoon and drum circles. Standard from ₹3,200/night. WhatsApp enquiry.",
-            "focusKeyword": "arambol beach cottages"
-        },
-        "contact": {
-            "whatsappNumber": "+919921372661",
-            "callNumber": "+918080557611"
-        },
-        "featured": false,
-        "active": true,
-        "publishedAt": "2025-01-10",
-        "priceRange": "₹3,200 – ₹8,200 per night"
+        "nearestBeach": "Vagator Beach (1.2 km)",
+        "nearestAirport": "Dabolim Airport (52 km)",
+        "postalCode": "403509"
     },
+    "pricing": {
+        "standard": {
+            "label": "Standard (Feb–Oct)",
+            "roomTypes": [{
+                    "type": "Garden Bedroom",
+                    "pricePerNight": 32000,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Premium Suite",
+                    "pricePerNight": 40000,
+                    "maxGuests": 3
+                }
+            ]
+        },
+        "season": {
+            "label": "Peak Season (Nov, Dec, Jan)",
+            "note": "Rates typically double during Goa's peak tourist season (November–January).",
+            "roomTypes": [{
+                    "type": "Garden Bedroom",
+                    "pricePerNight": 64000,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Premium Suite",
+                    "pricePerNight": 80000,
+                    "maxGuests": 3
+                }
+            ]
+        },
+        "currency": "INR",
+        "minStay": 1,
+        "displayPrice": 32000
+    },
+    "rooms": 5,
+    "maxGuests": 12,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "amenities": [
+        "Large Private Pool",
+        "Free WiFi",
+        "Air Conditioning",
+        "Fully Equipped Kitchen",
+        "Free Parking",
+        "Spacious Living Hall",
+        "Private Lawn",
+        "Outdoor Seating",
+        "Daily Housekeeping",
+        "24/7 Caretaker",
+        "Smart TV"
+    ],
+    "highlights": [
+        "Five spacious bedrooms built for luxury family vacations and group celebrations",
+        "Large private pool set beside a private lawn",
+        "Expansive living hall designed for gatherings",
+        "Positioned between Anjuna and Vagator's clifftop cafes and flea market"
+    ],
+    "description": {
+        "short": "A premium luxury 5 BHK villa between Anjuna and Vagator with a large private pool and spacious living hall. Book by WhatsApp.",
+        "long": "Azure Palm Luxury Villa is built for exactly the kind of trip that needs real space — five large bedrooms, an expansive living hall, and a private lawn wrapped around a generously sized pool that never feels crowded, even with a full group in.\n\nSitting between Anjuna and Vagator, the villa puts you within easy reach of both neighbourhoods' best-known draws — Anjuna's Wednesday flea market and clifftop cafes on one side, Vagator's dramatic red cliffs and sunset points on the other — while staying tucked away in a quiet, private setting of its own.\n\nIt's the villa we recommend for luxury family vacations, milestone celebrations and larger friend groups who want premium interiors and genuine privacy rather than a shared resort experience. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — WhatsApp us for availability."
+    },
+    "images": {
+        "cover": "/images/stays/driftwood-cottages-arambol/cover.png",
+        "gallery": [
+            "/images/stays/driftwood-cottages-arambol/cover.png",
+            "/images/stays/driftwood-cottages-arambol/gallery-1.png",
+            "/images/stays/driftwood-cottages-arambol/gallery-2.png",
+            "/images/stays/driftwood-cottages-arambol/gallery-3.png",
+            "/images/stays/driftwood-cottages-arambol/gallery-4.png",
+            "/images/stays/driftwood-cottages-arambol/gallery-5.png",
+            "/images/stays/driftwood-cottages-arambol/gallery-6.png",
+            "/images/stays/driftwood-cottages-arambol/gallery-7.png",
+            "/images/stays/driftwood-cottages-arambol/gallery-8.png"
+        ],
+        "video": ""
+    },
+    "tags": [
+        "North Goa",
+        "Anjuna",
+        "Vagator",
+        "Luxury",
+        "Private Pool"
+    ],
+    "nearbyAttractions": [
+        "Vagator Beach – 1.2 km",
+        "Chapora Fort – 2 km",
+        "Anjuna Flea Market – 3 km",
+        "Anjuna Beach – 3.5 km"
+    ],
+    "faqs": [{
+            "question": "How far is Azure Palm Luxury Villa from the beach?",
+            "answer": "Azure Palm Luxury Villa sits between Anjuna and Vagator, a short drive from both Vagator Beach and Anjuna Beach."
+        },
+        {
+            "question": "What are the check-in and check-out times?",
+            "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
+        },
+        {
+            "question": "How do I book Azure Palm Luxury Villa?",
+            "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
+        },
+        {
+            "question": "Are peak-season rates different?",
+            "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
+        },
+        {
+            "question": "Is Azure Palm Luxury Villa suitable for large groups and celebrations?",
+            "answer": "Yes, with five bedrooms, a spacious living hall and a private lawn beside the pool, it's well suited to large families, friend groups and milestone celebrations."
+        }
+    ],
+    "reviews": [{
+            "id": "rev-1",
+            "name": "The Rajan Family",
+            "rating": 5,
+            "review": "Booked this for a milestone birthday and the space was incredible — the living hall alone comfortably held our whole group. Pool and lawn made every evening feel like an event.",
+            "date": "2025-09-14",
+            "location": "Bengaluru",
+            "verified": true
+        },
+        {
+            "id": "rev-2",
+            "name": "Aakash Bhatt",
+            "rating": 5,
+            "review": "Genuinely luxurious interiors and the location between Anjuna and Vagator meant we could do both scenes without a long drive either way.",
+            "date": "2026-01-29",
+            "location": "Delhi",
+            "verified": true
+        }
+    ],
+    "vacationRentalSchema": true,
+    "breadcrumbs": [{
+            "name": "Home",
+            "url": "/"
+        },
+        {
+            "name": "All Stays",
+            "url": "/all-stays"
+        },
+        {
+            "name": "Private Pool Villas in Goa",
+            "url": "/private-pool-villas-in-goa"
+        },
+        {
+            "name": "Azure Palm Luxury Villa",
+            "url": "/stays/azure-palm-luxury-villa-anjuna-vagator"
+        }
+    ],
+    "seo": {
+        "metaTitle": "Azure Palm Luxury Villa Anjuna-Vagator | Goa Beach Stays",
+        "metaDescription": "Premium luxury 5 BHK villa between Anjuna and Vagator with a large private pool and spacious living hall. Standard from ₹32,000/night. WhatsApp enquiry.",
+        "focusKeyword": "luxury villa anjuna vagator goa"
+    },
+    "contact": {
+        "whatsappNumber": "+919921372661",
+        "callNumber": "+918080557611"
+    },
+    "featured": false,
+    "active": true,
+    "publishedAt": "2025-01-10",
+    "priceRange": "₹32,000 – ₹80,000 per night"
+},
     {
         "id": "stay-016",
         "slug": "sonikus-executive-calangute",
@@ -3080,182 +3097,187 @@
     "priceRange": "₹36,000 – ₹92,000 per night"
 },
     {
-        "id": "stay-018",
-        "slug": "the-boutique-villa-baga",
-        "type": "villa",
-        "category": [
-            "couple-friendly",
-            "north-goa"
-        ],
-        "name": "The Boutique Villa Baga",
-        "tagline": "A Design-Conscious 4 BHK Villa Minutes from Baga Beach",
-        "location": {
-            "area": "North Goa, Baga",
-            "district": "North Goa",
-            "region": "North Goa",
-            "address": "Baga Beach Belt, North Goa, Goa 403516",
-            "coordinates": {
-                "lat": 15.5595,
-                "lng": 73.7515
-            },
-            "nearestBeach": "Baga Beach (0.6 km)",
-            "nearestAirport": "Dabolim Airport (47 km)",
-            "postalCode": "403516"
+    "id": "stay-018",
+    "slug": "the-boutique-cottages-calangute",
+    "type": "cottage",
+    "category": [
+        "couple-friendly",
+        "family-friendly",
+        "north-goa"
+    ],
+    "name": "The Boutique Cottages Calangute",
+    "tagline": "Design-Conscious Boutique Cottages Minutes from Calangute Beach",
+    "location": {
+        "area": "North Goa, Calangute",
+        "district": "Bardez",
+        "region": "North Goa",
+        "address": "Calangute-Bardez Road, North Goa, Goa 403516",
+        "coordinates": {
+            "lat": 15.5478,
+            "lng": 73.7548
         },
-        "pricing": {
-            "standard": {
-                "label": "Standard (Feb–Oct)",
-                "roomTypes": [{
-                        "type": "Garden Bedroom",
-                        "pricePerNight": 21000,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Designer Suite",
-                        "pricePerNight": 27000,
-                        "maxGuests": 3
-                    }
-                ]
-            },
-            "season": {
-                "label": "Peak Season (Nov, Dec, Jan)",
-                "note": "Rates typically double during Goa's peak tourist season (November–January).",
-                "roomTypes": [{
-                        "type": "Garden Bedroom",
-                        "pricePerNight": 42000,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Designer Suite",
-                        "pricePerNight": 54000,
-                        "maxGuests": 3
-                    }
-                ]
-            },
-            "currency": "INR",
-            "minStay": 1,
-            "displayPrice": 21000
-        },
-        "rooms": 4,
-        "maxGuests": 9,
-        "bedrooms": 4,
-        "bathrooms": 4,
-        "amenities": [
-            "Free WiFi",
-            "Air Conditioning",
-            "Fully Equipped Kitchen",
-            "Free Parking",
-            "Curated Interiors",
-            "Outdoor Seating",
-            "Daily Housekeeping",
-            "24/7 Caretaker",
-            "Smart TV"
-        ],
-        "highlights": [
-            "Curated, design-led interiors distinct from the typical villa look",
-            "Short ride from Baga's beach, market and nightlife",
-            "4 bedrooms suited to a stylish small-group getaway",
-            "Every room individually styled rather than uniform"
-        ],
-        "description": {
-            "short": "A design-conscious 4 BHK villa near Baga beach, with individually styled rooms and easy access to Baga's scene. Book by WhatsApp.",
-            "long": "The Boutique Villa Baga treats interior design as the point, not an afterthought — each of the four bedrooms is styled distinctly, with curated furniture and art rather than the matching-set look most villas default to. It photographs like a small design hotel while functioning like a private home.\n\nBaga's beach, market and Tito's Lane nightlife strip are all a short ride away, making this a good base for groups who want a characterful place to come home to after a lively evening out. The living spaces are built for lounging and conversation as much as they are for sleeping.\n\nIt's best suited to small groups of friends or couples who care about atmosphere as much as location. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — WhatsApp us for availability."
-        },
-        "images": {
-            "cover": "/images/stays/the-boutique-villa-baga/cover.png",
-            "gallery": [
-                "/images/stays/the-boutique-villa-baga/cover.png",
-                "/images/stays/the-boutique-villa-baga/gallery-1.png",
-                "/images/stays/the-boutique-villa-baga/gallery-2.png",
-                "/images/stays/the-boutique-villa-baga/gallery-3.png",
-                "/images/stays/the-boutique-villa-baga/gallery-4.png",
-                "/images/stays/the-boutique-villa-baga/gallery-5.png",
-                "/images/stays/the-boutique-villa-baga/gallery-6.png",
-                "/images/stays/the-boutique-villa-baga/gallery-7.png",
-                "/images/stays/the-boutique-villa-baga/gallery-8.png"
-            ],
-            "video": ""
-        },
-        "tags": [
-            "North Goa",
-            "Baga",
-            "Boutique",
-            "Design"
-        ],
-        "nearbyAttractions": [
-            "Baga Beach – 0.6 km",
-            "Tito's Lane – 1.2 km",
-            "Baga Market – 0.8 km",
-            "Calangute Beach – 2.6 km"
-        ],
-        "faqs": [{
-                "question": "How far is The Boutique Villa Baga from the beach?",
-                "answer": "The Boutique Villa Baga is located a short distance from Baga Beach, one of the area's most loved stretches of coast."
-            },
-            {
-                "question": "What are the check-in and check-out times?",
-                "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
-            },
-            {
-                "question": "How do I book The Boutique Villa Baga?",
-                "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
-            },
-            {
-                "question": "Are peak-season rates different?",
-                "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
-            }
-        ],
-        "reviews": [{
-                "id": "rev-1",
-                "name": "Simran Oberoi",
-                "rating": 5,
-                "review": "Every room felt genuinely different and well thought out, not just repainted. Loved the location near Baga too.",
-                "date": "2026-02-11",
-                "location": "Delhi",
-                "verified": true
-            },
-            {
-                "id": "rev-2",
-                "name": "Kabir Anand",
-                "rating": 5,
-                "review": "Felt like staying in a design magazine while still being a five-minute ride from Tito's Lane. Great combination.",
-                "date": "2025-12-27",
-                "location": "Mumbai",
-                "verified": true
-            }
-        ],
-        "vacationRentalSchema": true,
-        "breadcrumbs": [{
-                "name": "Home",
-                "url": "/"
-            },
-            {
-                "name": "All Stays",
-                "url": "/all-stays"
-            },
-            {
-                "name": "Villas for Couples in Goa",
-                "url": "/couple-villas-goa"
-            },
-            {
-                "name": "The Boutique Villa Baga",
-                "url": "/stays/the-boutique-villa-baga"
-            }
-        ],
-        "seo": {
-            "metaTitle": "The Boutique Villa Baga | Goa Beach Stays",
-            "metaDescription": "Design-led 4 BHK villa near Baga beach with individually styled rooms. Standard from ₹21,000/night. WhatsApp enquiry.",
-            "focusKeyword": "boutique villa baga goa"
-        },
-        "contact": {
-            "whatsappNumber": "+919921372661",
-            "callNumber": "+918080557611"
-        },
-        "featured": false,
-        "active": true,
-        "publishedAt": "2025-01-10",
-        "priceRange": "₹21,000 – ₹54,000 per night"
+        "nearestBeach": "Calangute Beach (0.8 km)",
+        "nearestAirport": "Dabolim Airport (43 km)",
+        "postalCode": "403516"
     },
+    "pricing": {
+        "standard": {
+            "label": "Standard (Feb–Oct)",
+            "roomTypes": [{
+                    "type": "Garden Cottage",
+                    "pricePerNight": 8500,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Designer Cottage",
+                    "pricePerNight": 11000,
+                    "maxGuests": 3
+                }
+            ]
+        },
+        "season": {
+            "label": "Peak Season (Nov, Dec, Jan)",
+            "note": "Rates typically double during Goa's peak tourist season (November–January).",
+            "roomTypes": [{
+                    "type": "Garden Cottage",
+                    "pricePerNight": 17000,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Designer Cottage",
+                    "pricePerNight": 22000,
+                    "maxGuests": 3
+                }
+            ]
+        },
+        "currency": "INR",
+        "minStay": 1,
+        "displayPrice": 8500
+    },
+    "rooms": 4,
+    "maxGuests": 9,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "amenities": [
+        "Free WiFi",
+        "Air Conditioning",
+        "Fully Equipped Kitchenette",
+        "Free Parking",
+        "Curated Interiors",
+        "Outdoor Seating",
+        "Daily Housekeeping",
+        "24/7 Caretaker",
+        "Smart TV"
+    ],
+    "highlights": [
+        "Individually styled cottages with curated, design-led interiors",
+        "Short walk from Calangute's beach, market and restaurants",
+        "4 independent cottages suited to couples and small families",
+        "Each cottage designed distinctly rather than as a uniform block"
+    ],
+    "description": {
+        "short": "Design-conscious boutique cottages near Calangute beach, with individually styled interiors and easy beach access. Book by WhatsApp.",
+        "long": "The Boutique Cottages Calangute treats interior design as the point, not an afterthought — each of the four cottages is styled distinctly, with curated furniture and art rather than the matching-set look most cottage stays default to. It photographs like a small design retreat while offering the privacy of an independent cottage.\n\nCalangute's beach, market and restaurant strip are all a short walk away, making this a good base for couples and small families who want a characterful place to come home to after a day out. Each cottage is built for lounging and unwinding as much as for sleeping.\n\nIt's best suited to couples and small families who care about atmosphere as much as location. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — WhatsApp us for availability."
+    },
+    "images": {
+        "cover": "/images/stays/the-boutique-villa-baga/cover.png",
+        "gallery": [
+            "/images/stays/the-boutique-villa-baga/cover.png",
+            "/images/stays/the-boutique-villa-baga/gallery-1.png",
+            "/images/stays/the-boutique-villa-baga/gallery-2.png",
+            "/images/stays/the-boutique-villa-baga/gallery-3.png",
+            "/images/stays/the-boutique-villa-baga/gallery-4.png",
+            "/images/stays/the-boutique-villa-baga/gallery-5.png",
+            "/images/stays/the-boutique-villa-baga/gallery-6.png",
+            "/images/stays/the-boutique-villa-baga/gallery-7.png",
+            "/images/stays/the-boutique-villa-baga/gallery-8.png"
+        ],
+        "video": ""
+    },
+    "tags": [
+        "North Goa",
+        "Calangute",
+        "Boutique",
+        "Cottage"
+    ],
+    "nearbyAttractions": [
+        "Calangute Beach – 0.8 km",
+        "Calangute Market – 1 km",
+        "Baga Beach – 2.6 km",
+        "Candolim Beach – 3 km"
+    ],
+    "faqs": [{
+            "question": "How far are The Boutique Cottages Calangute from the beach?",
+            "answer": "The Boutique Cottages Calangute are located a short walk from Calangute Beach, one of North Goa's most loved stretches of coast."
+        },
+        {
+            "question": "What are the check-in and check-out times?",
+            "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
+        },
+        {
+            "question": "How do I book a cottage at The Boutique Cottages Calangute?",
+            "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
+        },
+        {
+            "question": "Are peak-season rates different?",
+            "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
+        },
+        {
+            "question": "Are the cottages independent or shared units?",
+            "answer": "Each cottage is an independent unit, individually styled and separate from the others on the property."
+        }
+    ],
+    "reviews": [{
+            "id": "rev-1",
+            "name": "Simran Oberoi",
+            "rating": 5,
+            "review": "Every cottage felt genuinely different and well thought out, not just repainted. Loved the location near Calangute too.",
+            "date": "2026-02-11",
+            "location": "Delhi",
+            "verified": true
+        },
+        {
+            "id": "rev-2",
+            "name": "Kabir Anand",
+            "rating": 5,
+            "review": "Felt like staying in a design magazine while still being a short walk from Calangute's beach and market. Great combination.",
+            "date": "2025-12-27",
+            "location": "Mumbai",
+            "verified": true
+        }
+    ],
+    "vacationRentalSchema": true,
+    "breadcrumbs": [{
+            "name": "Home",
+            "url": "/"
+        },
+        {
+            "name": "All Stays",
+            "url": "/all-stays"
+        },
+        {
+            "name": "Cottages in Goa",
+            "url": "/cottages-in-goa"
+        },
+        {
+            "name": "The Boutique Cottages Calangute",
+            "url": "/stays/the-boutique-cottages-calangute"
+        }
+    ],
+    "seo": {
+        "metaTitle": "The Boutique Cottages Calangute | Goa Beach Stays",
+        "metaDescription": "Design-led boutique cottages near Calangute beach with individually styled interiors. Standard from ₹8,500/night. WhatsApp enquiry.",
+        "focusKeyword": "boutique cottages calangute goa"
+    },
+    "contact": {
+        "whatsappNumber": "+919921372661",
+        "callNumber": "+918080557611"
+    },
+    "featured": false,
+    "active": true,
+    "publishedAt": "2025-01-10",
+    "priceRange": "₹8,500 – ₹22,000 per night"
+},
 {
     "id": "stay-019",
     "slug": "costa-dourada-beach-resort-morjim",
@@ -3995,364 +4017,368 @@
         "priceRange": "₹3,900 – ₹10,200 per night"
     },
     {
-        "id": "stay-023",
-        "slug": "kindred-house-retreat-arambol",
-        "type": "resort",
-        "category": [
-            "north-goa"
-        ],
-        "name": "Kindred House Retreat",
-        "tagline": "A 4-Star Property in Arambol Built for Workshops, Retreats and Small Gatherings",
-        "location": {
-            "area": "North Goa, Arambol",
-            "district": "North Goa",
-            "region": "North Goa",
-            "address": "Arambol Plateau Road, North Goa, Goa 403524",
-            "coordinates": {
-                "lat": 15.681,
-                "lng": 73.709
-            },
-            "nearestBeach": "Arambol Beach (0.6 km)",
-            "nearestAirport": "Dabolim Airport (57 km)",
-            "postalCode": "403524"
+    "id": "stay-023",
+    "slug": "kindred-house-retreat-baga",
+    "type": "resort",
+    "category": [
+        "north-goa"
+    ],
+    "name": "Kindred House Retreat",
+    "tagline": "A 4-Star Resort Steps from Baga Beach",
+    "location": {
+        "area": "North Goa, Baga",
+        "district": "North Goa",
+        "region": "North Goa",
+        "address": "Baga Beach Road, North Goa, Goa 403516",
+        "coordinates": {
+            "lat": 15.5553,
+            "lng": 73.7517
         },
-        "pricing": {
-            "standard": {
-                "label": "Standard (Feb–Oct)",
-                "roomTypes": [{
-                        "type": "Studio Room",
-                        "pricePerNight": 4700,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Terrace Room",
-                        "pricePerNight": 6100,
-                        "maxGuests": 2
-                    }
-                ]
-            },
-            "season": {
-                "label": "Peak Season (Nov, Dec, Jan)",
-                "note": "Rates typically double during Goa's peak tourist season (November–January).",
-                "roomTypes": [{
-                        "type": "Studio Room",
-                        "pricePerNight": 9400,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Terrace Room",
-                        "pricePerNight": 12200,
-                        "maxGuests": 2
-                    }
-                ]
-            },
-            "currency": "INR",
-            "minStay": 1,
-            "displayPrice": 4700
-        },
-        "rooms": 20,
-        "maxGuests": 44,
-        "bedrooms": 20,
-        "bathrooms": 20,
-        "amenities": [
-            "Swimming Pool",
-            "Free WiFi",
-            "Air Conditioning",
-            "In-house Restaurant",
-            "Event Lawn",
-            "Free Parking",
-            "Yoga Deck",
-            "Daily Housekeeping",
-            "Front Desk"
-        ],
-        "highlights": [
-            "Dedicated event lawn suited to workshops and small gatherings",
-            "Open-air yoga deck overlooking the Arambol plateau",
-            "Clifftop setting above Arambol's bohemian beach scene",
-            "4-star comfort with a genuinely creative, unhurried atmosphere"
-        ],
-        "description": {
-            "short": "A 4-star Arambol property with an event lawn and yoga deck, built for retreats, workshops and small creative gatherings. Book by WhatsApp.",
-            "long": "Kindred House Retreat sits on Arambol's plateau, a short walk above the beach's famous drum circles and lagoon, in a setting deliberately built around gathering rather than just sleeping. An open event lawn hosts everything from small weddings to multi-day workshops, and a yoga deck catches the sunrise over the cliffs before the beach below wakes up.\n\nRooms hold to a comfortable 4-star standard, with terrace rooms opening onto plateau views that feel a world away from Calangute's beach-block resorts. The property works equally well as a base for independent travellers soaking up Arambol's free-spirited character or a group organiser running a retreat that needs actual infrastructure — reliable Wi-Fi, a proper kitchen for catering, and space that doesn't feel borrowed from a hotel lobby.\n\nWe've placed retreat organisers, small wedding parties and independent travellers here with equally good results. Our team can talk through group rates and event logistics directly — reach out and we'll help you plan around it."
-        },
-        "images": {
-            "cover": "/images/stays/kindred-house-retreat-arambol/cover.png",
-            "gallery": [
-                "/images/stays/kindred-house-retreat-arambol/cover.png",
-                "/images/stays/kindred-house-retreat-arambol/gallery-1.png",
-                "/images/stays/kindred-house-retreat-arambol/gallery-2.png",
-                "/images/stays/kindred-house-retreat-arambol/gallery-3.png",
-                "/images/stays/kindred-house-retreat-arambol/gallery-4.png",
-                "/images/stays/kindred-house-retreat-arambol/gallery-5.png",
-                "/images/stays/kindred-house-retreat-arambol/gallery-6.png",
-                "/images/stays/kindred-house-retreat-arambol/gallery-7.png"
-            ],
-            "video": ""
-        },
-        "tags": [
-            "North Goa",
-            "Arambol",
-            "Retreats",
-            "Events"
-        ],
-        "nearbyAttractions": [
-            "Arambol Beach – 0.6 km",
-            "Arambol Sweet Water Lake – 1 km",
-            "Mandrem Beach – 4 km",
-            "Morjim Beach – 6.5 km"
-        ],
-        "faqs": [{
-                "question": "How far is Kindred House Retreat from the beach?",
-                "answer": "Kindred House Retreat sits a short walk above Arambol Beach, one of North Goa's most distinctive stretches of coast."
-            },
-            {
-                "question": "What are the check-in and check-out times?",
-                "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
-            },
-            {
-                "question": "How do I book Kindred House Retreat?",
-                "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
-            },
-            {
-                "question": "Are peak-season rates different?",
-                "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
-            },
-            {
-                "question": "Can the property host a workshop or small retreat group?",
-                "answer": "Yes, the event lawn and yoga deck are specifically built for this — tell us your group size and format when you enquire and we'll confirm logistics."
-            }
-        ],
-        "reviews": [{
-                "id": "rev-1",
-                "name": "Meher Thakur",
-                "rating": 5,
-                "review": "Ran a 3-day writing retreat here with 15 people and the lawn and yoga deck made all the difference. Genuinely built for this kind of trip.",
-                "date": "2026-02-14",
-                "location": "Mumbai",
-                "verified": true
-            },
-            {
-                "id": "rev-2",
-                "name": "Oliver S.",
-                "rating": 5,
-                "review": "Stayed independently and still loved the calm, creative atmosphere. The plateau setting above Arambol's beach was a highlight.",
-                "date": "2025-11-08",
-                "location": "Bengaluru",
-                "verified": true
-            }
-        ],
-        "vacationRentalSchema": true,
-        "breadcrumbs": [{
-                "name": "Home",
-                "url": "/"
-            },
-            {
-                "name": "All Stays",
-                "url": "/all-stays"
-            },
-            {
-                "name": "Stays in Arambol",
-                "url": "/stays-in-arambol"
-            },
-            {
-                "name": "Kindred House Retreat",
-                "url": "/stays/kindred-house-retreat-arambol"
-            }
-        ],
-        "seo": {
-            "metaTitle": "Kindred House Retreat Arambol | Goa Beach Stays",
-            "metaDescription": "4-star Arambol property with an event lawn and yoga deck, built for retreats and gatherings. Standard from ₹4,700/night. Message us for group rates.",
-            "focusKeyword": "arambol retreat venue goa"
-        },
-        "contact": {
-            "whatsappNumber": "+919921372661",
-            "callNumber": "+918080557611"
-        },
-        "featured": false,
-        "active": true,
-        "publishedAt": "2025-01-10",
-        "priceRange": "₹4,700 – ₹12,200 per night"
+        "nearestBeach": "Baga Beach (0.4 km)",
+        "nearestAirport": "Dabolim Airport (38 km)",
+        "postalCode": "403516"
     },
-    {
-        "id": "stay-024",
-        "slug": "belvedere-heights-villa-calangute",
-        "type": "villa",
-        "category": [
-            "couple-friendly",
-            "family-friendly",
-            "north-goa",
-            "sea view"
-        ],
-        "name": "Belvedere Heights Villa",
-        "tagline": "A 4 BHK Villa Perched Above Calangute with a Sweeping Beach View",
-        "location": {
-            "area": "North Goa, Calangute",
-            "district": "North Goa",
-            "region": "North Goa",
-            "address": "Calangute Hillside Road, North Goa, Goa 403516",
-            "coordinates": {
-                "lat": 15.5525,
-                "lng": 73.7565
-            },
-            "nearestBeach": "Calangute Beach (0.9 km)",
-            "nearestAirport": "Dabolim Airport (45 km)",
-            "postalCode": "403516"
+    "pricing": {
+        "standard": {
+            "label": "Standard (Feb–Oct)",
+            "roomTypes": [{
+                    "type": "Studio Room",
+                    "pricePerNight": 6500,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Terrace Room",
+                    "pricePerNight": 8200,
+                    "maxGuests": 2
+                }
+            ]
         },
-        "pricing": {
-            "standard": {
-                "label": "Standard (Feb–Oct)",
-                "roomTypes": [{
-                        "type": "Garden Bedroom",
-                        "pricePerNight": 23000,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "View Suite",
-                        "pricePerNight": 29000,
-                        "maxGuests": 3
-                    }
-                ]
-            },
-            "season": {
-                "label": "Peak Season (Nov, Dec, Jan)",
-                "note": "Rates typically double during Goa's peak tourist season (November–January).",
-                "roomTypes": [{
-                        "type": "Garden Bedroom",
-                        "pricePerNight": 46000,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "View Suite",
-                        "pricePerNight": 58000,
-                        "maxGuests": 3
-                    }
-                ]
-            },
-            "currency": "INR",
-            "minStay": 1,
-            "displayPrice": 23000
+        "season": {
+            "label": "Peak Season (Nov, Dec, Jan)",
+            "note": "Rates typically double during Goa's peak tourist season (November–January).",
+            "roomTypes": [{
+                    "type": "Studio Room",
+                    "pricePerNight": 13000,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Terrace Room",
+                    "pricePerNight": 16400,
+                    "maxGuests": 2
+                }
+            ]
         },
-        "rooms": 4,
-        "maxGuests": 9,
-        "bedrooms": 4,
-        "bathrooms": 4,
-        "amenities": [
-            "Private Pool",
-            "Free WiFi",
-            "Air Conditioning",
-            "Fully Equipped Kitchen",
-            "Free Parking",
-            "Elevated Terrace",
-            "Outdoor Seating",
-            "Daily Housekeeping",
-            "24/7 Caretaker",
-            "Smart TV"
-        ],
-        "highlights": [
-            "Elevated hillside position with an uninterrupted view over Calangute",
-            "Rooftop terrace built specifically for sunset watching",
-            "Private pool framed by the same panoramic outlook",
-            "A quieter, breezier alternative to staying directly on the beach strip"
-        ],
-        "description": {
-            "short": "A 4 BHK hillside villa above Calangute with sweeping sea views and a rooftop terrace built for sunsets. Book by WhatsApp.",
-            "long": "Belvedere Heights Villa gives up direct beach access for something a lot of villas in Calangute can't offer — genuine elevation. Set into the hillside above the town, its rooftop terrace and pool deck look out over rooftops, palms and the sea beyond, especially dramatic at sunset when Calangute's beach strip below is bathed in gold light.\n\nThe trade-off is a short drive rather than a walk to the sand, but in return you get a noticeably quieter, breezier setting than the busier beachfront properties, plus a view that no ground-level villa in the area can match. Interiors are comfortable and unfussy, letting the outlook do most of the talking.\n\nCouples chasing a photogenic sunset spot and small families who don't mind a five-minute drive to the beach both do well here. We know this villa's view schedule better than most — message us and we'll help you time your stay around it."
-        },
-        "images": {
-            "cover": "/images/stays/belvedere-heights-villa-calangute/cover.png",
-            "gallery": [
-                "/images/stays/belvedere-heights-villa-calangute/cover.png",
-                "/images/stays/belvedere-heights-villa-calangute/gallery-1.png",
-                "/images/stays/belvedere-heights-villa-calangute/gallery-2.png",
-                "/images/stays/belvedere-heights-villa-calangute/gallery-3.png",
-                "/images/stays/belvedere-heights-villa-calangute/gallery-4.png",
-                "/images/stays/belvedere-heights-villa-calangute/gallery-5.png",
-                "/images/stays/belvedere-heights-villa-calangute/gallery-6.png",
-                "/images/stays/belvedere-heights-villa-calangute/gallery-7.png",
-                "/images/stays/belvedere-heights-villa-calangute/gallery-8.png"
-            ],
-            "video": ""
-        },
-        "tags": [
-            "North Goa",
-            "Calangute",
-            "Sea View",
-            "Villa"
-        ],
-        "nearbyAttractions": [
-            "Calangute Beach – 0.9 km",
-            "Calangute Market – 1.1 km",
-            "Baga Beach – 3 km",
-            "Candolim Beach – 2.4 km"
-        ],
-        "faqs": [{
-                "question": "How far is Belvedere Heights Villa from the beach?",
-                "answer": "Belvedere Heights Villa is a short drive from Calangute Beach, one of the area's most loved stretches of coast, and sits elevated above it with a sweeping view."
-            },
-            {
-                "question": "What are the check-in and check-out times?",
-                "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
-            },
-            {
-                "question": "How do I book Belvedere Heights Villa?",
-                "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
-            },
-            {
-                "question": "Are peak-season rates different?",
-                "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
-            }
-        ],
-        "reviews": [{
-                "id": "rev-1",
-                "name": "Reyansh & Meera",
-                "rating": 5,
-                "review": "The view from the rooftop at sunset was the best fifteen minutes of our whole trip. Villa itself was comfortable and quiet.",
-                "date": "2026-01-30",
-                "location": "Bengaluru",
-                "verified": true
-            },
-            {
-                "id": "rev-2",
-                "name": "The Kapadia Family",
-                "rating": 4,
-                "review": "Loved the elevation and breeze compared to being right on the beach strip. Short drive down was never an issue.",
-                "date": "2025-12-03",
-                "location": "Ahmedabad",
-                "verified": true
-            }
-        ],
-        "vacationRentalSchema": true,
-        "breadcrumbs": [{
-                "name": "Home",
-                "url": "/"
-            },
-            {
-                "name": "All Stays",
-                "url": "/all-stays"
-            },
-            {
-                "name": "Sea View Villas in Goa",
-                "url": "/sea-view-villas-goa"
-            },
-            {
-                "name": "Belvedere Heights Villa",
-                "url": "/stays/belvedere-heights-villa-calangute"
-            }
-        ],
-        "seo": {
-            "metaTitle": "Belvedere Heights Villa Calangute | Goa Beach Stays",
-            "metaDescription": "Hillside 4 BHK villa above Calangute with sweeping sea views. Standard from ₹23,000/night. Message us to time your stay around sunset.",
-            "focusKeyword": "sea view villa calangute goa"
-        },
-        "contact": {
-            "whatsappNumber": "+919921372661",
-            "callNumber": "+918080557611"
-        },
-        "featured": false,
-        "active": true,
-        "publishedAt": "2025-01-10",
-        "priceRange": "₹23,000 – ₹58,000 per night"
+        "currency": "INR",
+        "minStay": 1,
+        "displayPrice": 6500
     },
+    "rooms": 20,
+    "maxGuests": 44,
+    "bedrooms": 20,
+    "bathrooms": 20,
+    "amenities": [
+        "Swimming Pool",
+        "Free WiFi",
+        "Air Conditioning",
+        "In-house Restaurant",
+        "Event Lawn",
+        "Free Parking",
+        "Yoga Deck",
+        "Daily Housekeeping",
+        "Front Desk"
+    ],
+    "highlights": [
+        "Dedicated event lawn suited to workshops and small gatherings",
+        "Open-air yoga deck a short stroll from Baga's shoreline",
+        "Walking distance from Baga Beach and its buzzing beach-shack scene",
+        "4-star comfort paired with easy access to North Goa's most popular nightlife strip"
+    ],
+    "description": {
+        "short": "A 4-star Baga property with an event lawn and yoga deck, walking distance from the beach and its buzzing shack and nightlife scene. Book by WhatsApp.",
+        "long": "Kindred House Retreat sits just a short walk from Baga Beach, one of North Goa's liveliest stretches of coast, known for its beach shacks, water sports and famous stretch of nightlife along Tito's Lane. An open event lawn hosts everything from small weddings to multi-day workshops, and a yoga deck offers a calm start to the day before Baga's energy picks up.\n\nRooms hold to a comfortable 4-star standard, with terrace rooms offering a relaxed retreat just minutes from the beach and Baga's restaurants, cafes and shopping. The property works equally well as a base for travellers wanting to be close to the action or a group organiser running a retreat that needs actual infrastructure — reliable Wi-Fi, a proper kitchen for catering, and space that doesn't feel borrowed from a hotel lobby.\n\nWe've placed retreat organisers, small wedding parties and independent travellers here with equally good results. Our team can talk through group rates and event logistics directly — reach out and we'll help you plan around it."
+    },
+    "images": {
+        "cover": "/images/stays/kindred-house-retreat-arambol/cover.png",
+        "gallery": [
+            "/images/stays/kindred-house-retreat-arambol/cover.png",
+            "/images/stays/kindred-house-retreat-arambol/gallery-1.png",
+            "/images/stays/kindred-house-retreat-arambol/gallery-2.png",
+            "/images/stays/kindred-house-retreat-arambol/gallery-3.png",
+            "/images/stays/kindred-house-retreat-arambol/gallery-4.png",
+            "/images/stays/kindred-house-retreat-arambol/gallery-5.png",
+            "/images/stays/kindred-house-retreat-arambol/gallery-6.png",
+            "/images/stays/kindred-house-retreat-arambol/gallery-7.png"
+        ],
+        "video": ""
+    },
+    "tags": [
+        "North Goa",
+        "Baga",
+        "Retreats",
+        "Events"
+    ],
+    "nearbyAttractions": [
+        "Baga Beach – 0.4 km",
+        "Tito's Lane – 0.8 km",
+        "Calangute Beach – 2 km",
+        "Anjuna Beach – 8 km"
+    ],
+    "faqs": [{
+            "question": "How far is Kindred House Retreat from the beach?",
+            "answer": "Kindred House Retreat is a short walk from Baga Beach, one of North Goa's liveliest and most popular stretches of coast."
+        },
+        {
+            "question": "What are the check-in and check-out times?",
+            "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
+        },
+        {
+            "question": "How do I book Kindred House Retreat?",
+            "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
+        },
+        {
+            "question": "Are peak-season rates different?",
+            "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
+        },
+        {
+            "question": "Can the property host a workshop or small retreat group?",
+            "answer": "Yes, the event lawn and yoga deck are specifically built for this — tell us your group size and format when you enquire and we'll confirm logistics."
+        }
+    ],
+    "reviews": [{
+            "id": "rev-1",
+            "name": "Meher Thakur",
+            "rating": 5,
+            "review": "Ran a 3-day writing retreat here with 15 people and the lawn and yoga deck made all the difference. Being so close to Baga was a bonus for the group in the evenings.",
+            "date": "2026-02-14",
+            "location": "Mumbai",
+            "verified": true
+        },
+        {
+            "id": "rev-2",
+            "name": "Oliver S.",
+            "rating": 5,
+            "review": "Stayed independently and loved how close it was to Baga Beach and the restaurants nearby, while still feeling calm and comfortable at night.",
+            "date": "2025-11-08",
+            "location": "Bengaluru",
+            "verified": true
+        }
+    ],
+    "vacationRentalSchema": true,
+    "breadcrumbs": [{
+            "name": "Home",
+            "url": "/"
+        },
+        {
+            "name": "All Stays",
+            "url": "/all-stays"
+        },
+        {
+            "name": "Stays in Baga",
+            "url": "/stays-in-baga"
+        },
+        {
+            "name": "Kindred House Retreat",
+            "url": "/stays/kindred-house-retreat-baga"
+        }
+    ],
+    "seo": {
+        "metaTitle": "Kindred House Retreat Baga | Goa Beach Stays",
+        "metaDescription": "4-star resort walking distance from Baga Beach with an event lawn and yoga deck, built for retreats and gatherings. Standard from ₹6,500/night. Message us for group rates.",
+        "focusKeyword": "baga beach resort goa"
+    },
+    "contact": {
+        "whatsappNumber": "+919921372661",
+        "callNumber": "+918080557611"
+    },
+    "featured": false,
+    "active": true,
+    "publishedAt": "2025-01-10",
+    "priceRange": "₹6,500 – ₹16,400 per night"
+},
+  {
+    "id": "stay-024",
+    "slug": "amber-grove-villa-anjuna",
+    "type": "villa",
+    "category": [
+        "private pool",
+        "couple-friendly",
+        "family-friendly",
+        "north-goa"
+    ],
+    "name": "Amber Grove Villa",
+    "tagline": "A Premium 4 BHK Private Pool Villa in Anjuna's Quiet Luxury Lanes",
+    "location": {
+        "area": "North Goa, Anjuna",
+        "district": "North Goa",
+        "region": "North Goa",
+        "address": "Anjuna Interior Lanes, North Goa, Goa 403509",
+        "coordinates": {
+            "lat": 15.5735,
+            "lng": 73.7402
+        },
+        "nearestBeach": "Anjuna Beach (1.5 km)",
+        "nearestAirport": "Dabolim Airport (49 km)",
+        "postalCode": "403509"
+    },
+    "pricing": {
+        "standard": {
+            "label": "Standard (Feb–Oct)",
+            "roomTypes": [{
+                    "type": "Garden Bedroom",
+                    "pricePerNight": 23500,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Premium Suite",
+                    "pricePerNight": 29500,
+                    "maxGuests": 3
+                }
+            ]
+        },
+        "season": {
+            "label": "Peak Season (Nov, Dec, Jan)",
+            "note": "Rates typically double during Goa's peak tourist season (November–January).",
+            "roomTypes": [{
+                    "type": "Garden Bedroom",
+                    "pricePerNight": 47000,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Premium Suite",
+                    "pricePerNight": 59000,
+                    "maxGuests": 3
+                }
+            ]
+        },
+        "currency": "INR",
+        "minStay": 1,
+        "displayPrice": 23500
+    },
+    "rooms": 4,
+    "maxGuests": 9,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "amenities": [
+        "Private Pool",
+        "Free WiFi",
+        "Air Conditioning",
+        "Fully Equipped Kitchen",
+        "Free Parking",
+        "Premium Interiors",
+        "Outdoor Seating",
+        "Daily Housekeeping",
+        "24/7 Caretaker",
+        "Smart TV"
+    ],
+    "highlights": [
+        "Tucked into Anjuna's quiet, luxury-lane interior away from the crowds",
+        "Private pool set within a premium, design-led courtyard",
+        "Four spacious bedrooms suited to both couples and families",
+        "Short drive from Anjuna Beach and its flea market and clifftop cafes"
+    ],
+    "description": {
+        "short": "A premium 4 BHK private pool villa tucked into Anjuna's quiet luxury lanes, minutes from the beach. Book by WhatsApp.",
+        "long": "Amber Grove Villa sits in one of Anjuna's quieter interior lanes, offering a genuinely premium base without the noise of the main strip. Four generously sized bedrooms open onto a private, design-led courtyard where the pool takes centre stage, shaded through the day and lit for evenings spent unwinding after time at the beach.\n\nAnjuna's flea market, clifftop cafes and beach are all a short drive away, but the villa itself is built for slowing down — premium interiors, a fully equipped kitchen and a caretaker on call around the clock make it as comfortable for a family as it is for a group of friends or a couple looking for privacy.\n\nWe've placed both families and couples here with equally good results, and know the neighbourhood's rhythm well. Get in touch and we'll help you compare it against similar villas nearby."
+    },
+    "images": {
+        "cover": "/images/stays/belvedere-heights-villa-calangute/cover.png",
+        "gallery": [
+            "/images/stays/belvedere-heights-villa-calangute/cover.png",
+            "/images/stays/belvedere-heights-villa-calangute/gallery-1.png",
+            "/images/stays/belvedere-heights-villa-calangute/gallery-2.png",
+            "/images/stays/belvedere-heights-villa-calangute/gallery-3.png",
+            "/images/stays/belvedere-heights-villa-calangute/gallery-4.png",
+            "/images/stays/belvedere-heights-villa-calangute/gallery-5.png",
+            "/images/stays/belvedere-heights-villa-calangute/gallery-6.png",
+            "/images/stays/belvedere-heights-villa-calangute/gallery-7.png",
+            "/images/stays/belvedere-heights-villa-calangute/gallery-8.png"
+        ],
+        "video": ""
+    },
+    "tags": [
+        "North Goa",
+        "Anjuna",
+        "Private Pool",
+        "Villa"
+    ],
+    "nearbyAttractions": [
+        "Anjuna Beach – 1.5 km",
+        "Anjuna Flea Market – 1.8 km",
+        "Vagator Beach – 3.8 km",
+        "Chapora Fort – 4.3 km"
+    ],
+    "faqs": [{
+            "question": "How far is Amber Grove Villa from the beach?",
+            "answer": "Amber Grove Villa is a short drive from Anjuna Beach, tucked into a quiet interior lane away from the main strip."
+        },
+        {
+            "question": "What are the check-in and check-out times?",
+            "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
+        },
+        {
+            "question": "How do I book Amber Grove Villa?",
+            "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
+        },
+        {
+            "question": "Are peak-season rates different?",
+            "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
+        },
+        {
+            "question": "Is the pool at Amber Grove Villa private?",
+            "answer": "Yes, the pool is reserved exclusively for your booking within the villa's private courtyard."
+        }
+    ],
+    "reviews": [{
+            "id": "rev-1",
+            "name": "Devika & Arjun",
+            "rating": 5,
+            "review": "Loved how quiet and tucked-away the lane was, but still just a short drive from the flea market and beach. Pool and interiors felt genuinely premium.",
+            "date": "2026-01-30",
+            "location": "Bengaluru",
+            "verified": true
+        },
+        {
+            "id": "rev-2",
+            "name": "The Malhotra Family",
+            "rating": 5,
+            "review": "Perfect size for our family of six. Kitchen was well stocked and the caretaker was very responsive throughout our stay.",
+            "date": "2025-12-03",
+            "location": "Ahmedabad",
+            "verified": true
+        }
+    ],
+    "vacationRentalSchema": true,
+    "breadcrumbs": [{
+            "name": "Home",
+            "url": "/"
+        },
+        {
+            "name": "All Stays",
+            "url": "/all-stays"
+        },
+        {
+            "name": "Private Pool Villas in Goa",
+            "url": "/private-pool-villas-in-goa"
+        },
+        {
+            "name": "Amber Grove Villa",
+            "url": "/stays/amber-grove-villa-anjuna"
+        }
+    ],
+    "seo": {
+        "metaTitle": "Amber Grove Villa Anjuna | Goa Beach Stays",
+        "metaDescription": "Premium 4 BHK private pool villa in Anjuna's quiet luxury lanes. Standard from ₹23,500/night. Message us to compare stays nearby.",
+        "focusKeyword": "private pool villa anjuna goa"
+    },
+    "contact": {
+        "whatsappNumber": "+919921372661",
+        "callNumber": "+918080557611"
+    },
+    "featured": false,
+    "active": true,
+    "publishedAt": "2025-01-10",
+    "priceRange": "₹23,500 – ₹59,000 per night"
+},
     {
         "id": "stay-025",
         "slug": "sai-da-casa-beach-villa",
@@ -4537,365 +4563,190 @@
         "priceRange": "₹30,000 – ₹76,000 per night"
     },
     {
-        "id": "stay-026",
-        "slug": "driftline-hotel-baga",
-        "type": "resort",
-        "category": [
-            "large group",
-            "north-goa"
-        ],
-        "name": "Driftline Hotel",
-        "tagline": "A 4-Star Base 500 Metres from Tito's Lane, Built for Late Nights",
-        "location": {
-            "area": "North Goa, Baga",
-            "district": "North Goa",
-            "region": "North Goa",
-            "address": "Baga Nightlife Belt, North Goa, Goa 403516",
-            "coordinates": {
-                "lat": 15.5565,
-                "lng": 73.7525
-            },
-            "nearestBeach": "Baga Beach (0.4 km)",
-            "nearestAirport": "Dabolim Airport (47 km)",
-            "postalCode": "403516"
+    "id": "stay-027",
+    "slug": "palm-horizon-resort-calangute",
+    "type": "resort",
+    "category": [
+        "premium resort",
+        "couple-friendly",
+        "family-friendly",
+        "north-goa"
+    ],
+    "name": "Palm Horizon Resort",
+    "tagline": "A Premium 4-Star Resort Walking Distance from Calangute Beach",
+    "location": {
+        "area": "North Goa, Calangute",
+        "district": "North Goa",
+        "region": "North Goa",
+        "address": "Calangute Beach Road, North Goa, Goa 403516",
+        "coordinates": {
+            "lat": 15.5439,
+            "lng": 73.7553
         },
-        "pricing": {
-            "standard": {
-                "label": "Standard (Feb–Oct)",
-                "roomTypes": [{
-                        "type": "Deluxe Room",
-                        "pricePerNight": 4100,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Premium Room",
-                        "pricePerNight": 5300,
-                        "maxGuests": 2
-                    }
-                ]
-            },
-            "season": {
-                "label": "Peak Season (Nov, Dec, Jan)",
-                "note": "Rates typically double during Goa's peak tourist season (November–January).",
-                "roomTypes": [{
-                        "type": "Deluxe Room",
-                        "pricePerNight": 8200,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Premium Room",
-                        "pricePerNight": 10600,
-                        "maxGuests": 2
-                    }
-                ]
-            },
-            "currency": "INR",
-            "minStay": 1,
-            "displayPrice": 4100
-        },
-        "rooms": 22,
-        "maxGuests": 52,
-        "bedrooms": 22,
-        "bathrooms": 22,
-        "amenities": [
-            "Swimming Pool",
-            "Free WiFi",
-            "Air Conditioning",
-            "In-house Restaurant",
-            "Late Checkout Options",
-            "Free Parking",
-            "Room Service",
-            "Daily Housekeeping",
-            "Front Desk"
-        ],
-        "highlights": [
-            "500m from Tito's Lane — walkable after a night out",
-            "Late checkout options built around Baga's nightlife hours",
-            "4-star comfort for groups of friends on a weekend trip",
-            "Pool and breakfast timed for a slower morning start"
-        ],
-        "description": {
-            "short": "A 4-star hotel 500 metres from Tito's Lane, built with Baga's nightlife crowd and their late mornings in mind. Book by WhatsApp.",
-            "long": "Driftline Hotel is upfront about who it's for — groups of friends whose Baga trip revolves around Tito's Lane and the string of beach clubs nearby, and who'd rather walk home at 3am than argue over a cab. The hotel sits close enough that even a slightly unsteady walk back is a short one.\n\nRooms are comfortable 4-star standard, and the property leans into flexible, later checkout options that suit a group that isn't stirring before noon after a big night. The pool works well for a slow recovery afternoon before round two.\n\nWe place a lot of friend-group weekend trips here specifically because the logistics work — proximity, flexibility, and rooms built to survive a lively group rather than fuss over them. Our team can talk you through group rates for the whole crew on WhatsApp."
-        },
-        "images": {
-            "cover": "/images/stays/driftline-hotel-baga/cover.png",
-            "gallery": [
-                "/images/stays/driftline-hotel-baga/cover.png",
-                "/images/stays/driftline-hotel-baga/gallery-1.png",
-                "/images/stays/driftline-hotel-baga/gallery-2.png",
-                "/images/stays/driftline-hotel-baga/gallery-3.png",
-                "/images/stays/driftline-hotel-baga/gallery-4.png",
-                "/images/stays/driftline-hotel-baga/gallery-5.png",
-                "/images/stays/driftline-hotel-baga/gallery-6.png",
-                "/images/stays/driftline-hotel-baga/gallery-7.png",
-                "/images/stays/driftline-hotel-baga/gallery-8.png"
-            ],
-            "video": ""
-        },
-        "tags": [
-            "North Goa",
-            "Baga",
-            "Nightlife",
-            "Groups"
-        ],
-        "nearbyAttractions": [
-            "Tito's Lane – 0.5 km",
-            "Baga Beach – 0.4 km",
-            "Calangute Beach – 2.6 km",
-            "Saturday Night Market, Arpora – 3.5 km"
-        ],
-        "faqs": [{
-                "question": "How far is Driftline Hotel from Tito's Lane?",
-                "answer": "Driftline Hotel is about 500 metres from Tito's Lane, close enough to walk back after a night out in Baga."
-            },
-            {
-                "question": "What are the check-in and check-out times?",
-                "answer": "Standard check-in is 12:00 PM and check-out is 11:00 AM, though the property can often accommodate later checkout for groups — ask us when you enquire."
-            },
-            {
-                "question": "How do I book Driftline Hotel?",
-                "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
-            },
-            {
-                "question": "Are peak-season rates different?",
-                "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
-            }
-        ],
-        "reviews": [{
-                "id": "rev-1",
-                "name": "Karan & Crew",
-                "rating": 5,
-                "review": "Walked back from Tito's every single night without needing a cab. Exactly the base we needed for this trip.",
-                "date": "2026-01-20",
-                "location": "Delhi",
-                "verified": true
-            },
-            {
-                "id": "rev-2",
-                "name": "Ishita Mathur",
-                "rating": 4,
-                "review": "Late checkout saved us more than once. Pool was a solid recovery spot the morning after.",
-                "date": "2025-12-11",
-                "location": "Chandigarh",
-                "verified": true
-            }
-        ],
-        "vacationRentalSchema": true,
-        "breadcrumbs": [{
-                "name": "Home",
-                "url": "/"
-            },
-            {
-                "name": "All Stays",
-                "url": "/all-stays"
-            },
-            {
-                "name": "Stays in Baga",
-                "url": "/stays-in-baga"
-            },
-            {
-                "name": "Driftline Hotel",
-                "url": "/stays/driftline-hotel-baga"
-            }
-        ],
-        "seo": {
-            "metaTitle": "Driftline Hotel Baga | Goa Beach Stays",
-            "metaDescription": "4-star hotel 500m from Tito's Lane, built for Baga's nightlife crowd. Standard from ₹4,100/night. Message us for group rates.",
-            "focusKeyword": "hotel near titos lane baga"
-        },
-        "contact": {
-            "whatsappNumber": "+919921372661",
-            "callNumber": "+918080557611"
-        },
-        "featured": false,
-        "active": true,
-        "publishedAt": "2025-01-10",
-        "priceRange": "₹4,100 – ₹10,600 per night"
+        "nearestBeach": "Calangute Beach (0.5 km)",
+        "nearestAirport": "Dabolim Airport (40 km)",
+        "postalCode": "403516"
     },
-    {
-        "id": "stay-027",
-        "slug": "saffron-canopy-villa-anjuna",
-        "type": "villa",
-        "category": [
-            "private pool",
-            "couple-friendly",
-            "north-goa"
-        ],
-        "name": "Saffron Canopy Villa",
-        "tagline": "A 4 BHK Artist's Villa Minutes from Anjuna's Flea Market",
-        "location": {
-            "area": "North Goa, Anjuna",
-            "district": "North Goa",
-            "region": "North Goa",
-            "address": "Anjuna Interior Lanes, North Goa, Goa 403509",
-            "coordinates": {
-                "lat": 15.578,
-                "lng": 73.744
-            },
-            "nearestBeach": "Anjuna Beach (1.2 km)",
-            "nearestAirport": "Dabolim Airport (49 km)",
-            "postalCode": "403509"
+    "pricing": {
+        "standard": {
+            "label": "Standard (Feb–Oct)",
+            "roomTypes": [{
+                    "type": "Deluxe Room",
+                    "pricePerNight": 8800,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Premium Pool-View Room",
+                    "pricePerNight": 11500,
+                    "maxGuests": 3
+                }
+            ]
         },
-        "pricing": {
-            "standard": {
-                "label": "Standard (Feb–Oct)",
-                "roomTypes": [{
-                        "type": "Garden Bedroom",
-                        "pricePerNight": 22000,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Canopy Suite",
-                        "pricePerNight": 28000,
-                        "maxGuests": 3
-                    }
-                ]
-            },
-            "season": {
-                "label": "Peak Season (Nov, Dec, Jan)",
-                "note": "Rates typically double during Goa's peak tourist season (November–January).",
-                "roomTypes": [{
-                        "type": "Garden Bedroom",
-                        "pricePerNight": 44000,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Canopy Suite",
-                        "pricePerNight": 56000,
-                        "maxGuests": 3
-                    }
-                ]
-            },
-            "currency": "INR",
-            "minStay": 1,
-            "displayPrice": 22000
+        "season": {
+            "label": "Peak Season (Nov, Dec, Jan)",
+            "note": "Rates typically double during Goa's peak tourist season (November–January).",
+            "roomTypes": [{
+                    "type": "Deluxe Room",
+                    "pricePerNight": 17600,
+                    "maxGuests": 2
+                },
+                {
+                    "type": "Premium Pool-View Room",
+                    "pricePerNight": 23000,
+                    "maxGuests": 3
+                }
+            ]
         },
-        "rooms": 4,
-        "maxGuests": 9,
-        "bedrooms": 4,
-        "bathrooms": 4,
-        "amenities": [
-            "Private Pool",
-            "Free WiFi",
-            "Air Conditioning",
-            "Fully Equipped Kitchen",
-            "Free Parking",
-            "Curated Art & Furniture",
-            "Outdoor Seating",
-            "Daily Housekeeping",
-            "24/7 Caretaker",
-            "Smart TV"
-        ],
-        "highlights": [
-            "Interiors filled with local art and handmade furniture",
-            "A short ride from Anjuna's Wednesday flea market",
-            "Private pool shaded by a mature tree canopy",
-            "Bohemian character with genuine private-pool comfort"
-        ],
-        "description": {
-            "short": "A 4 BHK villa near Anjuna with a private, tree-shaded pool and interiors filled with local art. Book by WhatsApp.",
-            "long": "Saffron Canopy Villa leans into Anjuna's creative reputation rather than working against it — the walls carry local artwork, furniture is handmade rather than showroom-standard, and the private pool sits under a canopy of mature trees that keeps the whole courtyard shaded through the afternoon.\n\nAnjuna's Wednesday flea market, clifftop cafes and long-running party culture are all a short ride away, but the villa itself is tucked into quieter interior lanes, giving guests somewhere calm to retreat to after a day of exploring. It's the kind of property that appeals as much to photographers and design-conscious travellers as to anyone simply wanting a private pool.\n\nCouples and small groups drawn to Anjuna's artsy, unhurried character tend to feel most at home here. We know this villa's regular guests well and can help you settle into the neighbourhood — get in touch and we'll help you compare it against similar stays nearby."
-        },
-        "images": {
-            "cover": "/images/stays/saffron-canopy-villa-anjuna/cover.png",
-            "gallery": [
-                "/images/stays/saffron-canopy-villa-anjuna/cover.png",
-                "/images/stays/saffron-canopy-villa-anjuna/gallery-1.png",
-                "/images/stays/saffron-canopy-villa-anjuna/gallery-2.png",
-                "/images/stays/saffron-canopy-villa-anjuna/gallery-3.png",
-                "/images/stays/saffron-canopy-villa-anjuna/gallery-4.png",
-                "/images/stays/saffron-canopy-villa-anjuna/gallery-5.png",
-                "/images/stays/saffron-canopy-villa-anjuna/gallery-6.png",
-                "/images/stays/saffron-canopy-villa-anjuna/gallery-7.png",
-                "/images/stays/saffron-canopy-villa-anjuna/gallery-8.png"
-            ],
-            "video": ""
-        },
-        "tags": [
-            "North Goa",
-            "Anjuna",
-            "Private Pool",
-            "Art"
-        ],
-        "nearbyAttractions": [
-            "Anjuna Beach – 1.2 km",
-            "Anjuna Flea Market – 1.5 km",
-            "Vagator Beach – 3.5 km",
-            "Chapora Fort – 4 km"
-        ],
-        "faqs": [{
-                "question": "How far is Saffron Canopy Villa from the beach?",
-                "answer": "Saffron Canopy Villa is a short ride from Anjuna Beach, one of North Goa's most distinctive stretches of coast."
-            },
-            {
-                "question": "What are the check-in and check-out times?",
-                "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
-            },
-            {
-                "question": "How do I book Saffron Canopy Villa?",
-                "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
-            },
-            {
-                "question": "Are peak-season rates different?",
-                "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
-            },
-            {
-                "question": "Is the pool at Saffron Canopy Villa private?",
-                "answer": "Yes, the pool is reserved exclusively for your booking and sits shaded under the property's tree canopy."
-            }
-        ],
-        "reviews": [{
-                "id": "rev-1",
-                "name": "Naina Chatterjee",
-                "rating": 5,
-                "review": "The art and furniture throughout made this feel completely different from a standard villa rental. Loved the shaded pool too.",
-                "date": "2026-02-02",
-                "location": "Kolkata",
-                "verified": true
-            },
-            {
-                "id": "rev-2",
-                "name": "Jason & Priyanka",
-                "rating": 5,
-                "review": "Close enough to the flea market to walk some of the way, quiet enough to properly switch off in the evenings.",
-                "date": "2025-11-16",
-                "location": "Goa",
-                "verified": true
-            }
-        ],
-        "vacationRentalSchema": true,
-        "breadcrumbs": [{
-                "name": "Home",
-                "url": "/"
-            },
-            {
-                "name": "All Stays",
-                "url": "/all-stays"
-            },
-            {
-                "name": "Private Pool Villas in Goa",
-                "url": "/private-pool-villas-in-goa"
-            },
-            {
-                "name": "Saffron Canopy Villa",
-                "url": "/stays/saffron-canopy-villa-anjuna"
-            }
-        ],
-        "seo": {
-            "metaTitle": "Saffron Canopy Villa Anjuna | Goa Beach Stays",
-            "metaDescription": "Artsy 4 BHK villa near Anjuna with a shaded private pool and curated interiors. Standard from ₹22,000/night. Get in touch to compare stays nearby.",
-            "focusKeyword": "private pool villa anjuna goa"
-        },
-        "contact": {
-            "whatsappNumber": "+919921372661",
-            "callNumber": "+918080557611"
-        },
-        "featured": false,
-        "active": true,
-        "publishedAt": "2025-01-10",
-        "priceRange": "₹22,000 – ₹56,000 per night"
+        "currency": "INR",
+        "minStay": 1,
+        "displayPrice": 8800
     },
+    "rooms": 24,
+    "maxGuests": 60,
+    "bedrooms": 24,
+    "bathrooms": 24,
+    "amenities": [
+        "Swimming Pool",
+        "Kids' Pool",
+        "Free WiFi",
+        "Air Conditioning",
+        "In-house Restaurant",
+        "Bar & Lounge",
+        "Spa",
+        "Event Lawn",
+        "Free Parking",
+        "Daily Housekeeping",
+        "24/7 Front Desk"
+    ],
+    "highlights": [
+        "Walking distance from Calangute Beach, North Goa's most popular stretch of coast",
+        "Family-friendly layout with a dedicated kids' pool alongside the main pool",
+        "Premium 4-star comfort with an in-house spa and lounge bar",
+        "Close to Calangute's markets, restaurants and water sports operators"
+    ],
+    "description": {
+        "short": "A premium 4-star resort walking distance from Calangute Beach, with a pool, spa and family-friendly amenities. Book by WhatsApp.",
+        "long": "Palm Horizon Resort sits just a short walk from Calangute Beach, giving guests easy access to North Goa's busiest and most popular stretch of sand without sacrificing the comfort of a proper resort base. The pool area is split for families, with a dedicated kids' pool alongside the main pool, while the in-house spa and lounge bar give couples somewhere to unwind in the evenings.\n\nRooms hold to a premium 4-star standard, with pool-view rooms offering a quieter retreat just minutes from Calangute's markets, restaurants and water sports operators. The property works equally well for families looking for a full-service base and couples wanting easy beach access paired with resort comfort.\n\nWe've placed families, couples and small groups here with equally good results. Our team can talk through room categories and current availability directly — reach out and we'll help you plan your stay."
+    },
+    "images": {
+        "cover": "/images/stays/saffron-canopy-villa-anjuna/cover.png",
+        "gallery": [
+            "/images/stays/saffron-canopy-villa-anjuna/cover.png",
+            "/images/stays/saffron-canopy-villa-anjuna/gallery-1.png",
+            "/images/stays/saffron-canopy-villa-anjuna/gallery-2.png",
+            "/images/stays/saffron-canopy-villa-anjuna/gallery-3.png",
+            "/images/stays/saffron-canopy-villa-anjuna/gallery-4.png",
+            "/images/stays/saffron-canopy-villa-anjuna/gallery-5.png",
+            "/images/stays/saffron-canopy-villa-anjuna/gallery-6.png",
+            "/images/stays/saffron-canopy-villa-anjuna/gallery-7.png",
+            "/images/stays/saffron-canopy-villa-anjuna/gallery-8.png"
+        ],
+        "video": ""
+    },
+    "tags": [
+        "North Goa",
+        "Calangute",
+        "Premium Resort",
+        "Family Friendly"
+    ],
+    "nearbyAttractions": [
+        "Calangute Beach – 0.5 km",
+        "Baga Beach – 2 km",
+        "Calangute Market – 1 km",
+        "Candolim Beach – 3.5 km"
+    ],
+    "faqs": [{
+            "question": "How far is Palm Horizon Resort from the beach?",
+            "answer": "Palm Horizon Resort is walking distance from Calangute Beach, one of North Goa's busiest and most popular stretches of coast."
+        },
+        {
+            "question": "What are the check-in and check-out times?",
+            "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
+        },
+        {
+            "question": "How do I book Palm Horizon Resort?",
+            "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
+        },
+        {
+            "question": "Are peak-season rates different?",
+            "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
+        },
+        {
+            "question": "Is Palm Horizon Resort suitable for families?",
+            "answer": "Yes, the resort has a dedicated kids' pool alongside the main pool and is well suited to families as well as couples."
+        }
+    ],
+    "reviews": [{
+            "id": "rev-1",
+            "name": "Rohit & Family",
+            "rating": 5,
+            "review": "Great pick for a family trip — the kids' pool was a big hit and being so close to Calangute Beach made evenings easy.",
+            "date": "2026-02-02",
+            "location": "Delhi",
+            "verified": true
+        },
+        {
+            "id": "rev-2",
+            "name": "Anushka M.",
+            "rating": 5,
+            "review": "Stayed as a couple and loved the spa and lounge bar. Beach was an easy walk and the room was spotless.",
+            "date": "2025-11-16",
+            "location": "Pune",
+            "verified": true
+        }
+    ],
+    "vacationRentalSchema": true,
+    "breadcrumbs": [{
+            "name": "Home",
+            "url": "/"
+        },
+        {
+            "name": "All Stays",
+            "url": "/all-stays"
+        },
+        {
+            "name": "Stays in Calangute",
+            "url": "/stays-in-calangute"
+        },
+        {
+            "name": "Palm Horizon Resort",
+            "url": "/stays/palm-horizon-resort-calangute"
+        }
+    ],
+    "seo": {
+        "metaTitle": "Palm Horizon Resort Calangute | Goa Beach Stays",
+        "metaDescription": "Premium 4-star resort walking distance from Calangute Beach with a pool, spa and family-friendly amenities. Standard from ₹8,800/night. Message us for availability.",
+        "focusKeyword": "premium resort calangute beach goa"
+    },
+    "contact": {
+        "whatsappNumber": "+919921372661",
+        "callNumber": "+918080557611"
+    },
+    "featured": false,
+    "active": true,
+    "publishedAt": "2025-01-10",
+    "priceRange": "₹8,800 – ₹23,000 per night"
+},
     {
         "id": "stay-028",
         "slug": "kokum-grove-resort-calangute",
