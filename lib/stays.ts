@@ -12,14 +12,15 @@ export function getStayBySlug(slug: string): Stay | undefined {
 }
 
 export function getFeaturedStays(limit = 6): Stay[] {
-  // Spec featured order: 1, 4, 7, 3, 9, 2
+  // Preferred homepage display order for featured stays (by slug).
+  // Any featured stay not listed here falls back to its original array order.
   const order = [
-    "azure-pool-villa-calangute",
-    "serenity-villa-vagator",
-    "ocean-breeze-villa-cavelossim",
-    "terra-rossa-resort-palolem",
-    "jungle-nest-villa-mandrem",
-    "palm-haven-resort-baga",
+    "meridian-palms-villa-estate-anjuna",
+    "baia-serena-resort-calangute",
+    "azure-horizon-resort-mobor-cavelossim",
+    "alto-mar-resort-calangute",
+    "aurelia-varca-resort",
+    "quinta-verde-villa-calangute",
   ]
   const featured = getAllStays().filter((s) => s.featured)
   featured.sort((a, b) => {
