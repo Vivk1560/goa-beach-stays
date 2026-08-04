@@ -663,17 +663,14 @@
     "images": {
         "cover": "/images/stays/cassia-beach-resort-calangute/cover.png",
         "gallery": [
-            "/images/stays/cassia-beach-resort-calangute/cover.png",
-            "/images/stays/cassia-beach-resort-calangute/gallery-1.png",
-            "/images/stays/cassia-beach-resort-calangute/gallery-2.png",
-            "/images/stays/cassia-beach-resort-calangute/gallery-3.png",
-            "/images/stays/cassia-beach-resort-calangute/gallery-4.png",
-            "/images/stays/cassia-beach-resort-calangute/gallery-5.png",
-            "/images/stays/cassia-beach-resort-calangute/gallery-6.png",
-            "/images/stays/cassia-beach-resort-calangute/gallery-7.png",
-            "/images/stays/cassia-beach-resort-calangute/gallery-8.png",
-            "/images/stays/cassia-beach-resort-calangute/gallery-9.png",
-            "/images/stays/cassia-beach-resort-calangute/gallery-10.png"
+            "/images/stays/cassia-beach-resort-calangute/stay001.jpeg",
+            "/images/stays/cassia-beach-resort-calangute/stay002.jpeg",
+            "/images/stays/cassia-beach-resort-calangute/stay003.jpeg",
+            "/images/stays/cassia-beach-resort-calangute/stay004.jpeg",
+            "/images/stays/cassia-beach-resort-calangute/stay005.jpeg",
+            "/images/stays/cassia-beach-resort-calangute/stay006.jpeg",
+            "/images/stays/cassia-beach-resort-calangute/stay007.jpeg",
+            "/images/stays/cassia-beach-resort-calangute/stay008.jpeg"
         ],
         "video": ""
     },
@@ -3865,12 +3862,14 @@
     "images": {
         "cover": "/images/stays/wooden-cove-resort-calangute/cover.png",
         "gallery": [
-            "/images/stays/wooden-cove-resort-calangute/cover.png",
-            "/images/stays/wooden-cove-resort-calangute/gallery-1.png",
-            "/images/stays/wooden-cove-resort-calangute/gallery-2.png",
-            "/images/stays/wooden-cove-resort-calangute/gallery-3.png",
-            "/images/stays/wooden-cove-resort-calangute/gallery-4.png",
-            "/images/stays/wooden-cove-resort-calangute/gallery-5.png"
+            "/images/stays/wooden-cove-resort-calangute/stay001.jpeg",
+            "/images/stays/wooden-cove-resort-calangute/stay002.jpeg",
+            "/images/stays/wooden-cove-resort-calangute/stay003.jpeg",
+            "/images/stays/wooden-cove-resort-calangute/stay004.jpeg",
+            "/images/stays/wooden-cove-resort-calangute/stay005.jpeg",
+            "/images/stays/wooden-cove-resort-calangute/stay006.jpeg",
+            "/images/stays/wooden-cove-resort-calangute/stay007.jpeg",
+            "/images/stays/wooden-cove-resort-calangute/stay008.jpeg"
         ],
         "video": ""
     },
@@ -4239,14 +4238,13 @@
     "images": {
         "cover": "/images/stays/kindred-house-retreat-arambol/cover.png",
         "gallery": [
-            "/images/stays/kindred-house-retreat-arambol/cover.png",
-            "/images/stays/kindred-house-retreat-arambol/gallery-1.png",
-            "/images/stays/kindred-house-retreat-arambol/gallery-2.png",
-            "/images/stays/kindred-house-retreat-arambol/gallery-3.png",
-            "/images/stays/kindred-house-retreat-arambol/gallery-4.png",
-            "/images/stays/kindred-house-retreat-arambol/gallery-5.png",
-            "/images/stays/kindred-house-retreat-arambol/gallery-6.png",
-            "/images/stays/kindred-house-retreat-arambol/gallery-7.png"
+            "/images/stays/kindred-house-retreat-arambol/stay001.jpeg",
+            "/images/stays/kindred-house-retreat-arambol/stay002.jpeg",
+            "/images/stays/kindred-house-retreat-arambol/stay003.jpeg",
+            "/images/stays/kindred-house-retreat-arambol/stay004.jpeg",
+            "/images/stays/kindred-house-retreat-arambol/stay005.jpeg",
+            "/images/stays/kindred-house-retreat-arambol/stay006.jpeg",
+            "/images/stays/kindred-house-retreat-arambol/stay007.jpeg"
         ],
         "video": ""
     },
