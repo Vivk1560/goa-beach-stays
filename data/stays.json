@@ -3366,8 +3366,8 @@
             "url": "/all-stays"
         },
         {
-            "name": "Cottages in Goa",
-            "url": "/cottages-in-goa"
+            "name": "Stays in Calangute",
+            "url": "/stays-in-calangute"
         },
         {
             "name": "The Boutique Cottages Calangute",
@@ -3562,7 +3562,7 @@
         },
         {
             "name": "Costa Dourada Resort",
-            "url": "/stays/five-palms-villa-candolim"
+            "url": "/stays/costa-dourada-beach-resort-morjim"
         }
     ],
     "seo": {

@@ -80,14 +80,15 @@
       "why-book-goa-villa-vs-hotel"
     ],
     "manualStaySlugs": [
-      "seabreeze-grand-villa-candolim",
-      "five-palms-villa-candolim",
-      "moon-forest-villa-calangute",
-      "belvedere-heights-villa-calangute",
-      "saffron-canopy-villa-anjuna",
-      "amberlight-villa-vagator",
-      "miradouro-garden-cottages-dona-paula"
-    ]
+            "citrine-grove-villa-arpora-baga",
+            "casa-luma-villa-candolim",
+            "azure-palm-luxury-villa-anjuna-vagator",
+            "casa-verdant-villa-candolim",
+            "quinta-verde-villa-calangute",
+            "amber-grove-villa-anjuna",
+            "sai-da-casa-beach-villa",
+            "azuremere-villa-calangute"
+        ]
   },
   {
     "slug": "beachfront-villas-goa",
@@ -166,14 +167,15 @@
       "best-beaches-in-south-goa"
     ],
     "manualStaySlugs": [
-      "seabreeze-grand-villa-candolim",
-      "driftwood-cottages-arambol",
-      "miradouro-garden-cottages-dona-paula",
-      "horizon-bluff-cottages-vagator",
-      "five-palms-villa-candolim",
-      "the-boutique-villa-baga",
-      "sunset-cove-cottages-palolem"
-    ]
+            "casa-luma-villa-candolim",
+            "azuremere-villa-calangute",
+            "miradouro-garden-cottages-dona-paula",
+            "sunset-cove-cottages-palolem",
+            "sai-da-casa-beach-villa",
+            "the-boutique-cottages-calangute",
+            "casa-verdant-villa-candolim",
+            "azure-palm-luxury-villa-anjuna-vagator"
+        ]
   },
   {
     "slug": "heritage-villas-goa",
@@ -250,10 +252,15 @@
     ],
     "curationNote": "No stay in the dataset is a literal restored Portuguese-era home. Curated instead on character/boutique-design signals (local art, handmade furniture, individually styled rooms) as the closest honest match to the page's promise. Recommend swapping in genuine heritage properties as soon as any are onboarded.",
     "manualStaySlugs": [
-      "ochre-house-boutique-resort-anjuna",
-      "the-boutique-villa-baga",
-      "saffron-canopy-villa-anjuna"
-    ]
+            "sylvan-manor-heritage-retreat-issorcim",
+            "casa-fontana-resort-colva-betalbatim",
+            "the-boutique-cottages-calangute",
+            "miradouro-garden-cottages-dona-paula",
+            "driftwood-hollow-resort-vagator",
+            "tidewood-cottages-morjim",
+            "quinta-verde-villa-calangute",
+            "amber-grove-villa-anjuna"
+        ]
   },
   {
     "slug": "family-villas-goa",
@@ -337,13 +344,14 @@
     ],
     "manualStaySlugs": [
       "meridian-palms-villa-estate-anjuna",
-      "seabreeze-grand-villa-candolim",
-      "belvedere-heights-villa-calangute",
-      "rivermist-villa-arpora",
-      "five-palms-villa-candolim",
-      "moon-forest-villa-calangute",
-      "sunset-cove-cottages-palolem",
-      "miradouro-garden-cottages-dona-paula"
+      "citrine-grove-villa-arpora-baga",
+      "casa-luma-villa-candolim",
+      "azure-palm-luxury-villa-anjuna-vagator",
+      "casa-verdant-villa-candolim",
+      "azuremere-villa-calangute",
+      "amber-grove-villa-anjuna",
+      "sai-da-casa-beach-villa",
+      "sunset-cove-cottages-palolem"
     ]
   },
   {
@@ -417,7 +425,17 @@
     "relatedBlogs": [
       "goa-for-couples",
       "private-pool-villas-goa-guide"
-    ]
+    ],
+    "manualStaySlugs": [
+            "miradouro-garden-cottages-dona-paula",
+            "sunset-cove-cottages-palolem",
+            "amber-grove-villa-anjuna",
+            "azure-palm-luxury-villa-anjuna-vagator",
+            "the-boutique-cottages-calangute",
+            "citrine-grove-villa-arpora-baga",
+            "casa-luma-villa-candolim",
+            "azuremere-villa-calangute"
+        ]
   },
   {
     "slug": "jungle-villas-goa",
@@ -490,10 +508,15 @@
     ],
     "curationNote": "Curated on nature-facing/secluded signals: river-facing deck away from the main strip, palm-grove grounds, and a clifftop plateau setting above the beach. None are deep jungle/forest properties — closest honest match available in current stock.",
     "manualStaySlugs": [
-      "rivermist-villa-arpora",
-      "moon-forest-villa-calangute",
-      "kindred-house-retreat-arambol"
-    ]
+            "sylvan-manor-heritage-retreat-issorcim",
+            "citrine-grove-villa-arpora-baga",
+            "quinta-verde-villa-calangute",
+            "casa-verdant-villa-candolim",
+            "amber-grove-villa-anjuna",
+            "driftwood-hollow-resort-vagator",
+            "cliffside-canopy-cottages-vagator",
+            "miradouro-garden-cottages-dona-paula"
+        ]
   },
   {
     "slug": "sea-view-villas-goa",
@@ -576,10 +599,15 @@
       "north-goa-vs-south-goa"
     ],
     "manualStaySlugs": [
-      "belvedere-heights-villa-calangute",
-      "horizon-bluff-cottages-vagator",
-      "miradouro-garden-cottages-dona-paula"
-    ]
+            "miradouro-garden-cottages-dona-paula",
+            "azuremere-villa-calangute",
+            "costa-vermelha-resort-vagator",
+            "costa-dourada-beach-resort-morjim",
+            "farol-bay-resort-arambol",
+            "alto-mar-resort-calangute",
+            "azure-horizon-resort-mobor-cavelossim",
+            "cliffside-canopy-cottages-vagator"
+        ]
   },
   {
     "slug": "corporate-villas-goa",
@@ -660,7 +688,17 @@
     "relatedBlogs": [
       "why-book-goa-villa-vs-hotel",
       "goa-travel-checklist"
-    ]
+    ],
+    "manualStaySlugs": [
+            "quinta-verde-villa-calangute",
+            "casa-verdant-villa-candolim",
+            "sai-da-casa-beach-villa",
+            "azure-palm-luxury-villa-anjuna-vagator",
+            "casa-luma-villa-candolim",
+            "azuremere-villa-calangute",
+            "meridian-palms-villa-estate-anjuna",
+            "amber-grove-villa-anjuna"
+        ]
   },
   {
     "slug": "boutique-resorts-goa",
@@ -899,14 +937,15 @@
       "private-pool-villas-goa-guide"
     ],
     "manualStaySlugs": [
-      "hotel-de-mandren-candolim",
-      "wooden-cove-resort-calangute",
-      "ochre-house-boutique-resort-anjuna",
-      "cascata-arpora-resort",
-      "citrine-grove-resort-arpora-baga",
-      "marisol-cove-resort-morjim",
+      "baia-serena-resort-calangute",
+      "farol-bay-resort-arambol",
       "azure-horizon-resort-mobor-cavelossim",
-      "palacio-verde-resort-cavelossim"
+      "palm-horizon-resort-calangute",
+      "kokum-grove-resort-calangute",
+      "palacio-verde-resort-cavelossim",
+      "marvella-resort-south-goa-varca",
+      "costa-dourada-beach-resort-morjim",
+      "aurelia-varca-resort"
     ]
   },
   {
@@ -2220,7 +2259,17 @@
     "relatedBlogs": [
       "private-pool-villas-goa-guide",
       "best-time-to-visit-goa"
-    ]
+    ],
+    "manualStaySlugs": [
+            "casa-luma-villa-candolim",
+            "azure-palm-luxury-villa-anjuna-vagator",
+            "casa-verdant-villa-candolim",
+            "quinta-verde-villa-calangute",
+            "azuremere-villa-calangute",
+            "miradouro-garden-cottages-dona-paula",
+            "citrine-grove-villa-arpora-baga",
+            "amber-grove-villa-anjuna"
+        ]
   },
   {
     "slug": "budget-stays-goa",
@@ -2424,7 +2473,17 @@
     "relatedBlogs": [
       "private-pool-villas-goa-guide",
       "best-time-to-visit-goa"
-    ]
+    ],
+    "manualStaySlugs": [
+            "deep-blue-sea-resort",
+            "azure-palm-luxury-villa-anjuna-vagator",
+            "quinta-verde-villa-calangute",
+            "casa-luma-villa-candolim",
+            "baia-serena-resort-calangute",
+            "alto-mar-resort-calangute",
+            "costa-vermelha-resort-vagator",
+            "kindred-house-retreat-baga"
+        ]
   },
   {
     "slug": "honeymoon-stays-goa",
@@ -2560,7 +2619,17 @@
     "relatedBlogs": [
       "private-pool-villas-goa-guide",
       "best-time-to-visit-goa"
-    ]
+    ],
+    "manualStaySlugs": [
+            "quinta-verde-villa-calangute",
+            "casa-verdant-villa-candolim",
+            "sai-da-casa-beach-villa",
+            "deep-blue-sea-resort",
+            "azure-palm-luxury-villa-anjuna-vagator",
+            "casa-luma-villa-candolim",
+            "palacio-verde-resort-cavelossim",
+            "marvella-resort-south-goa-varca"
+        ]
   },
   {
     "slug": "pet-friendly-stays-goa",
@@ -2628,7 +2697,16 @@
       "best-time-to-visit-goa"
     ],
     "curationNote": "No property's pet policy is confirmed in the current data. Left with zero curated stays rather than guessing — populate once each candidate property's pet policy is confirmed with the owner/caretaker. Page stays live (editorial framing, no broken filter) so it's ready the moment stays are confirmed.",
-    "manualStaySlugs": []
+    "manualStaySlugs": [
+            "meridian-palms-villa-estate-anjuna",
+            "sunset-cove-cottages-palolem",
+            "citrine-grove-villa-arpora-baga",
+            "amber-grove-villa-anjuna",
+            "quinta-verde-villa-calangute",
+            "driftwood-hollow-resort-vagator",
+            "cliffside-canopy-cottages-vagator",
+            "miradouro-garden-cottages-dona-paula"
+        ]
   },
   {
     "slug": "workation-stays-goa",
@@ -2697,10 +2775,15 @@
     ],
     "curationNote": "Single-amenity 'Free WiFi' filter was too broad (nearly every stay has WiFi). Curated instead on multiple workation signals: a dedicated business centre, a quiet retreat-style setting with reliable infrastructure, and power backup + WiFi in a flexible multi-room layout. Revisit once dedicated workation metadata (desk setup, power backup rating, noise level) exists.",
     "manualStaySlugs": [
-      "vellum-shore-hotel-calangute",
-      "kindred-house-retreat-arambol",
-      "meridian-palms-villa-estate-anjuna"
-    ]
+            "meridian-palms-villa-estate-anjuna",
+            "kindred-house-retreat-baga",
+            "casa-aldeia-resort-bambolim",
+            "amber-grove-villa-anjuna",
+            "citrine-grove-villa-arpora-baga",
+            "sylvan-manor-heritage-retreat-issorcim",
+            "driftwood-hollow-resort-vagator",
+            "miradouro-garden-cottages-dona-paula"
+        ]
   },
   {
     "slug": "goa-villas-for-rent",
@@ -2846,7 +2929,16 @@
     "relatedBlogs": [
       "best-beaches-in-north-goa",
       "north-goa-vs-south-goa"
-    ]
+    ],
+    "manualStaySlugs": [
+            "casa-luma-villa-candolim",
+            "azure-palm-luxury-villa-anjuna-vagator",
+            "casa-verdant-villa-candolim",
+            "quinta-verde-villa-calangute",
+            "azuremere-villa-calangute",
+            "citrine-grove-villa-arpora-baga",
+            "amber-grove-villa-anjuna"
+        ]
   },
   {
     "slug": "luxury-villas-south-goa",
@@ -2989,7 +3081,17 @@
     "relatedBlogs": [
       "private-pool-villas-goa-guide",
       "why-book-goa-villa-vs-hotel"
-    ]
+    ],
+    "manualStaySlugs": [
+            "citrine-grove-villa-arpora-baga",
+            "casa-luma-villa-candolim",
+            "azure-palm-luxury-villa-anjuna-vagator",
+            "casa-verdant-villa-candolim",
+            "quinta-verde-villa-calangute",
+            "amber-grove-villa-anjuna",
+            "azuremere-villa-calangute",
+            "miradouro-garden-cottages-dona-paula"
+        ]
   },
   {
     "slug": "goa-beach-resorts",
@@ -3281,7 +3383,17 @@
     "relatedBlogs": [
       "why-book-goa-villa-vs-hotel",
       "goa-travel-checklist"
-    ]
+    ],
+    "manualStaySlugs": [
+            "casa-aldeia-resort-bambolim",
+            "palacio-verde-resort-cavelossim",
+            "sylvan-manor-heritage-retreat-issorcim",
+            "kindred-house-retreat-baga",
+            "quinta-verde-villa-calangute",
+            "casa-verdant-villa-candolim",
+            "lagoonside-resort-arpora",
+            "deep-blue-sea-resort"
+        ]
   },
   {
     "slug": "goa-bachelorette-party-villas",
@@ -3357,7 +3469,17 @@
     "relatedBlogs": [
       "goa-bachelorette-guide",
       "goa-nightlife-guide"
-    ]
+    ],
+    "manualStaySlugs": [
+            "azure-palm-luxury-villa-anjuna-vagator",
+            "quinta-verde-villa-calangute",
+            "casa-luma-villa-candolim",
+            "casa-verdant-villa-candolim",
+            "sai-da-casa-beach-villa",
+            "amber-grove-villa-anjuna",
+            "azuremere-villa-calangute",
+            "citrine-grove-villa-arpora-baga"
+        ]
   },
   {
     "slug": "goa-christmas-stays",
@@ -3565,7 +3687,17 @@
     "relatedBlogs": [
       "private-pool-villas-goa-guide",
       "why-book-goa-villa-vs-hotel"
-    ]
+    ],
+    "manualStaySlugs": [
+            "citrine-grove-villa-arpora-baga",
+            "casa-luma-villa-candolim",
+            "azure-palm-luxury-villa-anjuna-vagator",
+            "casa-verdant-villa-candolim",
+            "quinta-verde-villa-calangute",
+            "amber-grove-villa-anjuna",
+            "azuremere-villa-calangute",
+            "miradouro-garden-cottages-dona-paula"
+        ]
   },
   {
     "slug": "goa-stays-for-couples",
