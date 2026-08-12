@@ -1,7 +1,6 @@
 import type { Stay } from "@/types/stay"
 import type { BlogPost } from "@/types/blog"
 import { siteConfig } from "./site-config"
-import { avgRating } from "./stays"
 
 const BASE = siteConfig.domain
 
@@ -51,12 +50,15 @@ export function breadcrumbSchema(items: { name: string; url: string }[]) {
 /**
  * VacationRental JSON-LD per SRS A1.
  * Fixed: previously emitted "@type": "LodgingBusiness" (a deviation flagged
- * in the status tracker). Corrected to "VacationRental" as the spec requires,
- * since Google's review/aggregateRating rich-result eligibility for rentals
- * is keyed off this exact type.
+ * in the status tracker). Corrected to "VacationRental" as the spec requires.
+ *
+ * Note: deliberately does NOT emit aggregateRating/review. The reviews shown
+ * on stay pages are self-hosted testimonials with no verification mechanism
+ * behind them, so — same reasoning already applied on the /reviews page —
+ * they aren't eligible for Google's review rich-result markup and emitting
+ * it would be a structured-data compliance risk.
  */
 export function vacationRentalSchema(stay: Stay) {
-  const rating = avgRating(stay.reviews)
   return {
     "@context": "https://schema.org",
     "@type": "VacationRental",
@@ -93,24 +95,6 @@ export function vacationRentalSchema(stay: Stay) {
       priceCurrency: stay.pricing.currency,
       availability: "https://schema.org/InStock",
     },
-    ...(stay.reviews.length
-      ? {
-          aggregateRating: {
-            "@type": "AggregateRating",
-            ratingValue: rating,
-            reviewCount: stay.reviews.length,
-            bestRating: "5",
-            worstRating: "1",
-          },
-          review: stay.reviews.map((r) => ({
-            "@type": "Review",
-            author: { "@type": "Person", name: r.name },
-            datePublished: r.date,
-            reviewRating: { "@type": "Rating", ratingValue: r.rating, bestRating: "5" },
-            reviewBody: r.review,
-          })),
-        }
-      : {}),
   }
 }
 

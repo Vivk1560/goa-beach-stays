@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { BadgeCheck, MapPin } from 'lucide-react'
+import { MessageCircle, MapPin } from 'lucide-react'
 import type { StayReview } from '@/types/stay'
 import { StarRating } from '@/components/ui/StarRating'
 
@@ -40,9 +40,9 @@ export function ReviewCard({ review, showStaySource = false }: ReviewCardProps) 
             <div className="flex items-center gap-1.5">
               <p className="font-medium text-foreground">{review.name}</p>
               {review.verified && (
-                <span className="inline-flex items-center gap-0.5 text-xs font-medium text-accent">
-                  <BadgeCheck className="size-3.5" aria-hidden="true" />
-                  <span className="sr-only">Verified stay</span>
+                <span className="inline-flex items-center gap-1 rounded-full bg-accent/10 px-2 py-0.5 text-xs font-medium text-accent">
+                  <MessageCircle className="size-3" aria-hidden="true" />
+                  Guest Experience
                 </span>
               )}
             </div>
