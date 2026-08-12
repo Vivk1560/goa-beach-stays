@@ -32,7 +32,7 @@ export const mainNav: NavItem[] = [
         children: [
           { label: "Private Villas", href: "/villas" },
           { label: "Resorts", href: "/resorts" },
-          { label: "Cottages", href: "/goa-beach-stays-near-me" },
+          { label: "Cottages", href: "/all-stays?type=cottage" },
         ],
       },
       {
