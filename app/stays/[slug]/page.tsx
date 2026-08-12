@@ -139,7 +139,7 @@ export default async function StayDetailPage({ params }: StayPageProps) {
 
         {/* Gallery */}
         <section aria-label="Property photos" className="mx-auto max-w-7xl px-4 pt-6 lg:px-8">
-          <StayGallery images={stay.images} stayName={stay.name} />
+          <StayGallery images={stay.images} stay={stay} />
         </section>
 
         <div className="mx-auto grid max-w-7xl grid-cols-1 gap-10 px-4 py-10 lg:grid-cols-3 lg:px-8">

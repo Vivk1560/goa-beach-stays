@@ -5,9 +5,16 @@ import Image from 'next/image'
 import { Expand, X, ChevronLeft, ChevronRight, PlayCircle } from 'lucide-react'
 import type { Stay } from '@/types/stay'
 
+const TYPE_LABEL: Record<Stay['type'], string> = {
+  villa: 'Villa',
+  resort: 'Resort',
+  cottage: 'Cottage',
+  homestay: 'Homestay',
+}
+
 interface StayGalleryProps {
   images: Stay['images']
-  stayName: string
+  stay: Stay
 }
 
 /**
@@ -18,7 +25,9 @@ interface StayGalleryProps {
  * Clicking any tile (or the video tile, if present) opens a full-screen
  * lightbox with keyboard navigation (Escape / ArrowLeft / ArrowRight).
  */
-export function StayGallery({ images, stayName }: StayGalleryProps) {
+export function StayGallery({ images, stay }: StayGalleryProps) {
+  const stayName = stay.name
+  const altText = `${stay.name} — ${TYPE_LABEL[stay.type]} in ${stay.location.area}`
   const photos = [images.cover, ...images.gallery.filter((src) => src !== images.cover)]
   const hasVideo = Boolean(images.video)
 
@@ -84,7 +93,7 @@ export function StayGallery({ images, stayName }: StayGalleryProps) {
         >
           <Image
             src={photos[0]}
-            alt={`${stayName} — main view`}
+            alt={`${altText} — main view`}
             fill
             priority
             sizes="(min-width: 768px) 50vw, 100vw"
@@ -106,7 +115,7 @@ export function StayGallery({ images, stayName }: StayGalleryProps) {
             >
               <Image
                 src={src}
-                alt={`${stayName} — view ${photoIndex + 1}`}
+                alt={`${altText} — view ${photoIndex + 1}`}
                 fill
                 sizes="25vw"
                 className="object-cover transition-transform duration-300 group-hover:scale-105"
@@ -133,7 +142,7 @@ export function StayGallery({ images, stayName }: StayGalleryProps) {
           >
             <Image
               src={src}
-              alt={`${stayName} — view ${i + 1}`}
+              alt={`${altText} — view ${i + 1}`}
               fill
               sizes="85vw"
               priority={i === 0}
@@ -198,7 +207,7 @@ export function StayGallery({ images, stayName }: StayGalleryProps) {
               <div className="relative h-full w-full max-w-5xl">
                 <Image
                   src={photos[activeIndex]}
-                  alt={`${stayName} — full view ${activeIndex + 1}`}
+                  alt={`${altText} — full view ${activeIndex + 1}`}
                   fill
                   sizes="100vw"
                   className="object-contain"

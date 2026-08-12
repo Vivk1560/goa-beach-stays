@@ -18,13 +18,14 @@ const TYPE_LABEL: Record<Stay['type'], string> = {
 export function StayCard({ stay }: { stay: Stay }) {
   const rating = avgRating(stay.reviews)
   const enquiryHref = whatsappUrl(`Hi, I'm interested in ${stay.name}. Can you share availability?`, stay.contact.whatsappNumber)
+  const altText = `${stay.name} — ${TYPE_LABEL[stay.type]} in ${stay.location.area}`
 
   return (
     <div className="group overflow-hidden rounded-2xl border border-border bg-card shadow-sm transition-all duration-300 ease-out hover:-translate-y-1 hover:shadow-lg">
       <Link href={`/stays/${stay.slug}`} className="relative block aspect-[4/3] overflow-hidden focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2">
         <Image
           src={stay.images.cover}
-          alt={stay.name}
+          alt={altText}
           fill
           sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
           className="object-cover transition-transform duration-500 ease-out group-hover:scale-105"
@@ -48,8 +49,8 @@ export function StayCard({ stay }: { stay: Stay }) {
         <div className="mt-3">
           <PriceTag stay={stay} layout="card" />
         </div>
-        <a
-          href={enquiryHref}
+        
+        <a  href={enquiryHref}
           target="_blank"
           rel="noopener noreferrer"
           className="mt-4 block w-full rounded-full bg-accent px-4 py-2 text-center text-sm font-semibold text-accent-foreground transition-all duration-200 ease-out hover:scale-[1.02] hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
