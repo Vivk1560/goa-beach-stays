@@ -119,7 +119,7 @@ export function articleSchema(post: BlogPost) {
     image: `${BASE}${post.coverImage}`,
     datePublished: post.publishDate,
     dateModified: post.publishDate,
-    author: { "@type": "Organization", name: siteConfig.name },
+    author: { "@type": "Person", name: siteConfig.ownerName },
     publisher: {
       "@type": "Organization",
       name: siteConfig.name,
