@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: "Goa Beach Stays",
   tagline: "Luxury Stays. Memorable Days.",
-  domain: "https://goabeachstays.com",
+  domain: "https://www.goabeachstays.com",
   description:
     "Goa's trusted property broker for premium villas, resorts, and beach stays. 8+ years of hospitality experience.",
   contact: {
