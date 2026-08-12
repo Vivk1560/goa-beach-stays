@@ -1,4 +1,5 @@
 import { Suspense } from 'react'
+import Link from 'next/link'
 import type { Metadata } from 'next'
 import { buildMetadata } from '@/lib/seo'
 import { breadcrumbSchema } from '@/lib/schema'
@@ -8,6 +9,7 @@ import type { Stay } from '@/types/stay'
 import { StayFilters } from '@/components/stays/StayFilters'
 import { StayGrid } from '@/components/stays/StayGrid'
 import { EmptyState } from '@/components/stays/EmptyState'
+import { Badge } from '@/components/ui/Badge'
 
 interface VillasPageProps {
   searchParams: Promise<{ [key: string]: string | string[] | undefined }>
@@ -15,9 +17,9 @@ interface VillasPageProps {
 
 export function generateMetadata(): Metadata {
   return buildMetadata({
-    title: 'Villas in Goa — Private Pool & Beachside Villas',
+    title: 'Browse All Villas in Goa — Filter by Type, Region & Budget',
     description:
-      'Browse verified private villas across North and South Goa — private pools, beachside locations, and full-home stays. Filter by region, budget, and guests to find your perfect villa.',
+      'Explore every verified villa in our Goa collection — filter by private pool, beachfront, region, budget and group size, or jump straight to our curated villa collections below.',
     path: '/villas',
   })
 }
@@ -154,6 +156,35 @@ export default async function VillasPage({ searchParams }: VillasPageProps) {
           )}
         </div>
       </div>
+
+      <section className="mt-16 border-t border-border pt-10">
+        <h2 className="font-heading text-2xl font-semibold text-foreground">
+          Browse Villas by Type
+        </h2>
+        <div className="mt-4 flex flex-wrap gap-3">
+          <Link href="/private-pool-villas-in-goa">
+            <Badge variant="outline">Private Pool Villas</Badge>
+          </Link>
+          <Link href="/beachfront-villas-goa">
+            <Badge variant="outline">Beachfront Villas</Badge>
+          </Link>
+          <Link href="/luxury-villas-goa">
+            <Badge variant="outline">Luxury Villas</Badge>
+          </Link>
+          <Link href="/heritage-villas-goa">
+            <Badge variant="outline">Heritage Villas</Badge>
+          </Link>
+          <Link href="/family-villas-goa">
+            <Badge variant="outline">Family Villas</Badge>
+          </Link>
+          <Link href="/north-goa-villas">
+            <Badge variant="outline">North Goa Villas</Badge>
+          </Link>
+          <Link href="/south-goa-villas">
+            <Badge variant="outline">South Goa Villas</Badge>
+          </Link>
+        </div>
+      </section>
     </main>
   )
 }

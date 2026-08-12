@@ -1,4 +1,5 @@
 import { Suspense } from 'react'
+import Link from 'next/link'
 import type { Metadata } from 'next'
 import { buildMetadata } from '@/lib/seo'
 import { breadcrumbSchema } from '@/lib/schema'
@@ -8,6 +9,7 @@ import type { Stay } from '@/types/stay'
 import { StayFilters } from '@/components/stays/StayFilters'
 import { StayGrid } from '@/components/stays/StayGrid'
 import { EmptyState } from '@/components/stays/EmptyState'
+import { Badge } from '@/components/ui/Badge'
 
 interface ResortsPageProps {
   searchParams: Promise<{ [key: string]: string | string[] | undefined }>
@@ -15,9 +17,9 @@ interface ResortsPageProps {
 
 export function generateMetadata(): Metadata {
   return buildMetadata({
-    title: 'Resorts in Goa — Beachside & Luxury Resorts',
+    title: 'Browse All Resorts in Goa — Filter by Type, Region & Budget',
     description:
-      'Browse verified resorts across North and South Goa — beachside settings, pools, and full-service amenities. Filter by region, budget, and guests to find your perfect resort stay.',
+      'Explore every verified resort in our Goa collection — filter by pool access, region, budget and group size, or jump straight to our curated resort collections below.',
     path: '/resorts',
   })
 }
@@ -155,6 +157,29 @@ export default async function ResortsPage({ searchParams }: ResortsPageProps) {
           )}
         </div>
       </div>
+
+      <section className="mt-16 border-t border-border pt-10">
+        <h2 className="font-heading text-2xl font-semibold text-foreground">
+          Browse Resorts by Type
+        </h2>
+        <div className="mt-4 flex flex-wrap gap-3">
+          <Link href="/boutique-resorts-goa">
+            <Badge variant="outline">Boutique Resorts</Badge>
+          </Link>
+          <Link href="/north-goa-resorts">
+            <Badge variant="outline">North Goa Resorts</Badge>
+          </Link>
+          <Link href="/south-goa-resorts">
+            <Badge variant="outline">South Goa Resorts</Badge>
+          </Link>
+          <Link href="/pool-resorts-goa">
+            <Badge variant="outline">Pool Resorts</Badge>
+          </Link>
+          <Link href="/luxury-resorts-goa">
+            <Badge variant="outline">Luxury Resorts</Badge>
+          </Link>
+        </div>
+      </section>
     </main>
   )
 }
