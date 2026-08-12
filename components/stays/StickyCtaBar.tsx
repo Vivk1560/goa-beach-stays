@@ -1,6 +1,7 @@
 'use client'
 
 import { useEffect, useState } from 'react'
+import Link from 'next/link'
 import { MessageCircle, Phone } from 'lucide-react'
 import type { Stay } from '@/types/stay'
 import { whatsappUrl, callUrl } from '@/lib/site-config'
@@ -56,6 +57,17 @@ export function StickyCtaBar({ stay }: StickyCtaBarProps) {
           Call Now
         </a>
       </div>
+      <p className="px-3 pb-2 text-center text-xs text-muted-foreground">
+        Flexible enquiry, no upfront payment. See our{' '}
+        <Link
+          href="/terms-of-service"
+          tabIndex={isVisible ? 0 : -1}
+          className="underline hover:text-accent"
+        >
+          booking &amp; cancellation terms
+        </Link>
+        .
+      </p>
     </div>
   )
 }
