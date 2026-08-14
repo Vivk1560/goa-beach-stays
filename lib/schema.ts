@@ -72,8 +72,23 @@ export function breadcrumbSchema(items: { name: string; url: string }[]) {
  * behind them, so — same reasoning already applied on the /reviews page —
  * they aren't eligible for Google's review rich-result markup and emitting
  * it would be a structured-data compliance risk.
+ *
+ * Task 13 (Aug 2026): image[] upgraded from bare URL strings to ImageObject
+ * entries with a caption, matching the same "{name} — {Type} in {area}"
+ * pattern already used for alt text in StayCard/StayGallery. No image
+ * paths, filenames, or ordering changed — only descriptive metadata added
+ * around the existing URLs.
  */
+const TYPE_LABEL: Record<Stay["type"], string> = {
+  villa: "Villa",
+  resort: "Resort",
+  cottage: "Cottage",
+  homestay: "Homestay",
+}
+
 export function vacationRentalSchema(stay: Stay) {
+  const caption = `${stay.name} — ${TYPE_LABEL[stay.type]} in ${stay.location.area}`
+
   return {
     "@context": "https://schema.org",
     "@type": "VacationRental",
@@ -82,7 +97,11 @@ export function vacationRentalSchema(stay: Stay) {
     description: stay.description.long,
     url: `${BASE}/stays/${stay.slug}`,
     telephone: siteConfig.contact.callNumber,
-    image: [stay.images.cover, ...stay.images.gallery].map((p) => `${BASE}${p}`),
+    image: [stay.images.cover, ...stay.images.gallery].map((p) => ({
+      "@type": "ImageObject",
+      url: `${BASE}${p}`,
+      caption,
+    })),
     priceRange: `₹${stay.pricing.displayPrice} – per night`,
     checkinTime: "12:00",
     checkoutTime: "11:00",
