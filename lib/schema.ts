@@ -52,6 +52,21 @@ export function breadcrumbSchema(items: { name: string; url: string }[]) {
  * Fixed: previously emitted "@type": "LodgingBusiness" (a deviation flagged
  * in the status tracker). Corrected to "VacationRental" as the spec requires.
  *
+ * GSC "Vacation rental" validity fix (Aug 2026): Google's VacationRental
+ * spec lists containsPlace (with containsPlace.occupancy.value) and
+ * identifier as required properties — both were missing, which is what GSC
+ * flagged as critical invalid items. Fixed minimally using only existing
+ * Stay data:
+ *   - identifier: stay.id — a stable, content-independent ID already on
+ *     every stay record, matching Google's requirement.
+ *   - containsPlace.occupancy.value: stay.maxGuests — existing field.
+ * image[] now uses the full gallery (previously capped at cover + 2) since
+ * Google requires a minimum of 8 photos; this uses only image paths already
+ * present in stays.json, nothing added, moved, or renamed. Properties with
+ * fewer than 8 total images in their existing gallery will still fall short
+ * of the 8-photo minimum — that's a data gap, not something this function
+ * can fabricate its way around.
+ *
  * Note: deliberately does NOT emit aggregateRating/review. The reviews shown
  * on stay pages are self-hosted testimonials with no verification mechanism
  * behind them, so — same reasoning already applied on the /reviews page —
@@ -62,14 +77,22 @@ export function vacationRentalSchema(stay: Stay) {
   return {
     "@context": "https://schema.org",
     "@type": "VacationRental",
+    identifier: stay.id,
     name: stay.name,
     description: stay.description.long,
     url: `${BASE}/stays/${stay.slug}`,
     telephone: siteConfig.contact.callNumber,
-    image: [stay.images.cover, ...stay.images.gallery.slice(0, 2)].map((p) => `${BASE}${p}`),
+    image: [stay.images.cover, ...stay.images.gallery].map((p) => `${BASE}${p}`),
     priceRange: `₹${stay.pricing.displayPrice} – per night`,
     checkinTime: "12:00",
     checkoutTime: "11:00",
+    containsPlace: {
+      "@type": "Accommodation",
+      occupancy: {
+        "@type": "QuantitativeValue",
+        value: stay.maxGuests,
+      },
+    },
     numberOfRooms: stay.rooms,
     address: {
       "@type": "PostalAddress",
