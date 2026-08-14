@@ -4,4 +4,4 @@ Allow: /
 Disallow: /privacy-policy
 Disallow: /terms-of-service
 
-Sitemap: https://goabeachstays.com/sitemap.xml
+Sitemap: https://www.goabeachstays.com/sitemap.xml
