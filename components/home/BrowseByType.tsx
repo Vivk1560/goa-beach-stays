@@ -17,12 +17,12 @@ export function BrowseByType() {
   return (
     <section className="mx-auto max-w-7xl px-4 py-16 lg:px-8">
       <SectionHeader title="Browse Villas by Type" />
-      <div className="flex gap-4 overflow-x-auto pb-2 md:grid md:grid-cols-4 md:gap-6 md:overflow-visible">
+      <div className="no-scrollbar flex snap-x snap-mandatory gap-4 overflow-x-auto pb-2 md:grid md:snap-none md:grid-cols-4 md:gap-6 md:overflow-visible">
         {TYPES.map(({ label, href, icon: Icon }) => (
           <Link
             key={href}
             href={href}
-            className="flex min-w-[140px] flex-col items-center gap-3 rounded-xl border border-border bg-card p-5 text-center shadow-sm transition-all duration-200 ease-out hover:-translate-y-0.5 hover:border-accent hover:bg-warm-tint hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
+            className="flex min-w-[140px] shrink-0 snap-start flex-col items-center gap-3 rounded-xl border border-border bg-card p-5 text-center shadow-sm transition-all duration-200 ease-out hover:-translate-y-0.5 hover:border-accent hover:bg-warm-tint hover:shadow-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
           >
             <span className="flex size-12 items-center justify-center rounded-full bg-primary/10 text-primary transition-colors duration-200">
               <Icon className="size-6" />
