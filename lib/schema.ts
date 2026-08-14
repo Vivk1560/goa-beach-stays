@@ -78,6 +78,20 @@ export function breadcrumbSchema(items: { name: string; url: string }[]) {
  * pattern already used for alt text in StayCard/StayGallery. No image
  * paths, filenames, or ordering changed — only descriptive metadata added
  * around the existing URLs.
+ *
+ * GSC "Vacation rental" fix, Phase 2 (Aug 2026):
+ *   - image[] was built as [cover, ...gallery] without checking whether
+ *     `gallery` already includes the cover URL (it does for most stays in
+ *     stays.json). That silently duplicated one entry in the emitted array,
+ *     inflating the apparent count without adding a real distinct photo —
+ *     for stays sitting right at the 8-photo boundary this meant Google's
+ *     de-duplicated image count came in one short of what the array length
+ *     suggested. Deduplicated by URL; no images added, removed, or reordered
+ *     beyond collapsing the accidental repeat.
+ *   - additionalType was entirely absent at the top level (Google lists it
+ *     as a recommended VacationRental property describing the property
+ *     type). Added using the existing TYPE_LABEL already derived from
+ *     stay.type — no new/fabricated data.
  */
 const TYPE_LABEL: Record<Stay["type"], string> = {
   villa: "Villa",
@@ -89,15 +103,18 @@ const TYPE_LABEL: Record<Stay["type"], string> = {
 export function vacationRentalSchema(stay: Stay) {
   const caption = `${stay.name} — ${TYPE_LABEL[stay.type]} in ${stay.location.area}`
 
+  const uniqueImagePaths = Array.from(new Set([stay.images.cover, ...stay.images.gallery]))
+
   return {
     "@context": "https://schema.org",
     "@type": "VacationRental",
     identifier: stay.id,
+    additionalType: TYPE_LABEL[stay.type],
     name: stay.name,
     description: stay.description.long,
     url: `${BASE}/stays/${stay.slug}`,
     telephone: siteConfig.contact.callNumber,
-    image: [stay.images.cover, ...stay.images.gallery].map((p) => ({
+    image: uniqueImagePaths.map((p) => ({
       "@type": "ImageObject",
       url: `${BASE}${p}`,
       caption,
