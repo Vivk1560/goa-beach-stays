@@ -67,6 +67,13 @@ export default async function SemanticLandingPage({ params }: SemanticPageProps)
     ? (page.manualStaySlugs.map((slug) => getStayBySlug(slug)).filter(Boolean) as Stay[])
     : getFilteredStays(page.filter)
 
+  // Pages with no manual curation and no real filter criteria (an empty
+  // `filter: {}`) surface every active stay, not a curated subset — "Handpicked
+  // Options" overstates that. Keep the label honest for those pages so it
+  // doesn't imply a selectivity the underlying data doesn't back up.
+  const isCurated = Boolean(page.manualStaySlugs?.length) || Object.keys(page.filter).length > 0
+  const staysHeading = isCurated ? "Handpicked Options" : "Explore Our Full Collection"
+
   const breadcrumbs = [
     { name: "Home", url: "/" },
     { name: page.parent.name, url: page.parent.url },
@@ -117,7 +124,7 @@ export default async function SemanticLandingPage({ params }: SemanticPageProps)
           {/* Matching stays */}
           <section aria-labelledby="stays-heading" className="mt-10">
             <h2 id="stays-heading" className="font-heading text-2xl font-semibold text-foreground">
-              Handpicked Options
+              {staysHeading}
             </h2>
             {stays.length > 0 ? (
               <div className="mt-6 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">

@@ -132,6 +132,20 @@ export default function AboutUsPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }} />
 
+      <nav aria-label="Breadcrumb" className="mb-6 text-sm text-muted-foreground">
+        <ol className="flex items-center gap-1.5">
+          <li>
+            <Link href="/" className="hover:text-accent hover:underline">
+              Home
+            </Link>
+          </li>
+          <li aria-hidden="true">/</li>
+          <li aria-current="page" className="font-medium text-foreground">
+            About Us
+          </li>
+        </ol>
+      </nav>
+
       {/* Owner bio */}
       <section className="grid grid-cols-1 items-center gap-10 md:grid-cols-2">
         <div className="overflow-hidden rounded-2xl border border-border">
@@ -331,8 +345,8 @@ export default function AboutUsPage() {
           Message {siteConfig.ownerName} directly on WhatsApp — tell him what the trip is for, and he&apos;ll help
           you find the villa or resort that actually fits it.
         </p>
-        <a
-          href={whatsappUrl(`Hi ${siteConfig.ownerName}! I'd like to talk through a trip to Goa.`)}
+        
+         <a href={whatsappUrl(`Hi ${siteConfig.ownerName}! I'd like to talk through a trip to Goa.`)}
           target="_blank"
           rel="noopener noreferrer"
           className="mt-6 inline-flex items-center justify-center rounded-full bg-accent px-7 py-3 text-sm font-semibold text-accent-foreground transition-transform hover:scale-[1.02]"

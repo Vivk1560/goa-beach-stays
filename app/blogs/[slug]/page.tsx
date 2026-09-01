@@ -2,7 +2,7 @@ import type { Metadata } from "next"
 import Image from "next/image"
 import Link from "next/link"
 import { notFound } from "next/navigation"
-import { ArrowLeft, CalendarDays, Clock } from "lucide-react"
+import { ArrowLeft, CalendarDays, ChevronRight, Clock } from "lucide-react"
 
 import { getAllBlogs, getBlogBySlug, getRelatedBlogs, slugify } from "@/lib/blogs"
 import { getStayBySlug } from "@/lib/stays"
@@ -112,11 +112,12 @@ export default async function BlogDetailPage({ params }: BlogPageProps) {
   const relatedStays = post.relatedStays.map((s) => getStayBySlug(s)).filter((s): s is NonNullable<typeof s> => !!s)
   const relatedPosts = getRelatedBlogs(post.slug, 2)
 
-  const breadcrumbLd = breadcrumbSchema([
+  const breadcrumbs = [
     { name: "Home", url: "/" },
     { name: "Blogs", url: "/blogs" },
     { name: post.title, url: `/blogs/${post.slug}` },
-  ])
+  ]
+  const breadcrumbLd = breadcrumbSchema(breadcrumbs)
   const articleLd = articleSchema(post)
 
   return (
@@ -125,6 +126,28 @@ export default async function BlogDetailPage({ params }: BlogPageProps) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleLd) }} />
 
       <article className="pb-16">
+        <nav aria-label="Breadcrumb" className="border-b border-border bg-muted/40">
+          <ol className="mx-auto flex max-w-3xl flex-wrap items-center gap-1.5 px-4 py-3 text-xs text-muted-foreground lg:px-8">
+            {breadcrumbs.map((crumb, i) => {
+              const isLast = i === breadcrumbs.length - 1
+              return (
+                <li key={crumb.url} className="flex items-center gap-1.5">
+                  {i > 0 && <ChevronRight className="size-3.5 shrink-0" aria-hidden="true" />}
+                  {isLast ? (
+                    <span aria-current="page" className="line-clamp-1 font-medium text-foreground">
+                      {crumb.name}
+                    </span>
+                  ) : (
+                    <Link href={crumb.url} className="hover:text-accent">
+                      {crumb.name}
+                    </Link>
+                  )}
+                </li>
+              )
+            })}
+          </ol>
+        </nav>
+
         <div className="mx-auto max-w-3xl px-4 pt-8 lg:px-8">
           <Link href="/blogs" className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-accent">
             <ArrowLeft className="size-4" aria-hidden="true" />

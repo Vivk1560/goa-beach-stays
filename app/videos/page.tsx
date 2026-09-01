@@ -33,6 +33,20 @@ export default async function VideosPage({ searchParams }: VideosPageProps) {
     <main className="mx-auto max-w-6xl px-4 py-12 lg:px-8">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
 
+      <nav aria-label="Breadcrumb" className="mb-6 text-sm text-muted-foreground">
+        <ol className="flex items-center gap-1.5">
+          <li>
+            <Link href="/" className="hover:text-accent hover:underline">
+              Home
+            </Link>
+          </li>
+          <li aria-hidden="true">/</li>
+          <li aria-current="page" className="font-medium text-foreground">
+            Videos
+          </li>
+        </ol>
+      </nav>
+
       <header className="max-w-2xl">
         <h1 className="font-heading text-3xl font-semibold text-foreground md:text-4xl">Videos</h1>
         <p className="mt-3 text-muted-foreground">

@@ -1,4 +1,5 @@
 import type { Metadata } from "next"
+import Link from "next/link"
 import { MessageCircle, Phone, Mail, Clock } from "lucide-react"
 import { buildMetadata } from "@/lib/seo"
 import { breadcrumbSchema, faqSchema } from "@/lib/schema"
@@ -50,6 +51,20 @@ export default function ContactUsPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />
 
+      <nav aria-label="Breadcrumb" className="mb-6 text-sm text-muted-foreground">
+        <ol className="flex items-center gap-1.5">
+          <li>
+            <Link href="/" className="hover:text-accent hover:underline">
+              Home
+            </Link>
+          </li>
+          <li aria-hidden="true">/</li>
+          <li aria-current="page" className="font-medium text-foreground">
+            Contact Us
+          </li>
+        </ol>
+      </nav>
+
       <header className="mx-auto max-w-2xl text-center">
         <h1 className="font-heading text-3xl font-semibold text-foreground md:text-4xl">
           Get in Touch — We&apos;ll Find You the Perfect Goa Stay
@@ -62,8 +77,8 @@ export default function ContactUsPage() {
 
       {/* Contact option cards */}
       <div className="mt-10 grid grid-cols-1 gap-4 sm:grid-cols-3">
-        <a
-          href={whatsappUrl("Hi! I'd like to enquire about a stay in Goa.")}
+        
+        <a  href={whatsappUrl("Hi! I'd like to enquire about a stay in Goa.")}
           target="_blank"
           rel="noopener noreferrer"
           className="flex flex-col items-center rounded-2xl border border-border bg-card px-6 py-8 text-center transition-transform hover:scale-[1.02]"
@@ -78,8 +93,8 @@ export default function ContactUsPage() {
           </span>
         </a>
 
-        <a
-          href={callUrl()}
+        
+        <a  href={callUrl()}
           className="flex flex-col items-center rounded-2xl border border-border bg-card px-6 py-8 text-center transition-transform hover:scale-[1.02]"
         >
           <span className="flex size-12 items-center justify-center rounded-full bg-primary/10">
@@ -92,8 +107,8 @@ export default function ContactUsPage() {
           </span>
         </a>
 
-        <a
-          href={`mailto:${siteConfig.contact.email}`}
+        
+        <a  href={`mailto:${siteConfig.contact.email}`}
           className="flex flex-col items-center rounded-2xl border border-border bg-card px-6 py-8 text-center transition-transform hover:scale-[1.02]"
         >
           <span className="flex size-12 items-center justify-center rounded-full bg-muted">

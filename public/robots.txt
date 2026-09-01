@@ -1,7 +1,4 @@
 User-agent: *
 Allow: /
 
-Disallow: /privacy-policy
-Disallow: /terms-of-service
-
 Sitemap: https://www.goabeachstays.com/sitemap.xml
