@@ -61,6 +61,21 @@ const nextConfig = {
         destination: "/stays/windward-bay-resort-candolim",
         permanent: true,
       },
+      {
+        source: "/stays/the-boutique-villa-baga",
+        destination: "/stays/the-boutique-cottages-calangute",
+        permanent: true,
+      },
+      {
+        source: "/stays/five-palms-villa-candolim",
+        destination: "/stays/costa-dourada-beach-resort-morjim",
+        permanent: true,
+      },
+      {
+        source: "/stays/cascata-arpora-resort",
+        destination: "/stays/de-falcon-candolim-resort",
+        permanent: true,
+      },
     ]
   },
 }
