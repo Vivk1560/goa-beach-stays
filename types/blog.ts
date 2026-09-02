@@ -21,6 +21,13 @@ export interface BlogPost {
 export type BlogBlock =
   | { type: "h2"; text: string }
   | { type: "h3"; text: string }
-  | { type: "p"; text: string }
+  /**
+   * `link` is optional and, when present, marks one exact substring of
+   * `text` (matched verbatim, once) that should render as a real anchor.
+   * This exists for the rare editorial outbound reference — it is not a
+   * markdown or generic link syntax, and ordinary paragraphs are
+   * unaffected when `link` is omitted.
+   */
+  | { type: "p"; text: string; link?: { text: string; href: string } }
   | { type: "ul"; items: string[] }
   | { type: "quote"; text: string }

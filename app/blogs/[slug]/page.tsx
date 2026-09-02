@@ -87,13 +87,46 @@ function renderBlock(block: BlogBlock, key: number) {
           {block.text}
         </blockquote>
       )
-    case "p":
-    default:
+    case "p": {
+      if (!block.link) {
+        return (
+          <p key={key} className="mt-4 leading-relaxed text-foreground">
+            {block.text}
+          </p>
+        )
+      }
+
+      const { text: linkText, href } = block.link
+      const splitIndex = block.text.indexOf(linkText)
+
+      // If the exact phrase isn't found in the text, fail safe to plain text
+      // rather than silently dropping content.
+      if (splitIndex === -1) {
+        return (
+          <p key={key} className="mt-4 leading-relaxed text-foreground">
+            {block.text}
+          </p>
+        )
+      }
+
+      const before = block.text.slice(0, splitIndex)
+      const after = block.text.slice(splitIndex + linkText.length)
+
       return (
         <p key={key} className="mt-4 leading-relaxed text-foreground">
-          {block.text}
+          {before}
+          <a
+            href={href}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-accent underline underline-offset-2 hover:text-accent/80"
+          >
+            {linkText}
+          </a>
+          {after}
         </p>
       )
+    }
   }
 }
 

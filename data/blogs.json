@@ -4784,106 +4784,114 @@
       "metaDescription": "A direct comparison of Calangute, Candolim and Baga — North Goa's busiest beach cluster — to help you choose the right base for your trip."
     }
   },{
-    "slug": "goa-weekend-getaway-itinerary",
-    "title": "The Perfect Goa Weekend Getaway: 2-Day Itinerary",
-    "category": "Itineraries",
-    "excerpt": "Two days is tight, but a focused North Goa weekend still works if you pick one base and stop trying to see everything — here's how to structure it.",
-    "coverImage": "/images/blogs/itinerary/weekend.webp",
-    "publishDate": "2026-08-12",
-    "readTime": "6 min",
-    "tags": [
-      "Itineraries",
-      "Weekend Getaway",
-      "North Goa"
-    ],
-    "relatedStays": [
-      "havelock-calangute-hotel",
-      "falconview-residency-candolim"
-    ],
-    "relatedSemanticPages": [
-      {
-        "slug": "north-goa-stays",
-        "label": "North Goa Stays"
-      },
-      {
-        "slug": "budget-stays-goa",
-        "label": "Budget Stays in Goa"
-      }
-    ],
-    "content": [
-      {
-        "type": "p",
-        "text": "A weekend in Goa works best when you accept upfront that you're not covering the whole coastline. This itinerary picks the Calangute-Candolim-Baga cluster as a single base and builds two full days around it, rather than spreading thin across the whole map."
-      },
-      {
-        "type": "h2",
-        "text": "Quick Summary"
-      },
-      {
-        "type": "ul",
-        "items": [
-          "Day 1 — Arrive, Calangute beach time, evening in Baga",
-          "Day 2 — Fort Aguada and Candolim in the morning, flexible afternoon before departure"
-        ]
-      },
-      {
-        "type": "h2",
-        "text": "Day 1: Beach and Baga"
-      },
-      {
-        "type": "p",
-        "text": "Get to your stay, drop bags, and head straight to the beach — no point losing daylight hours to settling in. Spend the afternoon around Calangute, then move to Baga in the evening if nightlife is part of the plan, or stay local for a relaxed shack dinner if it isn't."
-      },
-      {
-        "type": "h2",
-        "text": "Day 2: Fort Aguada and a Flexible Afternoon"
-      },
-      {
-        "type": "p",
-        "text": "Start early at Fort Aguada before the heat and crowds build, then spend the late morning in Candolim — it's calmer than Calangute and a good place to unwind before your departure. Keep the afternoon loose depending on your flight or travel time."
-      },
-      {
-        "type": "h2",
-        "text": "Making the Most of a Short Trip"
-      },
-      {
-        "type": "p",
-        "text": "The single biggest thing that makes a weekend trip work is staying centrally — anywhere in the Calangute-Candolim-Baga stretch keeps travel time to a minimum, which matters far more on a 2-day trip than it does on a week-long one."
-      },
-      {
-        "type": "h2",
-        "text": "Frequently Asked Questions"
-      },
-      {
-        "type": "h3",
-        "text": "Is a weekend trip to Goa worth it?"
-      },
-      {
-        "type": "p",
-        "text": "Yes, particularly if you keep the itinerary focused on one area rather than trying to see multiple beaches spread across North Goa."
-      },
-      {
-        "type": "h3",
-        "text": "Which area is best for a Goa weekend trip?"
-      },
-      {
-        "type": "p",
-        "text": "The Calangute-Candolim-Baga cluster — it's the most central, has the widest range of stays, and keeps travel time between activities to a minimum."
-      },
-      {
-        "type": "h3",
-        "text": "Should I rent a scooter for just 2 days?"
-      },
-      {
-        "type": "p",
-        "text": "It's optional for a tightly centred itinerary like this one, but still useful if you want to move between Calangute, Candolim and Baga without relying on taxis."
-      }
-    ],
-    "seo": {
-      "metaTitle": "Goa Weekend Getaway: 2-Day Itinerary | Goa Beach Stays",
-      "metaDescription": "A focused 2-day North Goa weekend itinerary built around Calangute, Candolim and Baga — realistic for a short trip without overpacking the schedule."
+  "slug": "goa-weekend-getaway-itinerary",
+  "title": "The Perfect Goa Weekend Getaway: 2-Day Itinerary",
+  "category": "Itineraries",
+  "excerpt": "Two days is tight, but a focused North Goa weekend still works if you pick one base and stop trying to see everything — here's how to structure it.",
+  "coverImage": "/images/blogs/itinerary/weekend.webp",
+  "publishDate": "2026-08-12",
+  "readTime": "6 min",
+  "tags": [
+    "Itineraries",
+    "Weekend Getaway",
+    "North Goa"
+  ],
+  "relatedStays": [
+    "havelock-calangute-hotel",
+    "falconview-residency-candolim"
+  ],
+  "relatedSemanticPages": [
+    {
+      "slug": "north-goa-stays",
+      "label": "North Goa Stays"
+    },
+    {
+      "slug": "budget-stays-goa",
+      "label": "Budget Stays in Goa"
     }
-  },
+  ],
+  "content": [
+    {
+      "type": "p",
+      "text": "A weekend in Goa works best when you accept upfront that you're not covering the whole coastline. This itinerary picks the Calangute-Candolim-Baga cluster as a single base and builds two full days around it, rather than spreading thin across the whole map."
+    },
+    {
+      "type": "h2",
+      "text": "Quick Summary"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Day 1 — Arrive, Calangute beach time, evening in Baga",
+        "Day 2 — Fort Aguada and Candolim in the morning, flexible afternoon before departure"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Day 1: Beach and Baga"
+    },
+    {
+      "type": "p",
+      "text": "Get to your stay, drop bags, and head straight to the beach — no point losing daylight hours to settling in. Spend the afternoon around Calangute, then move to Baga in the evening if nightlife is part of the plan, or stay local for a relaxed shack dinner if it isn't."
+    },
+    {
+      "type": "h2",
+      "text": "Day 2: Fort Aguada and a Flexible Afternoon"
+    },
+    {
+      "type": "p",
+      "text": "Start early at Fort Aguada before the heat and crowds build, then spend the late morning in Candolim — it's calmer than Calangute and a good place to unwind before your departure. Keep the afternoon loose depending on your flight or travel time."
+    },
+    {
+      "type": "h2",
+      "text": "Making the Most of a Short Trip"
+    },
+    {
+      "type": "p",
+      "text": "The single biggest thing that makes a weekend trip work is staying centrally — anywhere in the Calangute-Candolim-Baga stretch keeps travel time to a minimum, which matters far more on a 2-day trip than it does on a week-long one."
+    },
+    {
+      "type": "p",
+      "text": "If you're weighing a beach weekend against a hill-station break, villa stays in Mahabaleshwar offer another way to build a short trip around one comfortable base.",
+      "link": {
+        "text": "villa stays in Mahabaleshwar",
+        "href": "https://www.mahabaleshwarvillastays.com/villas"
+      }
+    },
+    {
+      "type": "h2",
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "type": "h3",
+      "text": "Is a weekend trip to Goa worth it?"
+    },
+    {
+      "type": "p",
+      "text": "Yes, particularly if you keep the itinerary focused on one area rather than trying to see multiple beaches spread across North Goa."
+    },
+    {
+      "type": "h3",
+      "text": "Which area is best for a Goa weekend trip?"
+    },
+    {
+      "type": "p",
+      "text": "The Calangute-Candolim-Baga cluster — it's the most central, has the widest range of stays, and keeps travel time between activities to a minimum."
+    },
+    {
+      "type": "h3",
+      "text": "Should I rent a scooter for just 2 days?"
+    },
+    {
+      "type": "p",
+      "text": "It's optional for a tightly centred itinerary like this one, but still useful if you want to move between Calangute, Candolim and Baga without relying on taxis."
+    }
+  ],
+  "seo": {
+    "metaTitle": "Goa Weekend Getaway: 2-Day Itinerary | Goa Beach Stays",
+    "metaDescription": "A focused 2-day North Goa weekend itinerary built around Calangute, Candolim and Baga — realistic for a short trip without overpacking the schedule."
+  }
+},
   {
     "slug": "goa-bachelor-party-guide",
     "title": "Bachelor Party in Goa: Complete Planning Guide",
