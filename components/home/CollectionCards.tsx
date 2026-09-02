@@ -6,7 +6,7 @@ import { SectionHeader } from '@/components/ui/SectionHeader'
 const COLLECTIONS = [
   { label: 'North Goa Villas', href: '/north-goa-villas', image: '/images/stays/seabreeze-grand-villa-candolim/cover.png' },
   { label: 'South Goa Villas', href: '/south-goa-villas', image: '/images/stays/moon-forest-villa-calangute/cover.png' },
-  { label: 'Goa Beach Resorts', href: '/boutique-resorts-goa', image: '/images/stays/windward-bay-resort-anjuna/cover.png' },
+  { label: 'Goa Beach Resorts', href: '/goa-beach-resorts', image: '/images/stays/windward-bay-resort-anjuna/cover.png' },
   { label: 'Beachfront Stays Near You', href: '/goa-beach-stays-near-me', image: '/images/stays/driftwood-cottages-arambol/cover.png' },
 ]
 
