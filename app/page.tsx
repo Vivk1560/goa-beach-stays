@@ -5,6 +5,7 @@ import { FeaturedStays } from '@/components/home/FeaturedStays'
 import { BrowseByType } from '@/components/home/BrowseByType'
 import { CollectionCards } from '@/components/home/CollectionCards'
 import { WhyBookWithUs } from '@/components/home/WhyBookWithUs'
+import { WhyGuestsChoose } from '@/components/home/WhyGuestsChoose'
 import { GuestReviewsPreview } from '@/components/home/GuestReviewsPreview'
 import { BlogPreview } from '@/components/home/BlogPreview'
 import { AboutAgentSection } from '@/components/home/AboutAgentSection'
@@ -57,6 +58,7 @@ export default function Page() {
       <WhyGoaSection />
       <SouthGoaShowcase stays={southGoaStays} />
       <WhyBookWithUs />
+      <WhyGuestsChoose />
       <GuestReviewsPreview reviews={topReviews} />
       <FAQSection />
       <BlogPreview blogs={latestBlogs} />

@@ -14,7 +14,8 @@ export function HeroSection() {
           Beach Stays in Goa — Villas, Resorts &amp; Cottages
         </h1>
         <p className="mt-4 max-w-xl text-lg text-white/80 md:text-xl">
-          Luxury villas, boutique resorts &amp; private cottages across Goa&apos;s finest beaches
+          Luxury villas, boutique resorts &amp; private cottages across North and South Goa&apos;s
+          finest beaches — book directly with Goa Beach Stays, no OTA fees.
         </p>
         <div className="mt-8 flex flex-wrap items-center justify-center gap-4">
           <Link href="/villas" className="rounded-full bg-accent px-7 py-3 text-sm font-semibold text-accent-foreground shadow-md transition-all duration-200 ease-out hover:scale-105 hover:shadow-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2 focus-visible:ring-offset-black/40">

@@ -77,6 +77,26 @@ export const HOMEPAGE_FAQS: StayFAQ[] = [
     answer:
       'Check-in is generally from 12:00 PM and check-out by 11:00 AM, though some properties can offer flexibility \u2014 worth asking about early check-in or late check-out when you enquire, especially for staggered group arrivals.',
   },
+  {
+    question: 'Which parts of Goa do you cover?',
+    answer:
+      'We list stays across both North Goa \u2014 including Calangute, Baga, Anjuna, Vagator, Morjim and Candolim \u2014 and South Goa, including Palolem, Cavelossim, Colva, Varca and Arambol. Tell us the kind of trip you\u2019re planning and we\u2019ll point you to the area that fits best.',
+  },
+  {
+    question: 'Do you have pet-friendly stays in Goa?',
+    answer:
+      'Yes \u2014 a number of our villas are pet-friendly, with gardens and space for dogs to roam. Let us know you\u2019re travelling with a pet when you enquire and we\u2019ll shortlist accordingly.',
+  },
+  {
+    question: 'Do I need to pay the full amount upfront to book?',
+    answer:
+      'Usually not \u2014 most properties ask for a partial advance to hold your dates, with the balance due closer to or on arrival. Exact terms vary by property, and we\u2019ll confirm them for your chosen stay before you pay anything.',
+  },
+  {
+    question: 'Is there a fee for booking directly through Goa Beach Stays?',
+    answer:
+      'No. Booking runs directly between you and Goa Beach Stays, with no platform commission built into the price \u2014 which is the basis of our no-OTA-fees, direct-booking approach.',
+  },
 ]
 
 export function FAQSection() {
