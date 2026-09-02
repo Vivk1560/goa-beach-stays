@@ -11,7 +11,7 @@ export function HeroSection() {
       <div className="absolute inset-0 bg-gradient-to-b from-black/50 to-black/20" />
       <div className="relative z-10 mx-auto flex max-w-3xl flex-col items-center px-4">
         <h1 className="font-heading text-4xl font-semibold text-white md:text-6xl">
-          Find Your Perfect Goa Beach Stay
+          Beach Stays in Goa — Villas, Resorts &amp; Cottages
         </h1>
         <p className="mt-4 max-w-xl text-lg text-white/80 md:text-xl">
           Luxury villas, boutique resorts &amp; private cottages across Goa&apos;s finest beaches
