@@ -109,7 +109,11 @@ export const footerNav = {
     { label: "Anjuna", href: "/stays-in-anjuna" },
     { label: "Vagator", href: "/stays-in-vagator" },
     { label: "Morjim", href: "/stays-in-morjim" },
+    { label: "Candolim", href: "/stays-in-candolim" },
+    { label: "Arambol", href: "/stays-in-arambol" },
     { label: "Palolem", href: "/stays-in-palolem" },
     { label: "Cavelossim", href: "/stays-in-cavelossim" },
+    { label: "Colva", href: "/stays-in-colva" },
+    { label: "Varca", href: "/stays-in-varca" },
   ],
 }
