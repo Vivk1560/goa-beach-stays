@@ -11,10 +11,11 @@ import { AboutAgentSection } from '@/components/home/AboutAgentSection'
 import { CTABanner } from '@/components/home/CTABanner'
 import { WhyGoaSection } from '@/components/home/WhyGoaSection'
 import { SouthGoaShowcase } from '@/components/home/SouthGoaShowcase'
+import { FAQSection, HOMEPAGE_FAQS } from '@/components/home/FAQSection'
 import { getFeaturedStays, getTopReviews, getFilteredStays } from '@/lib/stays'
 import { getLatestBlogs } from '@/lib/blogs'
 import { buildMetadata } from '@/lib/seo'
-import { organizationSchema, websiteSchema } from '@/lib/schema'
+import { organizationSchema, websiteSchema, faqSchema } from '@/lib/schema'
 
 export const metadata: Metadata = buildMetadata({
   title: 'Goa Beach Stays | Villas, Resorts & Beach Stays in Goa',
@@ -32,6 +33,7 @@ export default function Page() {
     .slice(0, 3)
   const organizationJsonLd = organizationSchema()
   const websiteJsonLd = websiteSchema()
+  const faqJsonLd = faqSchema(HOMEPAGE_FAQS)
 
   return (
     <>
@@ -43,6 +45,10 @@ export default function Page() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
       />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+      />
       <HeroSection />
       <TrustBadges />
       <FeaturedStays stays={featuredStays} />
@@ -52,6 +58,7 @@ export default function Page() {
       <SouthGoaShowcase stays={southGoaStays} />
       <WhyBookWithUs />
       <GuestReviewsPreview reviews={topReviews} />
+      <FAQSection />
       <BlogPreview blogs={latestBlogs} />
       <AboutAgentSection />
       <CTABanner />
