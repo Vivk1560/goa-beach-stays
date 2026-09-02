@@ -15,7 +15,7 @@ export const HOMEPAGE_FAQS: StayFAQ[] = [
   {
     question: "What's the best time of year to visit Goa?",
     answer:
-      'November through February usually brings the most reliable weather \u2014 warm days, cool evenings and very little rain. Prices are highest through this stretch too, particularly November to January. October, early November and March\u2013April are quieter shoulder months with fewer crowds, and June\u2013September brings the monsoon, which some travellers actively seek out for the lush, green landscape.',
+      'November through February usually brings some of Goa\u2019s most reliable weather \u2014 warm days, cool evenings and very little rain. November, December and January are our peak season, when pricing shifts to peak-season rates; February returns to standard pricing even though the weather stays similarly good. March\u2013April tends to be quieter and warmer, and June\u2013September brings the monsoon, which some travellers actively seek out for the lush, green landscape.',
   },
   {
     question: 'Are villas in Goa suitable for families and multi-generational trips?',
@@ -25,7 +25,7 @@ export const HOMEPAGE_FAQS: StayFAQ[] = [
   {
     question: 'Do you offer private pool villas in Goa?',
     answer:
-      "Yes, private pool villas are one of our most popular categories \u2014 the pool is reserved exclusively for your booking, not shared with other guests. Availability during the November\u2013January peak season tends to book out first, so an early enquiry helps.",
+      "Yes, private pool villas are one of our most popular categories \u2014 the pool is reserved exclusively for your booking, not shared with other guests. Availability depends on the specific property and your dates, so it's worth enquiring early to see what's open.",
   },
   {
     question: 'How do I book a stay through Goa Beach Stays?',
@@ -60,7 +60,7 @@ export const HOMEPAGE_FAQS: StayFAQ[] = [
   {
     question: 'What is peak season, and does it affect pricing or availability?',
     answer:
-      'Peak season runs November through January \u2014 that\u2019s when our pricing shifts to peak-season rates across the board. It\u2019s Goa\u2019s busiest stretch, so prices are higher and popular villas \u2014 especially private-pool ones \u2014 get booked out weeks in advance. Booking 6\u20138 weeks ahead for this window is a safe bet.',
+      'Peak season runs November through January \u2014 that\u2019s when our pricing shifts to peak-season rates across the board. It\u2019s Goa\u2019s busiest stretch, so prices are higher and popular villas \u2014 especially private-pool ones \u2014 can fill up well in advance. Availability and rates vary by property and dates, so it\u2019s worth checking in as soon as your travel window is set.',
   },
   {
     question: 'Are there more affordable options alongside the luxury villas?',
@@ -80,7 +80,7 @@ export const HOMEPAGE_FAQS: StayFAQ[] = [
   {
     question: 'Which parts of Goa do you cover?',
     answer:
-      'We list stays across both North Goa \u2014 including Calangute, Baga, Anjuna, Vagator, Morjim and Candolim \u2014 and South Goa, including Palolem, Cavelossim, Colva, Varca and Arambol. Tell us the kind of trip you\u2019re planning and we\u2019ll point you to the area that fits best.',
+      'We list stays across both North Goa \u2014 including Calangute, Baga, Anjuna, Vagator, Morjim, Candolim and Arambol \u2014 and South Goa, including Palolem, Cavelossim, Colva and Varca. Tell us the kind of trip you\u2019re planning and we\u2019ll point you to the area that fits best.',
   },
   {
     question: 'Do you have pet-friendly stays in Goa?',
