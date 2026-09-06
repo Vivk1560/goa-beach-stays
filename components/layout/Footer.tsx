@@ -30,7 +30,7 @@ export function Footer() {
       <div className="mx-auto grid max-w-7xl gap-10 px-4 py-14 sm:grid-cols-2 lg:grid-cols-4 lg:px-8">
         <div>
           <Link href="/" className="mb-4 inline-block rounded-md bg-white p-2">
-            <Image src="/images/logo/logo-main.png" alt="Goa Beach Stays" width={150} height={75} className="h-10 w-auto object-contain" />
+            <Image src="https://res.cloudinary.com/ownuvi2y/image/upload/v1788636570/goa-other/logo/logo-main.png" alt="Goa Beach Stays" width={150} height={75} className="h-10 w-auto object-contain" />
           </Link>
           <p className="mb-3 font-serif text-base italic text-warm-tint">{siteConfig.tagline}</p>
           <p className="mb-4 text-sm text-white/80">{siteConfig.description}</p>

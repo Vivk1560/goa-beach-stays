@@ -11,8 +11,8 @@ export function organizationSchema() {
     name: siteConfig.name,
     description: siteConfig.description,
     url: BASE,
-    logo: `${BASE}/images/logo/logo-main.png`,
-    image: `${BASE}/images/homepage/hero.png`,
+    logo: `https://res.cloudinary.com/ownuvi2y/image/upload/v1788636570/goa-other/logo/logo-main.png`,
+    image: `https://res.cloudinary.com/ownuvi2y/image/upload/v1788636569/goa-other/homepage/hero.png`,
     telephone: siteConfig.contact.callNumber,
     email: siteConfig.contact.email,
     areaServed: { "@type": "State", name: "Goa, India" },
@@ -47,52 +47,6 @@ export function breadcrumbSchema(items: { name: string; url: string }[]) {
   }
 }
 
-/**
- * VacationRental JSON-LD per SRS A1.
- * Fixed: previously emitted "@type": "LodgingBusiness" (a deviation flagged
- * in the status tracker). Corrected to "VacationRental" as the spec requires.
- *
- * GSC "Vacation rental" validity fix (Aug 2026): Google's VacationRental
- * spec lists containsPlace (with containsPlace.occupancy.value) and
- * identifier as required properties — both were missing, which is what GSC
- * flagged as critical invalid items. Fixed minimally using only existing
- * Stay data:
- *   - identifier: stay.id — a stable, content-independent ID already on
- *     every stay record, matching Google's requirement.
- *   - containsPlace.occupancy.value: stay.maxGuests — existing field.
- * image[] now uses the full gallery (previously capped at cover + 2) since
- * Google requires a minimum of 8 photos; this uses only image paths already
- * present in stays.json, nothing added, moved, or renamed. Properties with
- * fewer than 8 total images in their existing gallery will still fall short
- * of the 8-photo minimum — that's a data gap, not something this function
- * can fabricate its way around.
- *
- * Note: deliberately does NOT emit aggregateRating/review. The reviews shown
- * on stay pages are self-hosted testimonials with no verification mechanism
- * behind them, so — same reasoning already applied on the /reviews page —
- * they aren't eligible for Google's review rich-result markup and emitting
- * it would be a structured-data compliance risk.
- *
- * Task 13 (Aug 2026): image[] upgraded from bare URL strings to ImageObject
- * entries with a caption, matching the same "{name} — {Type} in {area}"
- * pattern already used for alt text in StayCard/StayGallery. No image
- * paths, filenames, or ordering changed — only descriptive metadata added
- * around the existing URLs.
- *
- * GSC "Vacation rental" fix, Phase 2 (Aug 2026):
- *   - image[] was built as [cover, ...gallery] without checking whether
- *     `gallery` already includes the cover URL (it does for most stays in
- *     stays.json). That silently duplicated one entry in the emitted array,
- *     inflating the apparent count without adding a real distinct photo —
- *     for stays sitting right at the 8-photo boundary this meant Google's
- *     de-duplicated image count came in one short of what the array length
- *     suggested. Deduplicated by URL; no images added, removed, or reordered
- *     beyond collapsing the accidental repeat.
- *   - additionalType was entirely absent at the top level (Google lists it
- *     as a recommended VacationRental property describing the property
- *     type). Added using the existing TYPE_LABEL already derived from
- *     stay.type — no new/fabricated data.
- */
 const TYPE_LABEL: Record<Stay["type"], string> = {
   villa: "Villa",
   resort: "Resort",
@@ -116,7 +70,7 @@ export function vacationRentalSchema(stay: Stay) {
     telephone: siteConfig.contact.callNumber,
     image: uniqueImagePaths.map((p) => ({
       "@type": "ImageObject",
-      url: `${BASE}${p}`,
+      url: p,
       caption,
     })),
     priceRange: `₹${stay.pricing.displayPrice} – per night`,
@@ -175,13 +129,13 @@ export function articleSchema(post: BlogPost) {
     "@type": "BlogPosting",
     headline: post.title,
     description: post.excerpt,
-    image: `${BASE}${post.coverImage}`,
+    image: post.coverImage,
     datePublished: post.publishDate,
     author: { "@type": "Person", name: siteConfig.ownerName },
     publisher: {
       "@type": "Organization",
       name: siteConfig.name,
-      logo: { "@type": "ImageObject", url: `${BASE}/images/logo/logo-main.png` },
+      logo: { "@type": "ImageObject", url: `https://res.cloudinary.com/ownuvi2y/image/upload/v1788636570/goa-other/logo/logo-main.png` },
     },
     mainEntityOfPage: `${BASE}/blogs/${post.slug}`,
   }

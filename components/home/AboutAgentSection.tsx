@@ -10,7 +10,7 @@ export function AboutAgentSection() {
     <section className="mx-auto max-w-7xl px-4 py-16 lg:px-8">
       <div className="grid grid-cols-1 items-center gap-10 md:grid-cols-2">
         <div className="relative aspect-[4/3] overflow-hidden rounded-2xl">
-          <Image src="/images/homepage/about-owner.png" alt={`${siteConfig.ownerName}, founder of ${siteConfig.name}`} fill sizes="(max-width: 768px) 100vw, 50vw" className="object-cover" />
+          <Image src="https://res.cloudinary.com/ownuvi2y/image/upload/v1788636567/goa-other/homepage/about-owner.png" alt={`${siteConfig.ownerName}, founder of ${siteConfig.name}`} fill sizes="(max-width: 768px) 100vw, 50vw" className="object-cover" />
         </div>
         <div>
           <p className="font-serif text-lg italic text-accent">Your Goa Travel & Stay Expert</p>

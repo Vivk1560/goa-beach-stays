@@ -20,7 +20,7 @@ export function Navbar() {
       <nav className="mx-auto flex h-20 max-w-7xl items-center justify-between px-4 lg:px-8">
         <Link href="/" className="flex shrink-0 items-center" onClick={() => setMobileOpen(false)}>
           <Image
-            src="/images/logo/logo-main.png"
+            src="https://res.cloudinary.com/ownuvi2y/image/upload/v1788636570/goa-other/logo/logo-main.png"
             alt="Goa Beach Stays"
             width={170}
             height={85}

@@ -12,7 +12,7 @@ interface SeoParams {
 
 export function buildMetadata({ title, description, path = "", image, type = "website", noIndex }: SeoParams): Metadata {
   const url = `${siteConfig.domain}${path}`
-  const ogImage = image ?? `${siteConfig.domain}/images/homepage/hero.png`
+  const ogImage = image ?? `https://res.cloudinary.com/ownuvi2y/image/upload/v1788636569/goa-other/homepage/hero.png`
   const fullTitle = path === "" ? title : `${title} | ${siteConfig.name}`
 
   return {

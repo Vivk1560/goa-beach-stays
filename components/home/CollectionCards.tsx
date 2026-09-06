@@ -4,10 +4,10 @@ import { ArrowRight } from 'lucide-react'
 import { SectionHeader } from '@/components/ui/SectionHeader'
 
 const COLLECTIONS = [
-  { label: 'North Goa Villas', href: '/north-goa-villas', image: '/images/stays/seabreeze-grand-villa-candolim/cover.png' },
-  { label: 'South Goa Villas', href: '/south-goa-villas', image: '/images/stays/moon-forest-villa-calangute/cover.png' },
-  { label: 'Goa Beach Resorts', href: '/goa-beach-resorts', image: '/images/stays/windward-bay-resort-anjuna/cover.png' },
-  { label: 'Beachfront Stays Near You', href: '/goa-beach-stays-near-me', image: '/images/stays/driftwood-cottages-arambol/cover.png' },
+  { label: 'North Goa Villas', href: '/north-goa-villas', image: 'https://res.cloudinary.com/ownuvi2y/image/upload/v1788631427/goa-stays/baia-serena-resort-calangute/cover.jpg' },
+  { label: 'South Goa Villas', href: '/south-goa-villas', image: 'https://res.cloudinary.com/ownuvi2y/image/upload/v1788631664/goa-stays/farol-bay-resort-arambol/cover.jpg' },
+  { label: 'Goa Beach Resorts', href: '/goa-beach-resorts', image: 'https://res.cloudinary.com/ownuvi2y/image/upload/v1788631863/goa-stays/windward-bay-resort-candolim/cover.jpg' },
+  { label: 'Beachfront Stays Near You', href: '/goa-beach-stays-near-me', image: 'https://res.cloudinary.com/ownuvi2y/image/upload/v1788631349/goa-stays/azure-palm-luxury-villa-anjuna-vagator/cover.jpg' },
 ]
 
 export function CollectionCards() {
