@@ -150,7 +150,7 @@ export default function AboutUsPage() {
       <section className="grid grid-cols-1 items-center gap-10 md:grid-cols-2">
         <div className="overflow-hidden rounded-2xl border border-border">
           <Image
-            src="/images/homepage/about-owner.png"
+            src="https://res.cloudinary.com/ownuvi2y/image/upload/v1788636567/goa-other/homepage/about-owner.png"
             alt={`${siteConfig.ownerName}, founder of ${siteConfig.name}`}
             width={640}
             height={720}
