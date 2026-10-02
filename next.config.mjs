@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images: {
+        loaderFile: "./lib/cloudinary-loader.js",
         remotePatterns: [{
                 protocol: "https",
                 hostname: "img.youtube.com",
