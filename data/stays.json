@@ -2053,12 +2053,12 @@
             "north-goa"
         ],
         "name": "Tidewood Cottages",
-        "tagline": "Beach-Facing Cottages on the Arambol–Morjim Coast",
+        "tagline": "Beach-Facing Cottages Near Morjim Beach",
         "location": {
             "area": "North Goa, Morjim",
             "district": "North Goa",
             "region": "North Goa",
-            "address": "Arambol-Morjim Coastal Belt, North Goa, Goa 403512",
+            "address": "Morjim, Pernem, North Goa, Goa 403512",
             "coordinates": {
                 "lat": 15.628,
                 "lng": 73.737
@@ -2124,8 +2124,8 @@
             "Well suited to couples, families and relaxed beach holidays"
         ],
         "description": {
-            "short": "A peaceful beach-facing cottage resort near Morjim and Arambol, with premium cottages and a swimming pool. Book by WhatsApp.",
-            "long": "Tidewood Cottages sits along the quieter Arambol-Morjim coastal belt, where the pace slows down and the beaches stay noticeably less crowded than further south. Rather than standard hotel rooms, guests stay in premium wooden and modern-style cottages, several with a beach-facing outlook, set around a central swimming pool.\n\nIt's built for a slower kind of holiday — mornings by the pool, evenings walking the shoreline toward Morjim's turtle-nesting stretch or Arambol's cliffside cafes, and an in-house restaurant on hand when guests would rather not venture out. The cottages give couples and families more space and privacy than a typical room, without losing the convenience of on-site dining and parking.\n\nWe recommend this most to travellers looking for a calmer, beach-facing base in North Goa's Arambol-Morjim belt over the nightlife-heavy towns further south. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — WhatsApp us for availability."
+            "short": "A peaceful beach-facing cottage resort in Morjim, with premium cottages and a swimming pool. Book by WhatsApp.",
+            "long": "Tidewood Cottages sits on a quieter stretch of the Morjim coast, where the pace slows down and the beaches stay noticeably less crowded than further south. Rather than standard hotel rooms, guests stay in premium wooden and modern-style cottages, several with a beach-facing outlook, set around a central swimming pool.\n\nIt's built for a slower kind of holiday — mornings by the pool, evenings walking the shoreline along Morjim's turtle-nesting stretch, and an in-house restaurant on hand when guests would rather not venture out. The cottages give couples and families more space and privacy than a typical room, without losing the convenience of on-site dining and parking.\n\nWe recommend this most to travellers looking for a calmer, beach-facing base in Morjim over the nightlife-heavy towns further south. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — WhatsApp us for availability."
         },
         "images": {
             "cover": "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631849/goa-stays/tidewood-cottages-morjim/cover.jpg",
@@ -2145,19 +2145,17 @@
         "tags": [
             "North Goa",
             "Morjim",
-            "Arambol",
             "Cottage Resort",
             "Beachfront"
         ],
         "nearbyAttractions": [
             "Morjim Beach – 0.6 km",
             "Ashwem Beach – 3 km",
-            "Mandrem Beach – 2 km",
-            "Arambol Beach – 4 km"
+            "Mandrem Beach – 2 km"
         ],
         "faqs": [{
                 "question": "How far is Tidewood Cottages from the beach?",
-                "answer": "Tidewood Cottages is a short walk from Morjim Beach, with Arambol and Ashwem also close by along the same coastal belt."
+                "answer": "Tidewood Cottages is a short walk from Morjim Beach, with Ashwem and Mandrem beaches also nearby along the same stretch of coast."
             },
             {
                 "question": "What are the check-in and check-out times?",
@@ -2215,7 +2213,7 @@
         ],
         "seo": {
             "metaTitle": "Tidewood Cottages Morjim | Goa Beach Stays",
-            "metaDescription": "Beach-facing cottage resort near Morjim and Arambol, North Goa. Premium cottages with pool, from ₹4,200/night. WhatsApp enquiry.",
+            "metaDescription": "Beach-facing cottage resort in Morjim, North Goa. Premium cottages with pool, from ₹4,200/night. WhatsApp enquiry.",
             "focusKeyword": "beach cottage resort morjim arambol"
         },
         "contact": {
@@ -6342,22 +6340,21 @@
         "category": [
             "beachfront",
             "family-friendly",
-            "south-goa"
+            "north-goa"
         ],
         "name": "Casa Aldeia Resort",
         "tagline": "A Scenic Coastal Resort Minutes from Panaji, Built for Business and Beach Days Alike",
         "location": {
-            "area": "South Goa, Bambolim",
-            "district": "South Goa",
-            "region": "South Goa",
-            "address": "Aldeia de Goa Road, Bambolim, Goa 403206",
+            "area": "North Goa, Bambolim",
+            "district": "North Goa",
+            "region": "North Goa",
+            "address": "Aldeia de Goa Road, Bambolim, Goa",
             "coordinates": {
                 "lat": 15.4636,
                 "lng": 73.8467
             },
             "nearestBeach": "Bambolim Beach (0.3 km)",
-            "nearestAirport": "Dabolim Airport (26 km)",
-            "postalCode": "403206"
+            "nearestAirport": "Dabolim Airport (26 km)"
         },
         "pricing": {
             "standard": {
@@ -6434,7 +6431,7 @@
             "video": ""
         },
         "tags": [
-            "South Goa",
+            "North Goa",
             "Bambolim",
             "Beachfront",
             "Business"
@@ -6707,15 +6704,15 @@
         "category": [
             "luxury",
             "couple-friendly",
-            "south-goa",
+            "north-goa",
             "sea view"
         ],
         "name": "Miradouro Garden Cottages",
         "tagline": "Clifftop Cottages Above Odxel Beach with Private Plunge Pools and Panjim Views",
         "location": {
-            "area": "South Goa, Dona Paula",
-            "district": "South Goa",
-            "region": "South Goa",
+            "area": "North Goa, Dona Paula",
+            "district": "North Goa",
+            "region": "North Goa",
             "address": "Odxel Beach Road, Durgavado, Dona Paula, Goa 403206",
             "coordinates": {
                 "lat": 15.4589,
@@ -6801,7 +6798,7 @@
             "video": ""
         },
         "tags": [
-            "South Goa",
+            "North Goa",
             "Dona Paula",
             "Private Pool",
             "Sea View"

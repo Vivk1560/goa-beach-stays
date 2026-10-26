@@ -836,10 +836,6 @@
         "url": "/luxury-villas-north-goa"
       },
       {
-        "name": "Luxury Villas in South Goa",
-        "url": "/luxury-villas-south-goa"
-      },
-      {
         "name": "Goa Beach Resorts",
         "url": "/goa-beach-resorts"
       },
@@ -2953,76 +2949,6 @@
             "citrine-grove-villa-arpora-baga",
             "amber-grove-villa-anjuna"
         ]
-  },
-  {
-    "slug": "luxury-villas-south-goa",
-    "h1": "Luxury Villas in South Goa",
-    "metaTitle": "Luxury Villas in South Goa | Palolem, Agonda & Cavelossim | Goa Beach Stays",
-    "metaDescription": "Discover luxury villas in South Goa with Goa Beach Stays — spacious private-pool homes near Palolem, Agonda and Cavelossim, away from the crowds.",
-    "intro": "South Goa's luxury villas trade nightlife for privacy — long stretches of near-empty beach, coconut groves, and homes designed to be looked at as much as lived in.",
-    "sections": [
-      {
-        "heading": "A Different Kind of Luxury",
-        "body": "Where North Goa's luxury scene is about energy, South Goa's is about space and stillness. Villas around Cavelossim and Palolem tend to sit on larger plots, often with mature gardens, larger pools and more distance between you and the neighbours — the kind of property where the setting does half the work."
-      },
-      {
-        "heading": "Who South Goa Suits Best",
-        "body": "If your trip is built around switching off — a honeymoon, a milestone celebration, a proper family holiday — South Goa's luxury villas are usually the better fit than North Goa's livelier equivalents. Agonda and Palolem are ideal if you want to be near a genuinely quiet beach; Cavelossim and Benaulim suit groups who still want a few good restaurants within a short drive."
-      },
-      {
-        "heading": "What to Expect",
-        "body": "Most of our South Goa luxury villas include full staff — housekeeping, a caretaker, and chef service on request — along with private pools and outdoor living spaces built for lounging rather than just looking good in photos. Airport transfers from Dabolim or Mopa can usually be arranged through us as part of the booking."
-      }
-    ],
-    "faqs": [
-      {
-        "question": "Is South Goa quieter than North Goa for a luxury villa stay?",
-        "answer": "Yes, generally. South Goa has fewer beach shacks and less nightlife, which is exactly why it's popular for honeymoons, family trips and anyone who wants a villa stay built around privacy rather than proximity to a scene."
-      },
-      {
-        "question": "Which South Goa areas have the best luxury villas?",
-        "answer": "Cavelossim and Benaulim offer a good balance of luxury and convenience, while Agonda and Palolem are better if total quiet and a laid-back beach are the priority."
-      },
-      {
-        "question": "Do South Goa luxury villas come with staff included?",
-        "answer": "Most include daily housekeeping and a caretaker as standard, with chef service available on request. We'll confirm exactly what's included for the specific villa you're considering."
-      },
-      {
-        "question": "How far are South Goa luxury villas from the airport?",
-        "answer": "Distances vary by area, but most South Goa villas are a manageable drive from Dabolim airport. We can arrange transfers as part of your booking so you don't need to sort your own taxi on arrival."
-      }
-    ],
-    "filter": {
-      "type": "villa",
-      "district": "South Goa",
-      "category": "luxury"
-    },
-    "parent": {
-      "name": "Luxury Villas in Goa",
-      "url": "/luxury-villas-goa"
-    },
-    "related": [
-      {
-        "name": "South Goa Villas",
-        "url": "/south-goa-villas"
-      },
-      {
-        "name": "Luxury Villas in Goa",
-        "url": "/luxury-villas-goa"
-      },
-      {
-        "name": "Private Pool Villas in Goa",
-        "url": "/private-pool-villas-in-goa"
-      },
-      {
-        "name": "Stays in Cavelossim",
-        "url": "/stays-in-cavelossim"
-      }
-    ],
-    "relatedBlogs": [
-      "best-beaches-in-south-goa",
-      "north-goa-vs-south-goa"
-    ]
   },
   {
     "slug": "villas-with-pool-goa",

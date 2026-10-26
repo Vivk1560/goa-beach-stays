@@ -17,7 +17,7 @@ const nextConfig = {
     async redirects() {
         return [{
                 source: "/stays/sonikus-executive-calangute",
-                destination: "/stays/casa-verdant-villa-candolim",
+                destination: "/stays-in-calangute",
                 permanent: true,
             },
             {
@@ -32,12 +32,12 @@ const nextConfig = {
             },
             {
                 source: "/stays/falconview-residency-candolim",
-                destination: "/stays/driftwood-hollow-resort-vagator",
+                destination: "/stays-in-candolim",
                 permanent: true,
             },
             {
                 source: "/stays/sundowner-candolim-resort",
-                destination: "/stays/azure-tide-resort-baga",
+                destination: "/stays-in-candolim",
                 permanent: true,
             },
             {
@@ -47,37 +47,37 @@ const nextConfig = {
             },
             {
                 source: "/stays/marisol-cove-resort-morjim",
-                destination: "/stays/coral-breeze-hotel-candolim",
+                destination: "/stays-in-morjim",
                 permanent: true,
             },
             {
                 source: "/stays/vellum-shore-hotel-calangute",
-                destination: "/stays/tidewood-cottages-morjim",
+                destination: "/stays-in-calangute",
                 permanent: true,
             },
             {
                 source: "/stays/ochre-house-boutique-resort-anjuna",
-                destination: "/stays/casa-luma-villa-candolim",
+                destination: "/stays-in-anjuna",
                 permanent: true,
             },
             {
                 source: "/stays/windward-bay-resort-anjuna",
-                destination: "/stays/windward-bay-resort-candolim",
+                destination: "/stays-in-anjuna",
                 permanent: true,
             },
             {
                 source: "/stays/the-boutique-villa-baga",
-                destination: "/stays/the-boutique-cottages-calangute",
+                destination: "/stays-in-baga",
                 permanent: true,
             },
             {
                 source: "/stays/five-palms-villa-candolim",
-                destination: "/stays/costa-dourada-beach-resort-morjim",
+                destination: "/stays-in-candolim",
                 permanent: true,
             },
             {
                 source: "/stays/cascata-arpora-resort",
-                destination: "/stays/de-falcon-candolim-resort",
+                destination: "/stays-in-baga",
                 permanent: true,
             },
         ]
