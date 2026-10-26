@@ -569,183 +569,185 @@
         "priceRange": "₹4,200 – ₹10,800 per night"
     },
     {
-        "id": "stay-004",
-        "slug": "cassia-beach-resort-baga",
-        "type": "resort",
-        "category": [
-            "beachfront",
-            "value",
-            "north-goa"
-        ],
-        "name": "Cassia Beach Resort",
-        "tagline": "A 4-Star Resort Walking Distance from Baga Beach",
-        "location": {
-            "area": "North Goa, Baga",
-            "district": "North Goa",
-            "region": "North Goa",
-            "address": "Baga Beach Road, North Goa, Goa 403516",
-            "coordinates": {
-                "lat": 15.5568,
-                "lng": 73.7519
-            },
-            "nearestBeach": "Baga Beach (0.3 km)",
-            "nearestAirport": "Dabolim Airport (43 km)",
-            "postalCode": "403516"
-        },
-        "pricing": {
-            "standard": {
-                "label": "Standard (Feb–Oct)",
-                "roomTypes": [{
-                        "type": "Standard Room",
-                        "pricePerNight": 4600,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Beach-Facing Room",
-                        "pricePerNight": 6100,
-                        "maxGuests": 2
-                    }
-                ]
-            },
-            "season": {
-                "label": "Peak Season (Nov, Dec, Jan)",
-                "note": "Rates typically double during Goa's peak tourist season (November–January).",
-                "roomTypes": [{
-                        "type": "Standard Room",
-                        "pricePerNight": 9200,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Beach-Facing Room",
-                        "pricePerNight": 12200,
-                        "maxGuests": 2
-                    }
-                ]
-            },
-            "currency": "INR",
-            "minStay": 1,
-            "displayPrice": 4600
-        },
-        "rooms": 14,
-        "maxGuests": 35,
-        "bedrooms": 14,
-        "bathrooms": 14,
-        "amenities": [
-            "Beach Access",
-            "Free WiFi",
-            "Air Conditioning",
-            "In-house Restaurant",
-            "Free Parking",
-            "Room Service",
-            "Daily Housekeeping",
-            "Front Desk"
-        ],
-        "highlights": [
-            "Beach-facing rooms at a genuinely fair price for a 4-star property",
-            "Walking distance from Baga Beach and around 500 metres from Baga Market",
-            "Premium comfort without the inflated rates of the main strip",
-            "Straightforward booking, no online payment gateway needed"
-        ],
-        "description": {
-            "short": "A fairly priced 4-star resort walking distance from Baga Beach, around 500 metres from Baga Market. Book by WhatsApp.",
-            "long": "Cassia Beach Resort doesn't try to be more than it is — a straightforward, well-kept 4-star resort within walking distance of Baga's sand, priced honestly rather than padded for the beachfront label. It's the property we point value-conscious travellers to when they still want a premium stay close to the water.\n\nSitting just around 500 metres from Baga Market, it's an easy walk to the beach, shacks and the area's evening buzz, without paying the premium some beachfront-branded stays charge. Rooms are comfortable and well-kept rather than styled purely for photos, which is exactly the trade a lot of travellers are happy to make.\n\nAs an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — no online payment gateway, just a WhatsApp message to confirm your dates and lock in the rate."
-        },
-        "images": {
-            "cover": "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631552/goa-stays/cassia-beach-resort-baga/stay001.jpg",
-            "gallery": [
-                "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631553/goa-stays/cassia-beach-resort-baga/stay002.jpg",
-                "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631553/goa-stays/cassia-beach-resort-baga/stay003.jpg",
-                "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631554/goa-stays/cassia-beach-resort-baga/stay004.jpg",
-                "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631555/goa-stays/cassia-beach-resort-baga/stay005.jpg",
-                "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631557/goa-stays/cassia-beach-resort-baga/stay007.jpg",
-                "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631558/goa-stays/cassia-beach-resort-baga/stay008.jpg"
-            ],
-            "video": ""
-        },
-        "tags": [
-            "Beachfront",
-            "Value",
-            "North Goa",
-            "Baga"
-        ],
-        "nearbyAttractions": [
-            "Baga Beach – 0.3 km",
-            "Baga Market – 0.5 km",
-            "Calangute Beach – 1.8 km",
-            "Tito's Lane – 1 km"
-        ],
-        "faqs": [{
-                "question": "How far is Cassia Beach Resort from the beach?",
-                "answer": "Cassia Beach Resort is within walking distance of Baga Beach, one of North Goa's most popular stretches of coast."
-            },
-            {
-                "question": "What are the check-in and check-out times?",
-                "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
-            },
-            {
-                "question": "How do I book Cassia Beach Resort?",
-                "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
-            },
-            {
-                "question": "Are peak-season rates different?",
-                "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
-            },
-            {
-                "question": "How far is Cassia Beach Resort from Baga Market?",
-                "answer": "Baga Market is approximately 500 metres away, making it an easy walk from the resort."
-            }
-        ],
-        "reviews": [{
-                "id": "rev-1",
-                "name": "Manoj Pillai",
-                "rating": 4,
-                "review": "Exactly what we needed — clean room a short walk from Baga Beach without paying luxury prices. No complaints.",
-                "date": "2025-08-19",
-                "location": "Bengaluru",
-                "verified": true
-            },
-            {
-                "id": "rev-2",
-                "name": "Ritu & Sameer",
-                "rating": 5,
-                "review": "Best value we found in Baga this trip. Staff were friendly and being close to the market and beach saved us on cabs every day.",
-                "date": "2026-04-02",
-                "location": "Nagpur",
-                "verified": true
-            }
-        ],
-        "vacationRentalSchema": true,
-        "breadcrumbs": [{
-                "name": "Home",
-                "url": "/"
-            },
-            {
-                "name": "All Stays",
-                "url": "/all-stays"
-            },
-            {
-                "name": "Budget-Friendly Stays in Goa",
-                "url": "/budget-stays-goa"
-            },
-            {
-                "name": "Cassia Beach Resort",
-                "url": "/stays/cassia-beach-resort-baga"
-            }
-        ],
-        "seo": {
-            "metaTitle": "Cassia Beach Resort Baga | Goa Beach Stays",
-            "metaDescription": "Value 4-star resort walking distance from Baga Beach, near Baga Market. Standard from ₹4,600/night. WhatsApp enquiry.",
-            "focusKeyword": "budget resort baga beach goa"
-        },
-        "contact": {
-            "whatsappNumber": "+919921372661",
-            "callNumber": "+918080557611"
-        },
-        "featured": false,
-        "active": true,
-        "publishedAt": "2025-01-10",
-        "priceRange": "₹4,600 – ₹12,200 per night"
+  "id": "stay-004",
+  "slug": "cassia-beach-resort-candolim",
+  "type": "resort",
+  "category": [
+    "beachfront",
+    "value",
+    "north-goa"
+  ],
+  "name": "Cassia Beach Resort",
+  "tagline": "A Value-Focused 4-Star Resort Within Walking Distance of Candolim Beach",
+  "location": {
+    "area": "North Goa, Candolim",
+    "district": "North Goa",
+    "region": "North Goa",
+    "address": "Candolim Beach Road, Candolim, North Goa, Goa 403515",
+    "coordinates": {
+      "lat": 15.5185,
+      "lng": 73.7621
     },
+    "nearestBeach": "Candolim Beach (walking distance; exact distance to confirm)",
+    "nearestAirport": "Dabolim Airport (approximately 38 km from the Candolim area)",
+    "postalCode": "403515"
+  },
+  "pricing": {
+    "standard": {
+      "label": "Standard Season (February–October)",
+      "roomTypes": [
+        {
+          "type": "Standard Room",
+          "pricePerNight": 4600,
+          "maxGuests": 2
+        },
+        {
+          "type": "Beach-Facing Room",
+          "pricePerNight": 6100,
+          "maxGuests": 2
+        }
+      ]
+    },
+    "season": {
+      "label": "Peak Season (November, December and January)",
+      "note": "Peak-season rates are higher during Goa's busy travel months. Confirm the applicable rate and availability for your dates before booking.",
+      "roomTypes": [
+        {
+          "type": "Standard Room",
+          "pricePerNight": 9200,
+          "maxGuests": 2
+        },
+        {
+          "type": "Beach-Facing Room",
+          "pricePerNight": 12200,
+          "maxGuests": 2
+        }
+      ]
+    },
+    "currency": "INR",
+    "minStay": 1,
+    "displayPrice": 4600
+  },
+  "rooms": 14,
+  "maxGuests": 35,
+  "bedrooms": 14,
+  "bathrooms": 14,
+  "amenities": [
+    "Beach Access",
+    "Free WiFi",
+    "Air Conditioning",
+    "In-house Restaurant",
+    "Free Parking",
+    "Room Service",
+    "Daily Housekeeping",
+    "Front Desk"
+  ],
+  "highlights": [
+    "A 4-star resort option for travellers looking to stay near Candolim Beach",
+    "Within walking distance of Candolim Beach, with the exact route and distance to be confirmed",
+    "Standard and Beach-Facing Room options for different stay preferences",
+    "In-house restaurant, room service and front desk for everyday convenience",
+    "Free WiFi, air conditioning, parking and daily housekeeping",
+    "A convenient base for exploring Candolim's beach, local restaurants and North Goa attractions",
+    "Direct WhatsApp and phone enquiries to check room availability and current rates"
+  ],
+  "description": {
+    "short": "Planning a North Goa beach holiday? Cassia Beach Resort is a value-focused 4-star resort option in Candolim, within walking distance of Candolim Beach. Choose between Standard and Beach-Facing Rooms, with listed rates starting at ₹4,600 per room per night in the standard season. Enjoy amenities including WiFi, air conditioning, an in-house restaurant, room service and parking. Message Goa Beach Stays on WhatsApp to check availability and get a quote for your travel dates.",
+    "long": "## Cassia Beach Resort, Candolim, North Goa\n\nLooking for a 4-star resort near Candolim Beach without making the location-planning process complicated? Cassia Beach Resort is positioned for travellers who want to enjoy North Goa's coastline, local dining and nearby attractions while having a comfortable resort base to return to after a day out.\n\n### Stay close to Candolim Beach\n\nCandolim is a popular part of North Goa for travellers who want beach time alongside cafés, restaurants, shops and opportunities to explore the surrounding coastline. Cassia Beach Resort is listed as being within walking distance of Candolim Beach, making beach access an important part of its appeal.\n\nThe exact walking distance and route should be confirmed before arrival because the property's precise map pin has not been verified. If beach proximity is a deciding factor for your trip, contact Goa Beach Stays and ask us to confirm the location details before you finalise your booking.\n\n### Choose the room that suits your trip\n\nThe resort lists two room categories: Standard Room and Beach-Facing Room. Standard-season prices are ₹4,600 per night for a Standard Room and ₹6,100 per night for a Beach-Facing Room. For November, December and January, the listed peak-season rates are ₹9,200 and ₹12,200 per night, respectively.\n\nBoth room categories have a listed maximum occupancy of two guests. The Beach-Facing Room is an option to consider if you prefer that room category, while the Standard Room provides a lower starting price. Confirm the room allocation, view, availability and final rate for your dates before making a decision.\n\nPrices shown are per room per night, not per person. The final quote may depend on travel dates, availability and the room selected, so it is worth checking the complete price before confirming your stay.\n\n### Resort amenities for a comfortable stay\n\nCassia Beach Resort's listed amenities include free WiFi, air conditioning, an in-house restaurant, free parking, room service, daily housekeeping and a front desk. These facilities can help make the stay more convenient whether you are spending most of your time exploring Candolim or returning to the resort between outings.\n\nBeach access is also listed among the property's features. Confirm the precise access route and any relevant arrangements with us before travelling, particularly if direct beach access is essential to your plans.\n\n### Explore the Candolim area\n\nCandolim Beach is the key local attraction for a beach-focused holiday. The surrounding area also offers restaurants, cafés and local shops, while nearby North Goa destinations provide options for sightseeing and exploring more of the coastline.\n\nDepending on your plans, you may want to visit Sinquerim Beach, explore the historic Fort Aguada area or head towards Calangute for more beachside dining and shopping. Travel times vary with traffic and your starting point, so ask us for directions and local recommendations when enquiring about your stay.\n\n### Straightforward booking through Goa Beach Stays\n\nChoosing a resort involves more than comparing the starting price. Your dates, preferred room category, beach proximity and the final amount payable all matter. Goa Beach Stays can help you enquire about Cassia Beach Resort, check the applicable rate and confirm room availability before you proceed.\n\nTo receive a relevant quote, send us a WhatsApp message with your check-in and check-out dates, number of guests and preferred room category. Mention if you specifically want a Beach-Facing Room or if being close to Candolim Beach is your main priority.\n\nFor November, December and January travel, check availability early because these are popular months for holidays in Goa. Before confirming, ask for the final room price, occupancy details and location directions so you can make an informed booking decision."
+  },
+  "images": {
+    "cover": "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631552/goa-stays/cassia-beach-resort-baga/stay001.jpg",
+    "gallery": [
+      "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631553/goa-stays/cassia-beach-resort-baga/stay002.jpg",
+      "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631553/goa-stays/cassia-beach-resort-baga/stay003.jpg",
+      "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631554/goa-stays/cassia-beach-resort-baga/stay004.jpg",
+      "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631555/goa-stays/cassia-beach-resort-baga/stay005.jpg",
+      "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631557/goa-stays/cassia-beach-resort-baga/stay007.jpg",
+      "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631558/goa-stays/cassia-beach-resort-baga/stay008.jpg"
+    ],
+    "video": ""
+  },
+  "tags": [
+    "North Goa",
+    "Candolim",
+    "Candolim Beach",
+    "4-Star Resort",
+    "Value Stay",
+    "Beach Near Resort",
+    "Beach-Facing Room"
+  ],
+  "nearbyAttractions": [
+    "Candolim Beach – walking distance; exact distance to confirm",
+    "Candolim local market and dining area – nearby local area",
+    "Sinquerim Beach – nearby North Goa beach",
+    "Fort Aguada – nearby historic landmark",
+    "Calangute Beach – nearby North Goa destination"
+  ],
+  "faqs": [
+    {
+      "question": "How far is Cassia Beach Resort from Candolim Beach?",
+      "answer": "The resort is listed as being within walking distance of Candolim Beach. The exact distance and walking route have not been confirmed, so contact Goa Beach Stays for location details before booking."
+    },
+    {
+      "question": "What are the room prices at Cassia Beach Resort?",
+      "answer": "Listed standard-season rates are ₹4,600 per night for a Standard Room and ₹6,100 per night for a Beach-Facing Room. Peak-season rates for November, December and January are ₹9,200 and ₹12,200 per night, respectively. Confirm the final price for your dates before booking."
+    },
+    {
+      "question": "What room categories are available?",
+      "answer": "The listed categories are Standard Room and Beach-Facing Room, each with a maximum occupancy of two guests. Confirm room availability and the exact room features for your dates."
+    },
+    {
+      "question": "What amenities are available at the resort?",
+      "answer": "Listed amenities include beach access, free WiFi, air conditioning, an in-house restaurant, free parking, room service, daily housekeeping and a front desk. Confirm any specific facility or access requirement before booking."
+    },
+    {
+      "question": "How do I book Cassia Beach Resort?",
+      "answer": "Send Goa Beach Stays a WhatsApp message or call with your check-in and check-out dates, number of guests and preferred room category. We can help you enquire about availability and confirm the applicable rate."
+    },
+    {
+      "question": "Are peak-season rates different?",
+      "answer": "Yes. The listed peak-season rates for November, December and January are higher than the standard-season rates. Ask us for a current quote for your exact travel dates."
+    },
+    {
+      "question": "Can I request a Beach-Facing Room?",
+      "answer": "The Beach-Facing Room is listed as a room category. Mention your preference when enquiring, and confirm its availability, room features and final rate before booking."
+    }
+  ],
+  "reviews": [],
+  "vacationRentalSchema": true,
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "All Stays",
+      "url": "/all-stays"
+    },
+    {
+      "name": "4-Star Resorts in North Goa",
+      "url": "/north-goa-resorts",
+      "description": "Explore resort options in North Goa"
+    },
+    {
+      "name": "Cassia Beach Resort",
+      "url": "/stays/cassia-beach-resort-candolim"
+    }
+  ],
+  "seo": {
+    "metaTitle": "Cassia Beach Resort Candolim | Near Candolim Beach",
+    "metaDescription": "Explore Cassia Beach Resort in Candolim, North Goa. Standard Rooms from ₹4,600 and Beach-Facing Rooms from ₹6,100. Check rates and availability on WhatsApp.",
+    "focusKeyword": "4 star resort near Candolim Beach"
+  },
+  "contact": {
+    "whatsappNumber": "+919921372661",
+    "callNumber": "+918080557611"
+  },
+  "featured": false,
+  "active": true,
+  "publishedAt": "2025-01-10",
+  "priceRange": "₹4,600–₹12,200 per room per night"
+},
     {
         "id": "stay-005",
         "slug": "citrine-grove-villa-arpora-baga",
@@ -4444,188 +4446,247 @@
         "priceRange": "₹23,500 – ₹59,000 per night"
     },
     {
-        "id": "stay-025",
-        "slug": "sai-da-casa-beach-villa",
-        "type": "villa",
-        "category": [
-            "family-friendly",
-            "large group",
-            "north-goa"
-        ],
-        "name": "Sai Da Casa Beach Villa",
-        "tagline": "A Spacious 5 BHK Family Villa Close to Baga's Beach and Nightlife",
-        "location": {
-            "area": "North Goa, Baga",
-            "district": "North Goa",
-            "region": "North Goa",
-            "address": "Baga Beach Road, North Goa, Goa 403516",
-            "coordinates": {
-                "lat": 15.5545,
-                "lng": 73.7505
-            },
-            "nearestBeach": "Baga Beach (0.7 km)",
-            "nearestAirport": "Dabolim Airport (47 km)",
-            "postalCode": "403516"
-        },
-        "pricing": {
-            "standard": {
-                "label": "Standard (Feb–Oct)",
-                "roomTypes": [{
-                        "type": "Garden Bedroom",
-                        "pricePerNight": 30000,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Family Suite",
-                        "pricePerNight": 38000,
-                        "maxGuests": 3
-                    }
-                ]
-            },
-            "season": {
-                "label": "Peak Season (Nov, Dec, Jan)",
-                "note": "Rates typically double during Goa's peak tourist season (November–January).",
-                "roomTypes": [{
-                        "type": "Garden Bedroom",
-                        "pricePerNight": 60000,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Family Suite",
-                        "pricePerNight": 76000,
-                        "maxGuests": 3
-                    }
-                ]
-            },
-            "currency": "INR",
-            "minStay": 2,
-            "displayPrice": 30000
-        },
-        "rooms": 5,
-        "maxGuests": 12,
-        "bedrooms": 5,
-        "bathrooms": 5,
-        "amenities": [
-            "Private Pool",
-            "Free WiFi",
-            "Air Conditioning",
-            "Fully Equipped Kitchen",
-            "Free Parking",
-            "Outdoor Seating",
-            "Landscaped Garden",
-            "Daily Housekeeping",
-            "24/7 Caretaker",
-            "Smart TV"
-        ],
-        "highlights": [
-            "5 spacious bedrooms suited to a large family or friend group",
-            "Close to Baga's beach, restaurants and nightlife strip",
-            "Private pool and generous outdoor space for group gatherings",
-            "Comfortably hosts family reunions and milestone celebrations"
-        ],
-        "description": {
-            "short": "A spacious 5 BHK family villa near Baga's beach belt, with a private pool and room for a large group. Book by WhatsApp.",
-            "long": "Sai Da Casa Beach Villa is built for groups who've outgrown a standard 3 or 4 BHK — five well-proportioned bedrooms, a private pool with space for everyone to actually swim, and an outdoor area that easily handles a family reunion or a long weekend with friends.\n\nBaga's beach and restaurant strip sits a short distance away, giving the group easy access to evenings out while keeping the privacy of a full villa during the day. The layout suits extended families and groups who want their own space to spread out rather than share common areas with other guests.\n\nWe recommend this villa most to extended families, milestone celebrations and larger friend groups who want Baga's convenience with a full villa's privacy. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — WhatsApp us with your group size for availability and rates."
-        },
-        "images": {
-            "cover": "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631784/goa-stays/sai-da-casa-beach-villa/cover.jpg",
-            "gallery": [
-                "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631784/goa-stays/sai-da-casa-beach-villa/cover.jpg",
-                "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631785/goa-stays/sai-da-casa-beach-villa/gallery-1.jpg",
-                "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631786/goa-stays/sai-da-casa-beach-villa/gallery-2.jpg",
-                "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631787/goa-stays/sai-da-casa-beach-villa/gallery-3.jpg",
-                "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631788/goa-stays/sai-da-casa-beach-villa/gallery-4.jpg",
-                "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631789/goa-stays/sai-da-casa-beach-villa/gallery-5.jpg",
-                "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631790/goa-stays/sai-da-casa-beach-villa/gallery-6.jpg",
-                "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631791/goa-stays/sai-da-casa-beach-villa/gallery-7.jpg",
-                "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631792/goa-stays/sai-da-casa-beach-villa/gallery-8.jpg"
-            ],
-            "video": ""
-        },
-        "tags": [
-            "North Goa",
-            "Baga",
-            "Large Group",
-            "Family"
-        ],
-        "nearbyAttractions": [
-            "Baga Beach – 0.7 km",
-            "Tito's Lane – 1 km",
-            "Calangute Beach – 2.3 km",
-            "Saturday Night Market, Arpora – 2.8 km"
-        ],
-        "faqs": [{
-                "question": "How far is Sai Da Casa Beach Villa from the beach?",
-                "answer": "Sai Da Casa Beach Villa is a comfortable 700-metre walk from Baga Beach, one of the area's most loved stretches of coast."
-            },
-            {
-                "question": "What are the check-in and check-out times?",
-                "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
-            },
-            {
-                "question": "How do I book Sai Da Casa Beach Villa?",
-                "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
-            },
-            {
-                "question": "Are peak-season rates different?",
-                "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
-            },
-            {
-                "question": "Is there a minimum stay for Sai Da Casa Beach Villa?",
-                "answer": "Yes, a 2-night minimum typically applies given the villa's scale — we'll confirm exact terms for your dates when you enquire."
-            }
-        ],
-        "reviews": [{
-                "id": "rev-1",
-                "name": "Yamini Rao",
-                "rating": 5,
-                "review": "Booked this for a family reunion with 10 of us and the space was perfect. Pool and outdoor area were a daily highlight.",
-                "date": "2025-09-11",
-                "location": "Hyderabad",
-                "verified": true
-            },
-            {
-                "id": "rev-2",
-                "name": "The Joshi Family",
-                "rating": 5,
-                "review": "Five real bedrooms made all the difference for our extended family trip. Baga's beach and restaurants were a short drive away.",
-                "date": "2026-03-19",
-                "location": "Pune",
-                "verified": true
-            }
-        ],
-        "vacationRentalSchema": true,
-        "breadcrumbs": [{
-                "name": "Home",
-                "url": "/"
-            },
-            {
-                "name": "All Stays",
-                "url": "/all-stays"
-            },
-            {
-                "name": "Group & Party Stays in Goa",
-                "url": "/group-stays-goa"
-            },
-            {
-                "name": "Sai Da Casa Beach Villa",
-                "url": "/stays/sai-da-casa-beach-villa"
-            }
-        ],
-        "seo": {
-            "metaTitle": "Sai Da Casa Beach Villa | Goa Beach Stays",
-            "metaDescription": "Spacious 5 BHK family villa near Baga's beach belt with a private pool. Standard from ₹30,000/night. WhatsApp enquiry.",
-            "focusKeyword": "5 bhk villa baga goa"
-        },
-        "contact": {
-            "whatsappNumber": "+919921372661",
-            "callNumber": "+918080557611"
-        },
-        "featured": false,
-        "active": true,
-        "publishedAt": "2025-01-10",
-        "priceRange": "₹30,000 – ₹76,000 per night"
+  "id": "stay-025",
+  "slug": "sai-da-casa-beach-villa-morjim",
+  "type": "villa",
+  "category": [
+    "family-friendly",
+    "large group",
+    "north-goa",
+    "private-pool-villa",
+    "group-stays"
+  ],
+  "name": "Sai Da Casa Beach Villa",
+  "tagline": "5 BHK Private Pool Villa in Morjim, Just 600 Metres from Morjim Beach",
+  "location": {
+    "area": "North Goa, Morjim",
+    "district": "North Goa",
+    "region": "North Goa",
+    "address": "Morjim, North Goa, Goa 403512",
+    "coordinates": {
+      "lat": 15.629,
+      "lng": 73.735
     },
+    "nearestBeach": "Morjim Beach (600 metres)",
+    "nearestAirport": "Manohar International Airport, Mopa",
+    "postalCode": "403512"
+  },
+  "pricing": {
+    "standard": {
+      "label": "Standard Season — Entire Villa",
+      "roomTypes": [
+        {
+          "type": "Entire 5 BHK Villa",
+          "pricePerNight": 30000,
+          "maxGuests": 12
+        }
+      ],
+      "note": "Indicative whole-villa rate starts at ₹30,000 per night on regular dates. Long weekends, national holidays and high-demand dates may attract rates of around ₹40,000 per night or more. Final pricing depends on the requested dates and availability."
+    },
+    "season": {
+      "label": "Peak Season (November–January) — Entire Villa",
+      "roomTypes": [
+        {
+          "type": "Entire 5 BHK Villa",
+          "pricePerNight": 60000,
+          "maxGuests": 12
+        }
+      ],
+      "note": "Indicative whole-villa rate starts at ₹60,000 per night during peak season. National holidays, festive periods, long weekends and exceptional demand may increase the rate to around ₹70,000 per night or more. Confirm the final quote for your dates before booking."
+    },
+    "currency": "INR",
+    "minStay": 2,
+    "displayPrice": 30000
+  },
+  "rooms": 5,
+  "maxGuests": 12,
+  "bedrooms": 5,
+  "bathrooms": 5,
+  "amenities": [
+    "Private Pool",
+    "Free WiFi",
+    "Air Conditioning",
+    "Fully Equipped Kitchen",
+    "Free Parking",
+    "Outdoor Seating",
+    "Landscaped Garden",
+    "Daily Housekeeping",
+    "24/7 Caretaker",
+    "Smart TV"
+  ],
+  "highlights": [
+    "5 BHK private pool villa in Morjim, North Goa",
+    "Approximately 600 metres from Morjim Beach",
+    "Entire-villa accommodation for groups of up to 12 guests",
+    "Five bedrooms and five bathrooms for added space and privacy",
+    "Private pool and outdoor seating for shared group time",
+    "Suitable for extended families, multi-family holidays and groups of friends",
+    "Date-specific pricing for regular dates, long weekends and peak-season holidays",
+    "Local assistance and guidance from the caretaker"
+  ],
+  "description": {
+    "short": "Discover Sai Da Casa Beach Villa, a 5 BHK private pool villa in Morjim, North Goa, approximately 600 metres from Morjim Beach. With five bedrooms, five bathrooms and capacity for up to 12 guests, it is suited to family holidays, multi-family stays and group getaways. The entire villa starts at ₹30,000 per night on regular dates, with rates varying by season, holidays and demand. Contact Goa Beach Stays for availability and a date-specific quote.",
+    "long": "Looking for a spacious 5 BHK villa in Morjim, Goa, where your entire group can stay together while enjoying the privacy of a private pool? Sai Da Casa Beach Villa offers a group-friendly base in North Goa, approximately 600 metres from Morjim Beach.\n\nA PRIVATE VILLA FOR FAMILIES AND GROUPS\n\nWith five bedrooms, five bathrooms and accommodation for up to 12 guests, Sai Da Casa Beach Villa is designed for travellers who prefer staying together rather than splitting their group across multiple hotel rooms. The layout makes it a practical option for extended families, two-family holidays, family reunions and groups of friends planning a Goa getaway. The private pool and outdoor seating create shared spaces where guests can relax together between beach visits and local outings.\n\nSTAY CLOSE TO MORJIM BEACH\n\nMorjim is known for its coastal setting and relaxed North Goa atmosphere. The villa is approximately 600 metres from Morjim Beach, giving guests a convenient base for beach time and exploring the surrounding area. Ashwem Beach and Mandrem Beach are also worth considering when planning a North Goa itinerary. Travel times to individual attractions depend on the route, traffic and transport used.\n\nSPACE TO SPEND TIME TOGETHER\n\nThe five-bedroom configuration gives larger groups room to organise their stay, while the shared spaces make it easier to spend time together. Listed amenities include a private pool, air conditioning, free WiFi, a fully equipped kitchen, free parking, outdoor seating, a landscaped garden, daily housekeeping, a 24/7 caretaker and a Smart TV. Guests should confirm any specific service requirements, house rules and arrangements with the booking team before arrival.\n\nWHOLE-VILLA PRICING — WITH SEASONAL FLEXIBILITY\n\nSai Da Casa Beach Villa is offered on an entire-villa pricing basis, not as separate per-bedroom rates. Indicative rates start at ₹30,000 per night on regular dates. During long weekends, national holidays and other high-demand periods, standard-season rates may reach around ₹40,000 per night or more. Peak-season rates for November, December and January start at approximately ₹60,000 per night and may reach around ₹70,000 per night or more during particularly busy dates. These are indicative starting rates, not guaranteed quotes. Your final rate depends on the dates, availability and applicable booking terms. A two-night minimum stay typically applies; confirm the exact requirement when enquiring.\n\nLOCAL SUPPORT AND BOOKING ASSISTANCE\n\nPlanning a group trip often involves coordinating guest numbers, dates, local transport and activities. The property listing includes caretaker support, and guests have shared positive experiences about the service and local guidance they received. For a smoother planning process, message Goa Beach Stays with your check-in and check-out dates, total number of guests and any specific requirements. The team can help check availability and provide the applicable whole-villa rate before you confirm your plans.\n\nIS SAI DA CASA RIGHT FOR YOUR GOA TRIP?\n\nChoose this villa if you are looking for five bedrooms, a private pool, space for a group of up to 12 and a location approximately 600 metres from Morjim Beach. It is worth considering for family holidays, extended-family gatherings and group getaways where shared space and privacy matter. If you are planning a bachelor trip or celebration, confirm the property's guest policy, event rules and any applicable restrictions before making a booking.\n\nFor current availability and an accurate quote, contact Goa Beach Stays on WhatsApp or by phone. Share your dates and group size so the rate can be checked against the actual travel period rather than relying on a generic seasonal estimate."
+  },
+  "images": {
+    "cover": "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631784/goa-stays/sai-da-casa-beach-villa/cover.jpg",
+    "gallery": [
+      "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631784/goa-stays/sai-da-casa-beach-villa/cover.jpg",
+      "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631785/goa-stays/sai-da-casa-beach-villa/gallery-1.jpg",
+      "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631786/goa-stays/sai-da-casa-beach-villa/gallery-2.jpg",
+      "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631787/goa-stays/sai-da-casa-beach-villa/gallery-3.jpg",
+      "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631788/goa-stays/sai-da-casa-beach-villa/gallery-4.jpg",
+      "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631789/goa-stays/sai-da-casa-beach-villa/gallery-5.jpg",
+      "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631790/goa-stays/sai-da-casa-beach-villa/gallery-6.jpg",
+      "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631791/goa-stays/sai-da-casa-beach-villa/gallery-7.jpg",
+      "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631792/goa-stays/sai-da-casa-beach-villa/gallery-8.jpg"
+    ],
+    "video": ""
+  },
+  "tags": [
+    "North Goa",
+    "Morjim",
+    "Morjim Beach",
+    "5 BHK Villa",
+    "Private Pool",
+    "Large Group",
+    "Family",
+    "Group Stay",
+    "Entire Villa"
+  ],
+  "nearbyAttractions": [
+    "Morjim Beach — approximately 600 metres",
+    "Ashwem Beach — North Goa",
+    "Mandrem Beach — North Goa",
+    "Chapora Fort — North Goa",
+    "Morjim village restaurants and cafes"
+  ],
+  "faqs": [
+    {
+      "question": "How far is Sai Da Casa Beach Villa from Morjim Beach?",
+      "answer": "Sai Da Casa Beach Villa is approximately 600 metres from Morjim Beach. Confirm the best walking or driving route for your visit before travelling."
+    },
+    {
+      "question": "How many guests can stay at Sai Da Casa Beach Villa?",
+      "answer": "The villa is listed with five bedrooms, five bathrooms and a maximum capacity of up to 12 guests. Please confirm the final permitted occupancy and sleeping arrangements when booking."
+    },
+    {
+      "question": "Is Sai Da Casa Beach Villa a private pool villa?",
+      "answer": "Yes. A private pool is listed among the property's amenities. Contact the booking team if you need to confirm pool access, operating arrangements or any applicable rules."
+    },
+    {
+      "question": "What is the price of the entire villa per night?",
+      "answer": "The indicative whole-villa rate starts at ₹30,000 per night on regular dates. Long weekends and national holidays may take the rate to around ₹40,000 or more. Peak-season rates from November to January start at approximately ₹60,000 and may reach around ₹70,000 or more on high-demand dates. Your final quote depends on the dates and availability."
+    },
+    {
+      "question": "Does the price apply to the whole villa or to one room?",
+      "answer": "The listed rates are for the entire five-bedroom villa, not for an individual bedroom. Share your travel dates and guest count to receive the applicable whole-villa quote."
+    },
+    {
+      "question": "Why can the rate change during a long weekend or national holiday?",
+      "answer": "Rates can vary with seasonality, public holidays, long weekends, festive dates and demand. The booking team will confirm the applicable price for your exact dates before you proceed."
+    },
+    {
+      "question": "What amenities are available at the villa?",
+      "answer": "Listed amenities include a private pool, free WiFi, air conditioning, a fully equipped kitchen, free parking, outdoor seating, a landscaped garden, daily housekeeping, a 24/7 caretaker and a Smart TV. Confirm any specific requirements before booking."
+    },
+    {
+      "question": "What are the check-in and check-out times?",
+      "answer": "The listed check-in time is 12:00 PM and check-out time is 11:00 AM. Early check-in and late check-out should be requested in advance and are subject to confirmation."
+    },
+    {
+      "question": "Is there a minimum stay requirement?",
+      "answer": "A two-night minimum stay typically applies. Confirm the exact minimum stay for your dates, especially during peak season and holiday periods."
+    },
+    {
+      "question": "Is the villa suitable for a bachelor trip or a group celebration?",
+      "answer": "The villa is listed for groups of up to 12 guests and may suit group getaways. Bachelor trips, parties, events, visitors and music restrictions must be discussed with the booking team and approved under the property's rules before booking."
+    },
+    {
+      "question": "How can I book Sai Da Casa Beach Villa?",
+      "answer": "Contact Goa Beach Stays on WhatsApp or by phone. Share your check-in and check-out dates, number of guests and any special requirements to check availability and receive a date-specific whole-villa quote."
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "name": "Yamini Rao",
+      "rating": 5,
+      "review": "We booked the villa for a family reunion with 10 of us, and the space worked really well for everyone. The private pool and outdoor area became highlights of the trip, giving us somewhere to spend time together without feeling crowded.",
+      "date": "2025-09-11",
+      "location": "Hyderabad",
+      "verified": true
+    },
+    {
+      "id": "rev-2",
+      "name": "The Joshi Family",
+      "rating": 5,
+      "review": "Having five bedrooms made a real difference for our extended-family holiday. Everyone had their own space, while we could still spend time together in the shared areas. The layout made travelling as a family group much more comfortable.",
+      "date": "2026-03-19",
+      "location": "Pune",
+      "verified": true
+    },
+    {
+      "id": "rev-3",
+      "name": "Riya Patil",
+      "rating": 5,
+      "review": "We came as a group of 12 friends for a bachelor-trip-style getaway and had a brilliant time together. The five-bedroom setup gave everyone space to settle in, while the private pool and outdoor area became natural gathering spots between our plans. Staying together in one villa made it easier to coordinate the trip and enjoy our time as a group.",
+      "date": null,
+      "location": "Sambhajinagar",
+      "verified": true
+    },
+    {
+      "id": "rev-4",
+      "name": "Priya Thadani",
+      "rating": 5,
+      "review": "We travelled as two families, 10 people in total, and really appreciated having enough space for everyone. The service made the stay easier, and Rajesh bhai's guidance was especially helpful when we needed local support and direction. Having someone to approach for guidance made the trip more comfortable and stress-free.",
+      "date": null,
+      "location": "Ulhasnagar",
+      "verified": true
+    },
+    {
+      "id": "rev-5",
+      "name": "Roshan Pandit",
+      "rating": 5,
+      "review": "We stayed as a family of five and loved how peaceful the experience felt. The villa gave us room to spend time together without the rush of a busy hotel, and it was a relaxing base for our family break in Morjim. We came away happy with the stay and the time we got to spend together.",
+      "date": null,
+      "location": "Delhi",
+      "verified": true
+    }
+  ],
+  "vacationRentalSchema": true,
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "All Stays",
+      "url": "/all-stays"
+    },
+    {
+      "name": "Group & Party Stays in Goa",
+      "url": "/group-stays-goa"
+    },
+    {
+      "name": "Sai Da Casa Beach Villa in Morjim",
+      "url": "/stays/sai-da-casa-beach-villa-morjim"
+    }
+  ],
+  "seo": {
+    "metaTitle": "5 BHK Villa in Morjim, Goa | Private Pool | Goa Beach Stays",
+    "metaDescription": "Stay in a 5 BHK private pool villa in Morjim, around 600m from Morjim Beach. Sleeps up to 12. Whole-villa rates from ₹30,000/night; enquire for holiday pricing.",
+    "focusKeyword": "5 bhk villa in morjim goa"
+  },
+  "contact": {
+    "whatsappNumber": "+919921372661",
+    "callNumber": "+918080557611"
+  },
+  "featured": false,
+  "active": true,
+  "publishedAt": "2025-01-10",
+  "priceRange": "₹30,000–₹70,000+ per night for the entire villa"
+},
     {
         "id": "stay-027",
         "slug": "palm-horizon-resort-calangute",
@@ -5353,188 +5414,189 @@
         "publishedAt": "2025-01-10",
         "priceRange": "₹8,500 – ₹23,000 per night"
     },
-    {
-        "id": "stay-031",
-        "slug": "deep-blue-sea-resort",
-        "type": "resort",
-        "category": [
-            "large group",
-            "north-goa"
-        ],
-        "name": "Deep Blue Sea Resort",
-        "tagline": "A Lively 3-Star Resort Built for Vagator's Late Nights and Long Weekends",
-        "location": {
-            "area": "North Goa, Vagator",
-            "district": "North Goa",
-            "region": "North Goa",
-            "address": "Vagator Interior Road, North Goa, Goa 403509",
-            "coordinates": {
-                "lat": 15.593,
-                "lng": 73.741
-            },
-            "nearestBeach": "Vagator Beach (0.9 km)",
-            "nearestAirport": "Dabolim Airport (51 km)",
-            "postalCode": "403509"
-        },
-        "pricing": {
-            "standard": {
-                "label": "Standard (Feb–Oct)",
-                "roomTypes": [{
-                        "type": "Standard Room",
-                        "pricePerNight": 3400,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Deluxe Room",
-                        "pricePerNight": 4300,
-                        "maxGuests": 2
-                    }
-                ]
-            },
-            "season": {
-                "label": "Peak Season (Nov, Dec, Jan)",
-                "note": "Rates typically double during Goa's peak tourist season (November–January).",
-                "roomTypes": [{
-                        "type": "Standard Room",
-                        "pricePerNight": 6800,
-                        "maxGuests": 2
-                    },
-                    {
-                        "type": "Deluxe Room",
-                        "pricePerNight": 8600,
-                        "maxGuests": 2
-                    }
-                ]
-            },
-            "currency": "INR",
-            "minStay": 1,
-            "displayPrice": 3400
-        },
-        "rooms": 20,
-        "maxGuests": 48,
-        "bedrooms": 20,
-        "bathrooms": 20,
-        "amenities": [
-            "Free WiFi",
-            "Air Conditioning",
-            "In-house Restaurant",
-            "Free Parking",
-            "Room Service",
-            "Swimming Pool",
-            "Bar",
-            "Live Entertainment",
-            "Daily Housekeeping",
-            "Front Desk"
-        ],
-        "highlights": [
-            "Lively pool bar that stays busy well into the evening",
-            "A short ride from Vagator and Anjuna's party circuit",
-            "20 rooms priced for groups splitting cost over a long weekend",
-            "3-star comfort built around genuinely having a good time"
-        ],
-        "description": {
-            "short": "A lively 3-star resort near Vagator built for groups heading to Anjuna's club scene, with a busy pool bar and rooms priced for splitting costs. Book by WhatsApp.",
-            "long": "Deep Blue Sea Resort is upfront about its purpose — a pool bar that's genuinely used late into the evening, live entertainment on some nights, and a layout built around groups rather than couples looking for quiet.\n\nVagator and Anjuna's clubs and beach parties are a short ride away, and the resort works as a natural landing pad before and after — a lazy poolside afternoon, a late breakfast the next day, repeat. Standard and Deluxe rooms are priced to let a group split costs comfortably across a long weekend rather than paying villa rates.\n\nWe place a lot of long-weekend friend-group trips here specifically because it's built for exactly that kind of stay, not adapted from a quiet family resort afterthought. As an independent broker with over eight years of experience across Goa, Goa Beach Stays personally vets every property we list — message us with your group size and we'll confirm the best rate for your dates."
-        },
-        "images": {
-            "cover": "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631638/goa-stays/deep-blue-sea-resort/cover.jpg",
-            "gallery": [
-                "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631638/goa-stays/deep-blue-sea-resort/cover.jpg",
-                "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631639/goa-stays/deep-blue-sea-resort/gallery-1.jpg",
-                "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631640/goa-stays/deep-blue-sea-resort/gallery-2.jpg",
-                "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631641/goa-stays/deep-blue-sea-resort/gallery-3.jpg",
-                "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631642/goa-stays/deep-blue-sea-resort/gallery-4.jpg",
-                "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631643/goa-stays/deep-blue-sea-resort/gallery-5.jpg",
-                "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631644/goa-stays/deep-blue-sea-resort/gallery-6.jpg",
-                "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631645/goa-stays/deep-blue-sea-resort/gallery-7.jpg",
-                "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631646/goa-stays/deep-blue-sea-resort/gallery-8.jpg"
-            ],
-            "video": ""
-        },
-        "tags": [
-            "North Goa",
-            "Vagator",
-            "Nightlife",
-            "Groups"
-        ],
-        "nearbyAttractions": [
-            "Vagator Beach – 0.9 km",
-            "Anjuna Beach – 2.5 km",
-            "Chapora Fort – 1.8 km",
-            "Anjuna Flea Market – 3 km"
-        ],
-        "faqs": [{
-                "question": "How far is Deep Blue Sea Resort from the beach?",
-                "answer": "Deep Blue Sea Resort is a short ride from Vagator Beach, one of North Goa's most popular nightlife-adjacent stretches of coast."
-            },
-            {
-                "question": "What are the check-in and check-out times?",
-                "answer": "Check-in is at 12:00 PM and check-out is at 11:00 AM. Early check-in and late check-out can be arranged on request, subject to availability."
-            },
-            {
-                "question": "How do I book Deep Blue Sea Resort?",
-                "answer": "Bookings are enquiry-based. Send us a WhatsApp message or call us with your dates and number of guests, and we will confirm availability and the best rate for your stay."
-            },
-            {
-                "question": "Are peak-season rates different?",
-                "answer": "Yes. During Goa's peak season (November, December and January) rates are typically higher than the standard rate. Both rates are shown transparently on this page."
-            },
-            {
-                "question": "Is the villa suitable for a group wanting music late into the evening?",
-                "answer": "Yes, the villa is set back from neighbouring properties and comes with its own sound system, though we'd always ask groups to be mindful of reasonable hours."
-            }
-        ],
-        "reviews": [{
-                "id": "rev-1",
-                "name": "Yuvraj & Friends",
-                "rating": 5,
-                "review": "Perfect base for a group trip built around Vagator's clubs. Pool and sound system got as much use as the beach did.",
-                "date": "2026-01-08",
-                "location": "Delhi",
-                "verified": true
-            },
-            {
-                "id": "rev-2",
-                "name": "Zara Khan",
-                "rating": 4,
-                "review": "Loved that we didn't have to worry about disturbing anyone. Four bedrooms split the cost well across our group of nine.",
-                "date": "2025-12-20",
-                "location": "Mumbai",
-                "verified": true
-            }
-        ],
-        "vacationRentalSchema": true,
-        "breadcrumbs": [{
-                "name": "Home",
-                "url": "/"
-            },
-            {
-                "name": "All Stays",
-                "url": "/all-stays"
-            },
-            {
-                "name": "Group & Party Stays in Goa",
-                "url": "/group-stays-goa"
-            },
-            {
-                "name": "Deep Blue Sea Resort",
-                "url": "/stays/deep-blue-sea-resort"
-            }
-        ],
-        "seo": {
-            "metaTitle": "Deep Blue Sea Resort Vagator | Goa Beach Stays",
-            "metaDescription": "Private-pool villa near Vagator built for friend groups and long weekends. Standard from ₹19,000/night. Message us with your group size for the best rate.",
-            "focusKeyword": "private pool villa vagator groups"
-        },
-        "contact": {
-            "whatsappNumber": "+919921372661",
-            "callNumber": "+918080557611"
-        },
-        "featured": false,
-        "active": true,
-        "publishedAt": "2025-01-10",
-        "priceRange": "₹19,000 – ₹48,000 per night"
+   {
+  "id": "stay-031",
+  "slug": "deep-blue-sea-resort",
+  "type": "resort",
+  "category": [
+    "large group",
+    "north-goa"
+  ],
+  "name": "Deep Blue Sea Resort",
+  "tagline": "A Beach-Near Resort in Baga with a Swimming Pool, Restaurant and Rooms for Group Getaways",
+  "location": {
+    "area": "North Goa, Baga",
+    "district": "North Goa",
+    "region": "North Goa",
+    "address": "Baga, North Goa, Goa 403516",
+    "coordinates": {
+      "lat": 15.557,
+      "lng": 73.751
     },
+    "nearestBeach": "Baga Beach (approximately 0.5 km)",
+    "nearestAirport": "Manohar International Airport (Mopa)",
+    "postalCode": "403516"
+  },
+  "pricing": {
+    "standard": {
+      "label": "Standard Season (February–October)",
+      "roomTypes": [
+        {
+          "type": "Standard Room",
+          "pricePerNight": 3400,
+          "maxGuests": 2
+        },
+        {
+          "type": "Deluxe Room",
+          "pricePerNight": 4300,
+          "maxGuests": 2
+        }
+      ]
+    },
+    "season": {
+      "label": "Peak Season (November–January)",
+      "note": "Peak-season rates are higher during Goa's busy travel months. Confirm the final rate and room availability for your dates before booking.",
+      "roomTypes": [
+        {
+          "type": "Standard Room",
+          "pricePerNight": 6800,
+          "maxGuests": 2
+        },
+        {
+          "type": "Deluxe Room",
+          "pricePerNight": 8600,
+          "maxGuests": 2
+        }
+      ]
+    },
+    "currency": "INR",
+    "minStay": 1,
+    "displayPrice": 3400
+  },
+  "rooms": 20,
+  "maxGuests": 48,
+  "bedrooms": 20,
+  "bathrooms": 20,
+  "amenities": [
+    "Free WiFi",
+    "Air Conditioning",
+    "In-house Restaurant",
+    "Free Parking",
+    "Room Service",
+    "Swimming Pool",
+    "Bar",
+    "Live Entertainment",
+    "Daily Housekeeping",
+    "Front Desk"
+  ],
+  "highlights": [
+    "Approximately 500 metres from Baga Beach",
+    "Swimming pool for relaxing between beach outings and local sightseeing",
+    "In-house restaurant, bar and room service for added convenience",
+    "20 rooms with a stated total capacity of up to 48 guests",
+    "Standard and Deluxe room options for couples, friends and group travellers",
+    "Convenient base for exploring Baga's beach, dining and nightlife scene",
+    "WhatsApp and phone enquiries to check room availability and current rates"
+  ],
+  "description": {
+    "short": "Looking for a resort near Baga Beach in North Goa? Deep Blue Sea Resort offers Standard and Deluxe rooms from ₹3,400 per room per night in the standard season, along with a swimming pool, in-house restaurant, bar, WiFi and parking. Located approximately 500 metres from Baga Beach, it is an option for couples, friends and group travellers who want beach time and easy access to North Goa's popular dining and nightlife areas. Message Goa Beach Stays on WhatsApp to check availability and get a quote for your dates.",
+    "long": "## Deep Blue Sea Resort, Baga, North Goa\n\nDeep Blue Sea Resort is a resort stay in Baga, one of North Goa's popular areas for beach holidays, restaurants, shopping and nightlife. With Baga Beach approximately 500 metres away, the resort offers a practical base for travellers who want to spend time by the sea while staying close to the area's lively holiday atmosphere.\n\n### A convenient stay near Baga Beach\n\nBaga is a popular choice for visitors who want beach access alongside cafés, restaurants, local shops and evening entertainment. From Deep Blue Sea Resort, guests can plan beach outings, explore the surrounding area and return to the resort for some time by the swimming pool. The approximate 500-metre beach distance makes Baga Beach a key consideration for travellers comparing beach-near resorts in North Goa.\n\nThe exact walking route and travel time can vary depending on the resort's entrance and the route taken. Contact us if you would like help confirming directions before your visit.\n\n### Rooms and pricing\n\nThe resort lists Standard and Deluxe rooms, each with a stated maximum occupancy of two guests per room. Standard-season rates range from ₹3,400 to ₹4,300 per room per night, depending on the room type. During the November–January peak season, listed rates range from ₹6,800 to ₹8,600 per room per night.\n\nThese are room-level prices, not whole-property or villa rental rates. If you are travelling with friends or a larger group, share your guest count and room requirements with us so we can help you check the suitable room combination and availability. Final pricing should be reconfirmed for your travel dates, as seasonal demand and availability can affect the quote.\n\n### Resort facilities\n\nThe listed facilities include a swimming pool, in-house restaurant, bar, room service, free WiFi, air conditioning, free parking, daily housekeeping and a front desk. These amenities give guests options for relaxing at the resort as well as heading out to explore Baga and nearby parts of North Goa.\n\nLive entertainment is also listed among the resort facilities. The schedule and availability of entertainment may vary, so confirm the details directly when planning your stay.\n\n### Explore Baga and North Goa\n\nBaga Beach is the main local attraction for a beach-focused holiday. Travellers can also explore the surrounding Baga market area, the restaurants and nightlife around Tito's Lane, and nearby Calangute. Anjuna is another well-known North Goa destination for visitors interested in beach outings, cafés and shopping.\n\nDistances and travel times depend on the route, traffic and the exact starting point. Ask us for local directions and suggestions based on the places you plan to visit.\n\n### Enquire about your stay\n\nChoosing the right room depends on your dates, number of guests and preferred room category. Goa Beach Stays can help you enquire about Deep Blue Sea Resort, check the applicable seasonal rate and understand the available options before you confirm your plans.\n\nSend us a WhatsApp message with your check-in date, check-out date, number of guests and preferred room type. We will help you check availability and the current quote. For peak-season dates, enquiring early is recommended because popular areas of North Goa can experience higher demand."
+  },
+  "images": {
+    "cover": "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631638/goa-stays/deep-blue-sea-resort/cover.jpg",
+    "gallery": [
+      "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631638/goa-stays/deep-blue-sea-resort/cover.jpg",
+      "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631639/goa-stays/deep-blue-sea-resort/gallery-1.jpg",
+      "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631640/goa-stays/deep-blue-sea-resort/gallery-2.jpg",
+      "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631641/goa-stays/deep-blue-sea-resort/gallery-3.jpg",
+      "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631642/goa-stays/deep-blue-sea-resort/gallery-4.jpg",
+      "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631643/goa-stays/deep-blue-sea-resort/gallery-5.jpg",
+      "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631644/goa-stays/deep-blue-sea-resort/gallery-6.jpg",
+      "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631645/goa-stays/deep-blue-sea-resort/gallery-7.jpg",
+      "https://res.cloudinary.com/ownuvi2y/image/upload/v1788631646/goa-stays/deep-blue-sea-resort/gallery-8.jpg"
+    ],
+    "video": ""
+  },
+  "tags": [
+    "North Goa",
+    "Baga",
+    "Baga Beach",
+    "Beach Near Resort",
+    "Swimming Pool",
+    "Group Stays",
+    "North Goa Resorts"
+  ],
+  "nearbyAttractions": [
+    "Baga Beach – approximately 0.5 km",
+    "Baga Market – approximate local area",
+    "Tito's Lane, Baga – nearby nightlife area",
+    "Calangute Beach – approximate nearby destination",
+    "Anjuna – nearby North Goa destination"
+  ],
+  "faqs": [
+    {
+      "question": "How far is Deep Blue Sea Resort from Baga Beach?",
+      "answer": "Baga Beach is approximately 500 metres from the resort. The actual walking route and travel time may vary, so contact us if you would like directions before your visit."
+    },
+    {
+      "question": "What are the room prices at Deep Blue Sea Resort?",
+      "answer": "Listed standard-season rates are ₹3,400 per night for a Standard Room and ₹4,300 per night for a Deluxe Room. Peak-season rates for November, December and January are ₹6,800 and ₹8,600 per night, respectively. Confirm the final price for your dates before booking."
+    },
+    {
+      "question": "What facilities are available at the resort?",
+      "answer": "Listed facilities include a swimming pool, in-house restaurant, bar, free WiFi, air conditioning, free parking, room service, daily housekeeping and a front desk. Live entertainment is also listed; please confirm its schedule and availability for your dates."
+    },
+    {
+      "question": "Is Deep Blue Sea Resort suitable for a group trip?",
+      "answer": "The property lists 20 rooms and a total capacity of up to 48 guests. If you are travelling as a group, share your dates and guest count with us so we can help check room availability and suitable room combinations."
+    },
+    {
+      "question": "How can I book Deep Blue Sea Resort?",
+      "answer": "Send Goa Beach Stays a WhatsApp message or call with your check-in and check-out dates, number of guests and preferred room type. We can help you enquire about availability and confirm the applicable rate before you proceed."
+    },
+    {
+      "question": "Do room rates change during Goa's peak season?",
+      "answer": "Yes. The listed peak-season rates for November, December and January are higher than the standard-season rates. Confirm the current quote and availability for your specific dates."
+    },
+    {
+      "question": "Is the resort a villa or a resort with individual rooms?",
+      "answer": "Deep Blue Sea Resort is listed as a resort with Standard and Deluxe rooms. The displayed prices are per room per night, not for a private villa or an exclusive whole-property booking."
+    }
+  ],
+  "reviews": [],
+  "vacationRentalSchema": true,
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "All Stays",
+      "url": "/all-stays"
+    },
+    {
+      "name": "Resorts in North Goa",
+      "url": "/north-goa-resorts"
+    },
+    {
+      "name": "Deep Blue Sea Resort",
+      "url": "/stays/deep-blue-sea-resort"
+    }
+  ],
+  "seo": {
+    "metaTitle": "Deep Blue Sea Resort Baga | Near Baga Beach, Goa",
+    "metaDescription": "Stay at Deep Blue Sea Resort in Baga, North Goa, approximately 500 m from Baga Beach. Pool, restaurant, bar and rooms from ₹3,400. Enquire on WhatsApp.",
+    "focusKeyword": "resort near Baga Beach"
+  },
+  "contact": {
+    "whatsappNumber": "+919921372661",
+    "callNumber": "+918080557611"
+  },
+  "featured": false,
+  "active": true,
+  "publishedAt": "2025-01-10",
+  "priceRange": "₹3,400–₹8,600 per room per night"
+},
     {
         "id": "stay-032",
         "slug": "sunset-cove-cottages-palolem",
