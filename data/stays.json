@@ -947,7 +947,7 @@
             "luxury",
             "beachfront",
             "family-friendly",
-            "large-group",
+            "large group",
             "north-goa"
         ],
         "name": "Casa Luma Villa",
@@ -3712,7 +3712,7 @@
         "type": "villa",
         "category": [
             "luxury",
-            "private-pool",
+            "private pool",
             "family-friendly",
             "beach-view",
             "north-goa"
@@ -4453,8 +4453,7 @@
     "family-friendly",
     "large group",
     "north-goa",
-    "private-pool-villa",
-    "group-stays"
+    "private pool"
   ],
   "name": "Sai Da Casa Beach Villa",
   "tagline": "5 BHK Private Pool Villa in Morjim, Just 600 Metres from Morjim Beach",
