@@ -26,6 +26,13 @@ export function generateStaticParams() {
   return getAllBlogs().map((post) => ({ slug: post.slug }))
 }
 
+// Preserve absolute http(s) URLs (e.g. Cloudinary) unchanged; only prefix the
+// site domain when the image path is genuinely relative.
+function toAbsoluteImageUrl(src: string): string {
+  if (/^https?:\/\//i.test(src)) return src
+  return `${siteConfig.domain}${src.startsWith("/") ? "" : "/"}${src}`
+}
+
 export async function generateMetadata({ params }: BlogPageProps): Promise<Metadata> {
   const { slug } = await params
   const post = getBlogBySlug(slug)
@@ -35,7 +42,7 @@ export async function generateMetadata({ params }: BlogPageProps): Promise<Metad
   }
 
   const url = `${siteConfig.domain}/blogs/${post.slug}`
-  const ogImage = `${siteConfig.domain}${post.coverImage}`
+  const ogImage = toAbsoluteImageUrl(post.coverImage)
 
   return {
     title: post.seo.metaTitle,
