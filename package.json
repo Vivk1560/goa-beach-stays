@@ -4,7 +4,8 @@
     "private": true,
     "scripts": {
         "dev": "next dev --webpack",
-        "build": "next build",
+        "validate:refs": "node scripts/validate-property-refs.mjs",
+        "build": "node scripts/validate-property-refs.mjs && next build",
         "start": "next start",
         "lint": "eslint ."
     },

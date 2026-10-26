@@ -86,7 +86,7 @@
             "casa-verdant-villa-candolim",
             "quinta-verde-villa-calangute",
             "amber-grove-villa-anjuna",
-            "sai-da-casa-beach-villa",
+            "sai-da-casa-beach-villa-morjim",
             "azuremere-villa-calangute"
         ]
   },
@@ -171,7 +171,7 @@
             "azuremere-villa-calangute",
             "miradouro-garden-cottages-dona-paula",
             "sunset-cove-cottages-palolem",
-            "sai-da-casa-beach-villa",
+            "sai-da-casa-beach-villa-morjim",
             "the-boutique-cottages-calangute",
             "casa-verdant-villa-candolim",
             "azure-palm-luxury-villa-anjuna-vagator"
@@ -350,7 +350,7 @@
       "casa-verdant-villa-candolim",
       "azuremere-villa-calangute",
       "amber-grove-villa-anjuna",
-      "sai-da-casa-beach-villa",
+      "sai-da-casa-beach-villa-morjim",
       "sunset-cove-cottages-palolem"
     ]
   },
@@ -692,7 +692,7 @@
     "manualStaySlugs": [
             "quinta-verde-villa-calangute",
             "casa-verdant-villa-candolim",
-            "sai-da-casa-beach-villa",
+            "sai-da-casa-beach-villa-morjim",
             "azure-palm-luxury-villa-anjuna-vagator",
             "casa-luma-villa-candolim",
             "azuremere-villa-calangute",
@@ -2637,7 +2637,7 @@
     "manualStaySlugs": [
             "quinta-verde-villa-calangute",
             "casa-verdant-villa-candolim",
-            "sai-da-casa-beach-villa",
+            "sai-da-casa-beach-villa-morjim",
             "deep-blue-sea-resort",
             "azure-palm-luxury-villa-anjuna-vagator",
             "casa-luma-villa-candolim",
@@ -3489,7 +3489,7 @@
             "quinta-verde-villa-calangute",
             "casa-luma-villa-candolim",
             "casa-verdant-villa-candolim",
-            "sai-da-casa-beach-villa",
+            "sai-da-casa-beach-villa-morjim",
             "amber-grove-villa-anjuna",
             "azuremere-villa-calangute",
             "citrine-grove-villa-arpora-baga"
